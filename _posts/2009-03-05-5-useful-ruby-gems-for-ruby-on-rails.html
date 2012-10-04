@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 159
+layout: post
+title: 5 useful Ruby gems for Ruby on Rails
+wordpress_url: http://www.aaronsumner.com/?p=159
+tags: [ Rails ]
+---
+<p><img src="http://www.aaronsumner.com/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg" alt="B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg" border="0" width="316" height="376" align="right" />To follow up on my list of <a href="http://www.aaronsumner.com/2009/03/5-useful-ruby-on-rails-plugins/">useful plugins for Ruby on Rails</a>, I'd like to share a few gems that make my Rails development work much easier.
+</p>
+<ol>
+<li><strong><a href="http://github.com/ryanb/nifty-generators/">nifty-generators</a>:</strong> The first thing I do in a project (after version control and the database) is run nifty-generators' useful duo of nifty_layouts, which yields a clean, ready-to-roll application.html.erb and corresponding CSS; and nifty_config, a simple way to control constants in the application. Then I use nifty_scaffold to create all my models/views/controllers. This gem was created by Ryan Bates of <a href="http://railscasts.com/">Railscasts</a> fame; I can't rave about it enough.</li>
+<li><strong><a href="http://github.com/mdarby/restful_acl/">mdarby-restful_acl</a>:</strong> My method of choice for adding access control layers (ACL) to my applications. I generally try to avoid roles-based mechanisms, in favor of a simpler "admins, users, and everyone else" approach. restful_acl, formerly a plugin and now a gem, handles this wonderfully. Version 2.0.2 is even easier to use. It works great with the restful-authentication plugin I mentioned the other day.</li>
+<li><strong><a href="http://github.com/mislav/will_paginate/">will_paginate</a>:</strong> The best way to paginate returned results in your #index views so they span over multiple pages; the defacto standard after pagination support was removed from Rails' core.</li>
+<li><strong><a href="http://github.com/mojombo/chronic/">chronic</a>:</strong> A natural language parser for Ruby. I've only used this one a few times but it will eventually make its way into other applications as I work my way through keeping them updated and current.</li>
+<li><strong><a href="http://railscasts.com/episodes/128-starling-and-workling">starling</a>:</strong> The simplest way I've found to run background processes in your apps, such as converting media files. I admit that I have a love-hate relationship with Starling, particularly running in tandem with the Workling plugin in production on an Ubuntu server, but once everything is set up properly it's just magic.</li>
+</ol>
+
+<p>Those are my current five--I use others here and there to help with the likes of Atom parsing, CSV generation, and so on, but the five above make their way into my apps more than any other.
+</p>

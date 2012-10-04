@@ -1,0 +1,94 @@
+body {
+	font-family: 'Karla', serif;
+	font-size: 16px;
+}
+
+@font-face {
+	font-family: 'Socialico';
+	src: url('Socialico.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+a {
+	color: #631111;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #993333;
+	text-decoration: underline;
+}
+
+#header {
+	margin: 0;
+	padding: 20px 0;
+	background-color: #000;
+}
+
+#blurb {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	font-size: 300%;
+	line-height: 125%;
+}
+
+#bio_short img {
+	float: right;
+	margin: 0 0 10px 10px;
+}
+
+#featured_projects div, #other_projects div {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+#featured_projects img {
+	float: right;
+}
+
+#rspec_book {
+	border: 1px solid #ccc;
+}
+
+#copyleft {
+	text-align:right;
+}
+
+#social_detail div {
+	margin-bottom: 20px;
+	font-size: 80%;
+	text-wrap: none;
+}
+
+.social_logo {
+	font-family: 'Socialico';
+	font-size: 300% !important;
+	vertical-align: middle;
+}
+
+.social_logo a:hover {
+	text-decoration: none;
+}
+
+#sidebar #social_detail {
+	margin-top: 40px !important;
+	text-align: center;
+}
+
+#content img {
+	margin: 10px;
+}
+
+#content .meta {
+	margin: 20px 0;
+}
+
+#footer {
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+
+#navigation a{
+	margin-right: 20px;
+}

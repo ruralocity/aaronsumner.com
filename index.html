@@ -1,0 +1,112 @@
+---
+title: Aaron Sumner
+layout: default
+---
+
+<div class="row">
+  <div id="blurb" class="span12">
+    Commentary on web development, instructional design, 
+    and life as I know it near Lawrence, Kansas.
+  </div>
+</div>
+
+<div class="row">
+  <div class="span6">
+    <div id="bio_short">
+      <h3>Introduction</h3>
+  
+      {% include bio.html %}
+    </div>
+  </div>
+  <div id="posts" class="span6">
+    <h3>Recent Posts</h3>
+    <ul>
+    {% for post in site.posts limit:5 %}
+      <li>
+        <h4>
+          {{ post.date | date: "%B %d, %Y"  }}
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+        <span class="tags">{{ post.tags | array_to_sentence_string }}</span>
+      </li>
+    {% endfor %}
+    </ul>
+    <div id="archives-link">
+      <a href="/archives.html" class="btn btn-primary">Lots more in the archives</a>
+    </div>
+  </div>
+</div>
+
+<div class="row" id="featured_projects">
+  <div class="span4">
+    <img src="images/rspec_book.jpg" alt="" id="rspec_book">
+    <strong><a href="http://leanpub.com/everydayrailsrspec">Everyday Rails Testing with RSpec</a></strong>
+    is my first book! Learn how to test your Rails applications the way I did,
+    by focusing on core technologies and readable tests that pass. 
+    Self-published in 2012 using Leanpub; 
+    <a href="http://leanpub.com/everydayrailsrspec">available now for 
+      only $9</a>.
+    Free update when Rails 4.0 is released!
+  </div>
+  <div class="span4">
+      <strong><a href="http://stratepedia.org/">Stratepedia</a></strong>,
+       a.k.a., my day job, makes useful technology for Strategic Instruction.
+        I'm now a solo Rubyist there and build data collection systems
+        tailored to education research projects. I used to contribute a 
+        great deal to an instructional technology blog there as well. (Oh, 
+        and I designed the logo.)
+  </div>
+  <div class="span4">
+    <img src="images/everyday_rails.png" alt="">
+    <strong><a href="http://everydayrails.com/">Everyday Rails</a></strong> 
+    is a blog for people who need to build stuff with Rails and get on to
+    their next project. I started it in 2010 to help beginner and intermediate
+    Rails developers be productive while still learning the ropes.
+  </div>
+</div>
+
+<div class="row" id="other_projects">
+  <div class="span3">
+    <strong><a href="http://www.soundrefound.com/">Sound Refound</a></strong> 
+    is an online gallery of promotional flyers for concerts. I've collected
+    these over the years, primarily in the Lawrence, Kansas, and Seattle,
+    Washington areas. This is a Rails 2.2 application hosted at Heroku; I
+    aim to rewrite it and give it a fresh face soon.
+  </div>
+  <div class="span3">
+    <strong><a href="http://spedelectric.com/">SPED Electric</a></strong>
+    is a WordPress-based exercise for a professor of Special Education. Still
+    in its infancy, but a good excuse to poke around at what's new in 
+    WordPress. I made the logo and adapted an available theme for the site.
+  </div>
+  <div class="span3">
+    <strong><a href="http://www.rockchalknation.com/">Rock Chalk Nation</a></strong> 
+    is a convenient collection of headlines from Kansas Jayhawks-related news sources. I made it to be useful to me;
+    perhaps you'll find it handy as well.
+  </div>
+  <div class="span3">
+    <strong><a href="http://www.kansasroadtrips.com/">Kansas Road Trips</a></strong> 
+    is a travel blog of sorts for anyone interested in exploring the nooks and crannies of the Sunflower State. Photography and logo by yours truly.
+  </div>
+</div>
+
+<div class="row" id="social_detail">
+  <div class="span2">
+    <span class="social_logo"><a href="http://twitter.com/ruralocity" title="Twitter">l</a></span><a href="http://twitter.com/ruralocity">ruralocity</a>
+  </div>
+  <div class="span2">
+    <span class="social_logo"><a href="http://flickr.com/photos/rockchalk" title="Flickr">n</a></span><a href="http://flickr.com/photos/rockchalk">rockchalk</a>
+  </div>
+  <div class="span2">
+        <span class="social_logo"><a href="http://github.com/ruralocity" title="Github">g</a></span><a href="http://github.com/ruralocity">ruralocity</a>
+  </div>
+  <div class="span2">
+        <span class="social_logo"><a href="http://linkedin.com/in/asumner" title="LinkedIn">i</a></span><a href="http://linkedin.com/in/asumner">asumner</a>
+  </div>
+  <div class="span2">
+    <span class="social_logo"><a href="http://gplus.to/ruralocity" title="Google+">1</a></span><a href="http://gplus.to/ruralocity">ruralocity</a>
+  </div>
+  <div class="span2">
+    <span class="social_logo"><a href="http://facebook.com/aaron.sumner" title="Facebook">f</a></span><a href="http://facebook.com/aaron.sumner">aaron.sumner</a>
+  </div>
+</div>
