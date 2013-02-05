@@ -15,6 +15,10 @@ a {
   text-decoration: underline;
 }
 
+ul li {
+  margin-bottom: 20px;
+}
+
 a:hover {
   color: #993333;
   text-decoration: none;
