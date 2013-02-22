@@ -34,11 +34,37 @@ a:hover {
   background-color: #000;
 }
 
-#blurb {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  font-size: 300%;
-  line-height: 125%;
+@media (max-width: 480px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 20px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 20px !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 980px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 20px !important;
+  }
 }
 
 #bio_short img {
