@@ -7,4 +7,5 @@ Built with
 
 - [Jekyll static site generator](https://github.com/mojombo/jekyll)
 - [Bootstrap front-end framework](http://twitter.github.com/bootstrap)
-- [Fontfabric social media icons pack](http://fontfabric.com/social-media-icons-pack/)
+- [Font Awesome](http://fortawesome.github.com/Font-Awesome/) (for social media icons except Flickr)
+- [Font Awesome More](http://gregoryloucas.github.com/Font-Awesome-More/) (for the Flickr social media icon)

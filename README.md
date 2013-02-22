@@ -1,4 +1,4 @@
-Source for my personal website, [aaronsumner.com](http://aaronsumner.com), 2012 edition. Social media icons by [Jelio Dimitrov](http://fontfabric.com/social-media-icons-pack/). Twitter Bootstrap by [Twitter Bootstrap](http://twitter.github.com/bootstrap). Also, [Jekyll](https://github.com/mojombo/jekyll).
+Source for my personal website, [aaronsumner.com](http://aaronsumner.com), 2012 edition. Social media icons by [Font Awesome](http://fortawesome.github.com/Font-Awesome/) and [Font Awesome More](http://gregoryloucas.github.com/Font-Awesome-More/). Twitter Bootstrap by [Twitter Bootstrap](http://twitter.github.com/bootstrap). Also, [Jekyll](https://github.com/mojombo/jekyll).
 
 All content [Creative Commons, Attribution, Non-commercial, Share-alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/us/).
 

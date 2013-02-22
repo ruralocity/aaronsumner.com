@@ -3,13 +3,6 @@ body {
   font-size: 16px;
 }
 
-@font-face {
-  font-family: 'Socialico';
-  src: url('Socialico.otf');
-  font-weight: normal;
-  font-style: normal;
-}
-
 a {
   color: #631111;
   text-decoration: underline;
@@ -95,9 +88,8 @@ a:hover {
   text-wrap: none;
 }
 
-.social_logo {
-  font-family: 'Socialico';
-  font-size: 300% !important;
+#social_detail i {
+  color: #631111 !important;
   vertical-align: middle;
 }
 
