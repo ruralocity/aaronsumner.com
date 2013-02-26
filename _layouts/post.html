@@ -6,19 +6,19 @@
       <h1>{{ page.title }}</h1>
 
       <div class="meta">
-        <strong>{{ page.date | date: "%B %d, %Y"  }}</strong> 
+        <strong>{{ page.date | date: "%B %d, %Y"  }}</strong>
         {{ page.tags | array_to_sentence_string }}
       </div>
-    
+
       {{ content }}
-    
+
       <h2>Comments</h2>
-    
+
   <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/aaronsumner/embed.js"></script><noscript><a href="http://disqus.com/forums/aaronsumner/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
 
     </div>
-  
-    <aside id="sidebar" class="span4">    
+
+    <aside id="sidebar" class="span4">
       <div>
         <h3>Recent Posts</h3>
         <ul>
@@ -30,14 +30,14 @@
         {% endfor %}
         </ul>
       </div>
-      
+
       <div id="social_detail">
-          <span class="social_logo"><a href="http://twitter.com/ruralocity" title="Twitter">l</a></span>
-          <span class="social_logo"><a href="http://flickr.com/photos/rockchalk" title="Flickr">n</a></span>
-          <span class="social_logo"><a href="http://github.com/ruralocity" title="Github">g</a></span>
-          <span class="social_logo"><a href="http://linkedin.com/in/asumner" title="LinkedIn">i</a></span>
-          <span class="social_logo"><a href="http://gplus.to/ruralocity" title="Google+">1</a></span>
-          <span class="social_logo"><a href="http://facebook.com/aaron.sumner" title="Facebook">f</a></span>
+        <a href="http://twitter.com/ruralocity"><i class="icon-twitter-sign icon-2x"></i></a>
+        <a href="http://flickr.com/photos/rockchalk"><i class="icon-flickr-sign icon-2x"></i></a>
+        <a href="http://github.com/ruralocity"><i class="icon-github-sign icon-2x"></i></a>
+        <a href="http://linkedin.com/in/asumner"><i class="icon-linkedin-sign icon-2x"></i></a>
+        <a href="http://gplus.to/ruralocity"><i class="icon-google-plus-sign icon-2x"></i></a>
+        <a href="http://facebook.com/aaron.sumner"><i class="icon-facebook-sign icon-2x"></i></a>
       </div>
     </aside>
   </div>
@@ -47,14 +47,14 @@
 <script type="text/javascript">
 //<![CDATA[
 (function() {
-	var links = document.getElementsByTagName('a');
-	var query = '?';
-	for(var i = 0; i < links.length; i++) {
-	if(links[i].href.indexOf('#disqus_thread') >= 0) {
-		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-	}
-	}
-	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/aaronsumner/get_num_replies.js' + query + '"></' + 'script>');
+  var links = document.getElementsByTagName('a');
+  var query = '?';
+  for(var i = 0; i < links.length; i++) {
+  if(links[i].href.indexOf('#disqus_thread') >= 0) {
+    query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+  }
+  }
+  document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/aaronsumner/get_num_replies.js' + query + '"></' + 'script>');
 })();
 //]]>
 </script>
