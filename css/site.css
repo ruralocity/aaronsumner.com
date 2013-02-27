@@ -27,38 +27,6 @@ a:hover {
   background-color: #000;
 }
 
-@media (max-width: 480px) {
-  body {
-    margin: 0;
-    padding: 0;
-  }
-
-  .container {
-    padding: 20px !important;
-  }
-}
-
-@media (max-width: 768px) {
-  body {
-    margin: 0;
-    padding: 0;
-  }
-
-  .container {
-    padding: 20px !important;
-  }
-}
-
-@media (min-width: 768px) and (max-width: 980px) {
-  body {
-    margin: 0;
-    padding: 0;
-  }
-
-  .container {
-    padding: 20px !important;
-  }
-}
 
 #bio_short img {
   float: right;
@@ -117,4 +85,42 @@ a:hover {
 
 #navigation a{
   margin-right: 20px;
+}
+
+@media (max-width: 480px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 20px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 20px !important;
+  }
+
+  #copyleft, #navigation {
+    margin-left, margin-right: auto;
+    text-align: center;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 980px) {
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    padding: 20px !important;
+  }
 }
