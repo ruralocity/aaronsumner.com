@@ -18,3 +18,7 @@ My first published gem; a Rails mountable engine to add a *contextual help* syst
 #### Leanpub sales data visualizer (January 2013)
 
 A spartan, personal utility application to create charts of sales data for my book, *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*. Mostly just useful to me. ([Summary](/2013/01/leanpub-sales-visualization), [Source](https://github.com/ruralocity/leanpub_analytics))
+
+#### Everyday Rails Testing with RSpec updates (February 2013)
+
+Some much-needed updates to [my self-published book on the RSpec test framework and Rails](https://leanpub.com/everydayrailsrspec), covering changes to the landscape that have occurred since last fall. ([Summary](/2013/03/rspec-book-updates-feb-2013))
