@@ -83,7 +83,7 @@ a:hover {
   margin-bottom: 40px;
 }
 
-#navigation a{
+#navigation a {
   margin-right: 20px;
 }
 
@@ -111,6 +111,10 @@ a:hover {
   #copyleft, #navigation {
     margin-left, margin-right: auto;
     text-align: center;
+  }
+
+  #navigation a {
+    margin-left, margin-right: 5px;
   }
 }
 
