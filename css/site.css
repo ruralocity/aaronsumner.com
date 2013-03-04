@@ -127,4 +127,8 @@ a:hover {
   .container {
     padding: 20px !important;
   }
+
+  #social_detail div {
+    font-size: 70%;
+  }
 }
