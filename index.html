@@ -14,7 +14,7 @@ layout: default
   <div id="posts" class="span6">
     <h3>Recent Posts</h3>
     <ul>
-    {% for post in site.posts limit:8 %}
+    {% for post in site.posts limit:10 %}
       <li>
           <a href="{{ post.url }}">{{ post.title }}</a>
           ({{ post.date | date: "%B %d, %Y"  }})
@@ -66,6 +66,8 @@ layout: default
     <strong><a href="http://www.rockchalknation.com/">Rock Chalk Nation</a></strong>
     is a convenient collection of headlines from Kansas Jayhawks-related news
     sources. I made it to be useful to me; perhaps you'll find it handy as well.
+    Mainly an exercise in how quickly I could get something like this built
+    (answer: about 30 minutes).
   </div>
   <div class="span3">
     <strong><a href="http://www.kansasroadtrips.com/">Kansas Road Trips</a></strong>
