@@ -11,7 +11,7 @@ Anyway, if you happen to see this and sign up for DirecTV, let me know your plan
 
 #### Public libraries
 
-I don't think the cool, cable-cutting kids like their public libraries, and that's a damn shame. I'll admit that I seldom considered the [Lawrence Public Library](http://lawrence.lib.ks.us/) before my country move, preferring the instantaneousness of Netflix--but again, that slow, capped Internet forced my hand. As it turns out, the LPL is a great resource to our community. In addition to being my first place to check for books and movies, they provide great meeting space for my local Meetups.
+I don't think the cool, cable-cutting kids like their public libraries, and that's a damn shame. I'll admit that I seldom considered the [Lawrence Public Library](http://www.lawrence.lib.ks.us) before my country move, preferring the instantaneousness of Netflix--but again, that slow, capped Internet forced my hand. As it turns out, the LPL is a great resource to our community. In addition to being my first place to check for books and movies, they provide great meeting space for my local Meetups.
 
 They've relocated to an abandoned Borders Bookstore during a massive remodeling, and I can honestly say I don't think I ever saw the place nearly as energetic as a Borders as I see it every time I walk into the "Free Borders" version currently housed there. I hope that when they move back to their regular location a new tenant can enter with the same energy.
 
