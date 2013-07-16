@@ -14,7 +14,7 @@ layout: default
   <div id="posts" class="span6">
     <h3>Recent Posts</h3>
     <ul>
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:7 %}
       <li>
           <a href="{{ post.url }}">{{ post.title }}</a>
           ({{ post.date | date: "%B %d, %Y"  }})
@@ -28,7 +28,7 @@ layout: default
 </div>
 
 <div class="row" id="featured_projects">
-  <div class="span4">
+  <div class="span6">
     <img src="images/rspec_book.jpg" alt="" id="rspec_book">
     <strong><a href="http://leanpub.com/everydayrailsrspec">Everyday Rails Testing with RSpec</a></strong>
     is my first book! Learn how to test your Rails applications the way I did,
@@ -36,17 +36,9 @@ layout: default
     Self-published in 2012 using Leanpub;
     <a href="http://leanpub.com/everydayrailsrspec">available now for
       only $9</a>.
-    Free update when Rails 4.0 is released!
+    Free update for Rails 4.0 in the works!
   </div>
-  <div class="span4">
-      <strong><a href="http://stratepedia.org/">Stratepedia</a></strong>,
-       a.k.a., my day job, makes useful technology for Strategic Instruction.
-        I'm now a solo Rubyist there and build data collection systems
-        tailored to education research projects. I used to contribute a
-        great deal to an instructional technology blog there as well. (Oh,
-        and I designed the logo.)
-  </div>
-  <div class="span4">
+  <div class="span6">
     <img src="images/everyday_rails.png" alt="">
     <strong><a href="http://everydayrails.com/">Everyday Rails</a></strong>
     is a blog for people who need to build stuff with Rails and get on to
