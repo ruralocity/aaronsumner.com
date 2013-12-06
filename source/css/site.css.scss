@@ -1,0 +1,55 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+a {
+  color: #631111;
+
+  &:hover {
+    color: #993333;
+    text-decoration: none;
+  }
+}
+
+#content {
+  font-size: 16px;
+  a {
+    text-decoration: underline;
+  }
+}
+
+#social {
+  padding-top: 25px;
+
+  a:hover {
+    background: none;
+  }
+}
+
+.project {
+  margin-bottom: 50px;
+
+  a {
+    font-weight: bold;
+  }
+
+  img {
+    float: right;
+    margin: 0 0 5px 5px;
+  }
+}
+
+.project-featured {
+  font-size: 125%;
+}
+
+#bio {
+  img {
+    float: right;
+    margin: 0 0 5px 5px;
+  }
+}
+
+footer {
+  margin-bottom: 50px;
+}
