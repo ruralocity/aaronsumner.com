@@ -1,0 +1,16 @@
+---
+title: Archives
+---
+
+<ul>
+  <% blog.articles.each do |article| %>
+    <li>
+      <article>
+        <h4>
+          <a href="<%= article.url %>"><%= article.title %></a>
+          <time>(<%= article.date.strftime('%B %e, %Y') %>)</time>
+        </h4>
+      </article>
+    </li>
+  <% end %>
+</ul>

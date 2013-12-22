@@ -2,6 +2,10 @@ body {
   font-family: 'Source Sans Pro', sans-serif;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
 a {
   color: #631111;
 
@@ -52,4 +56,8 @@ a {
 
 footer {
   margin-bottom: 50px;
+}
+
+time {
+  font-style: italic;
 }

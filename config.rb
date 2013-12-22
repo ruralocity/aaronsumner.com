@@ -72,3 +72,9 @@ configure :build do
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
 end
+
+activate :blog do |blog|
+  blog.prefix = "posts"
+  blog.permalink = ":year/:title.html"
+  blog.layout = "page"
+end

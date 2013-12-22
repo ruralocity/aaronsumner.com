@@ -41,31 +41,50 @@ title: Aaron Sumner
 
 <hr />
 
-<div id="bio">
-  <img src="/images/mug2013.png" alt="" />
+<div class="row">
+  <div class="col-md-6">
+    <h3>Posts</h3>
+    <ul>
+      <% blog.articles[0...5].each do |article| %>
+        <li>
+          <h4>
+            <a href="<%= article.url %>"><%= article.title %></a>
+            <time>(<%= article.date.strftime('%B %e, %Y') %>)</time>
+          </h4>
+        </li>
+      <% end %>
+    </ul>
+  </div>
 
-  <p>
-    My name is Aaron Sumner, of Lawrence, Kansas, USA; by way of Seattle,
-    Washington, and Jersey County, Illinois.
-  </p>
+  <div id="bio" class="col-md-6">
+    <h3>Bio</h3>
 
-  <p>
-    I'm a long-time web developer, at it since 1994 when I began creating some
-    of the very first departmental and organizational websites as an
-    undergraduate at the University of Kansas. Over the years I've worked my
-    way through static HTML to Applescript (yes, Applescript) to Perl to PHP to
-    Ruby. Since 2005 I've worked mostly with Ruby and Rails, with a dose of
-    Javascript and helping of Python.
-  </p>
+    <img src="/images/mug2013.png" alt="" />
 
-  <p>
-    I'm employed at <a href="http://oreilly.com/">O'Reilly Media</a> and
-    <a href="http://programming.oreilly.com/asumner">write there sometimes</a>,
-    too. Maybe you should
-    <a href="http://hire.jobvite.com/Jobvite/Jobvite.aspx?m=nQUf4nwV">come work with me</a>.
-  </p>
+    <p>
+      My name is Aaron Sumner, of Lawrence, Kansas, USA; by way of Seattle,
+      Washington, and Jersey County, Illinois.
+    </p>
 
-  <p>
-    I still learn new things every day. Sometimes I share them here.
-  </p>
+    <p>
+      I'm a long-time web developer, at it since 1994 when I began creating some
+      of the very first departmental and organizational websites as an
+      undergraduate at the University of Kansas. Over the years I've worked my
+      way through static HTML to Applescript (yes, Applescript) to Perl to PHP to
+      Ruby. Since 2005 I've worked mostly with Ruby and Rails, with a dose of
+      Javascript and helping of Python.
+    </p>
+
+    <p>
+      I'm employed at <a href="http://oreilly.com/">O'Reilly Media</a> and
+      <a href="http://programming.oreilly.com/asumner">write there sometimes</a>,
+      too. Maybe you should
+      <a href="http://hire.jobvite.com/Jobvite/Jobvite.aspx?m=nQUf4nwV">come work with me</a>.
+    </p>
+
+    <p>
+      I still learn new things every day. Sometimes I share them here.
+    </p>
+  </div>
 </div>
+
