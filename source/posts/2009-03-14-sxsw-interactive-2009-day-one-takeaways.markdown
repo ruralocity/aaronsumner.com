@@ -1,0 +1,17 @@
+--- 
+wordpress_id: 175
+date: 2009-03-14
+layout: page
+title: "SXSW Interactive 2009: Day One Takeaways"
+wordpress_url: http://www.aaronsumner.com/?p=175
+tags: [ "SXSW 2009", "Web Development" ]
+---
+For me, anyway, Day One of SXSW Interactive 2009 is in the books. This was kind of a light day since most of the attendees were still checking in, but I'm already wiped out. I've been <a href="http://twitter.com/ruralocity">posting <em>very</em> frequently throughout the day on Twitter</a>, but here's a distilled version of what I'm taking away from the Friday sessions.
+
+I kicked off the afternoon with a session on "selling social media to The Man." Many decision-makers at my workplace are only beginning to grasp the power and importance of social media, and I was hoping to glean a few nuggets of wisdom to help me make my case. I got a few ideas to take back to Lawrence--such as befriending the curmudgeons, listen to the problems they are looking to address, and offer solutions to those problems (hopefully, I can presume, involving social media). By and large, though, it was evident that profit is the bottom line. Show how your company can profit from social media and you'll convince The Man. As someone who doesn't work for The Man, I left this session feeling like the only way to do the work I want to do is to become corporate.
+
+At the end of the day I attended "Consider Making Yourself More Interesting," a panel discussion between five entrepreneurs who have found ways to make money doing things they enjoy. The gist: What would happen if your brand or product went away? If the answer is "nothing"--that is, nobody would notice or care--you've got problems. The big way to work past this is to Do Epic Shit: Think about sustainability and long-term goals. Some other advice from this session: Cherish the work done by others and learn from it; give your side projects plenty of "front and center time" (a practice I've been advocating at CRL for a few years); share what you learn and create and generate more value than you consume; and, ultimately, do what you enjoy. Share it, and you'll find like minds with whom to collaborate. (This echoes the comments of <a href="http://www.aaronsumner.com/2009/03/recap-of-sir-ken-robinsons-talk-in-omaha/">Sir Ken Robinson</a> in Omaha a few weeks ago.) Be brave. Measure metrics that matter to you--<em>this</em> was a welcome departure from the earlier session, in which dollars were ultimately the only measure of success. "Quantify love" was the advice of a few panelists who, while perhaps not zillionaires, have found a way to make a good living (and gain a little fame, if that matters to you) by doing things they find interesting and sharing those things with the world.
+
+I'm hoping for more sessions like the second than the first from here on out--I've become jaded and disillusioned enough and could use more breaths of fresh air like this one.
+
+Anyway, the most interesting thing I observed this afternoon was the pervasiveness of Twitter. Almost everyone had Twitter clients open before, during, and between sessions. It was the live blogging platform of choice, with hundreds (if not thousands) of posts marked with #sxswi throughout the afternoon. What's more, Twitter was used by panel moderators to solicit questions from the audience, via a pre-defined hash tag. (Hint: Tweetdeck makes this much easier to track.) I've probably been newly followed by 20 people from my tweets today. Anyone who tells you Twitter isn't a viable communication tool hasn't been paying attention.

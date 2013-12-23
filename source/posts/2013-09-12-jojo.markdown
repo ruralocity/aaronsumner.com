@@ -1,0 +1,7 @@
+---
+date: 2013-09-12
+layout: page
+title: "Picture of the day: Jojo"
+---
+
+<a href="http://www.flickr.com/photos/rockchalk/9733734358/" title="Jojo the Dog by ruralocity, on Flickr"><img src="http://farm8.staticflickr.com/7345/9733734358_4bf7297196_c.jpg" width="800" height="800" alt="Jojo the Dog"></a>

@@ -1,0 +1,17 @@
+---
+date: 2013-04-12
+layout: page
+title: "3 picks for April 12, 2013"
+---
+
+#### [Hacker Newsletter](http://www.hackernewsletter.com)
+
+Love Hacker News for the news, but hate the commentary and drama that comes with it? Kale Davis curates the best content from the past week and shares it with you in a convenient email newsletter format.
+
+#### [Giant Robots Smashing into Other Giant Robots](http://learn.thoughtbot.com/podcast)
+
+I moved to the country almost two years ago, and as such now have a daily, roundtrip commute of about 40 minutes. I try to spend this time productively, listening to podcasts to increase particular skills or my general overall awareness of things. This is my favorite Ruby-related program, produced weekly by Ben Orenstein at thoughtbot.
+
+#### [Guided By Voices: The Bears for Lunch](http://www.amazon.com/gp/product/B009G8GIGW/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009G8GIGW&linkCode=as2&tag=everrail-20)
+
+The latest album from a resurgent GBV came out last fall, but I didn't begin listening to it in earnest until a few weeks ago. My favorite so far from the reformed classic lineup, especially "She Lives in an Airport" and "The Challenge Is Much More."

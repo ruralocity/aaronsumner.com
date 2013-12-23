@@ -1,0 +1,7 @@
+---
+date: 2013-09-21
+layout: page
+title: "Picture of the day: Roar"
+---
+
+<a href="http://www.flickr.com/photos/rockchalk/9864830606/" title="Roar by ruralocity, on Flickr"><img src="http://farm6.staticflickr.com/5335/9864830606_0048cd55a9_c.jpg" width="800" height="800" alt="Roar"></a>
