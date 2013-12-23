@@ -17,3 +17,4 @@ end
 
 # Blogging
 gem "middleman-blog"
+gem "builder"
