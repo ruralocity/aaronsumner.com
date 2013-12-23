@@ -17,14 +17,22 @@ a {
 
 #content {
   font-size: 16px;
+  line-height: 22px;
   a {
     text-decoration: underline;
+  }
+
+  h1 {
+    margin-bottom: 20px;
+  }
+
+  p, li {
+    margin-bottom: 20px;
   }
 }
 
 #social {
-  padding-top: 25px;
-
+  margin-left: -14px;
   a:hover {
     background: none;
   }
@@ -44,7 +52,8 @@ a {
 }
 
 .project-featured {
-  font-size: 125%;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 #bio {

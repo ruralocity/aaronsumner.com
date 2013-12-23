@@ -1,8 +1,6 @@
 <% wrap_layout :layout do %>
   <h1><%= current_page.data.title || "Title T.K." %></h1>
   <%= yield %>
-
-
   <% if current_page.data.date %>
     <time><%= current_page.data.date.to_datetime.strftime('%B %e, %Y')  %></time>
   <% end %>

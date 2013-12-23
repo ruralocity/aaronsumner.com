@@ -1,5 +1,5 @@
 ---
-title: Aaron Sumner
+title: Home
 ---
 
 <div id="projects">
@@ -23,18 +23,14 @@ title: Aaron Sumner
   </div>
 
   <div class="row">
-    <div class="project col-md-3">
+    <div class="project col-md-4">
       <a href="http://soundrefound.com/">Sound Refound</a> is an online gallery of promotional flyers for concerts. I've collected these over the years, primarily in the Lawrence, Kansas, and Seattle, Washington areas.
     </div>
-    <div class="project col-md-3">
+    <div class="project col-md-4">
       <a href="http://rockchalknation.com/">Rock Chalk Nation</a> is a convenient collection of headlines from Kansas Jayhawks-related news sources. I made it to be useful to me; perhaps you'll find it handy as well. Mainly an exercise in how quickly I could get something like this built (answer: about 30 minutes).
     </div>
-    <div class="project col-md-3">
+    <div class="project col-md-4">
       <a href="http://kansasroadtrips.com/">Kansas Road Trips</a> is a travel blog of sorts for anyone interested in exploring the nooks and crannies of the Sunflower State. Photography and logo by yours truly.
-    </div>
-
-    <div class="project col-md-3">
-      The <a href="/pages/projects.html">Project a Month Project</a> is a personal endeavor to release something new to to world every month, maybe learning something in the process.
     </div>
   </div>
 </div>
@@ -43,21 +39,23 @@ title: Aaron Sumner
 
 <div class="row">
   <div class="col-md-6">
-    <h3>Posts</h3>
+    <h3>Recent posts</h3>
     <ul>
-      <% blog.articles[0...5].each do |article| %>
+      <% blog.articles[0...8].each do |article| %>
         <li>
-          <h4>
-            <a href="<%= article.url %>"><%= article.title %></a>
-            <time>(<%= article.date.strftime('%B %e, %Y') %>)</time>
-          </h4>
+          <a href="<%= article.url %>"><%= article.title %></a>
+          <time>(<%= article.date.strftime('%B %e, %Y') %>)</time>
         </li>
       <% end %>
     </ul>
+
+    <p>
+      <a href="/pages/archives.html">Hit the archives</a>
+    </p>
   </div>
 
   <div id="bio" class="col-md-6">
-    <h3>Bio</h3>
+    <h3>Biography</h3>
 
     <img src="/images/mug2013.png" alt="" />
 
