@@ -9,7 +9,7 @@ tags: [ "Creativity", "Entrepreneurship", "Work" ]
 
 I’m a big fan of Scott Berkun’s work. His book *The Myths of
 Innovation*, was a [favorite read of mine from last
-year](/2010/11/myths-of-innovation-berkun/). If
+year](/posts/2010/11/myths-of-innovation-berkun.html). If
 you’ve read that book and want reinforcement of the practices it
 suggests, or are looking for a video alternative, this O’Reilly Master
 class video may be a good pick. It’s a recording of Berkun leading a

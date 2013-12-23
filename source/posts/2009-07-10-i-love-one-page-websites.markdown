@@ -1,5 +1,5 @@
 ---
- 
+
 
 date: 2009-07-10
 layout: page
@@ -14,7 +14,7 @@ a site redesign I put together over the course of a couple of hours
 between yesterday and today: A new look for [Stratepedia's hub
 site](http://stratepedia.org/). I do this about once a year ([here's
 last year's
-model](/2008/08/yesterdays-project-new-look-for-stratepediaorg/)).
+model](/posts/2008/08/yesterdays-project-new-look-for-stratepediaorg.html)).
 One page, with a focus on moving people on to the tools they actually
 want to use. It's also going to afford more room for growth than the
 last one did, in terms of having room to link to major new products and

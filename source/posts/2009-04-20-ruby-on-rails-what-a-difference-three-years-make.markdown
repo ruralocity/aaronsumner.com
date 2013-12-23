@@ -1,5 +1,5 @@
 ---
- 
+
 
 date: 2009-04-20
 layout: page
@@ -21,7 +21,7 @@ come to mind:
     you're developing Rails apps and you've accepted a REST-based
     architecture into your workflow, especially when using gems I've
     [mentioned in the
-    past](/2009/03/5-useful-ruby-gems-for-ruby-on-rails/)
+    past](/posts/2009/03/5-useful-ruby-gems-for-ruby-on-rails.html)
     like restful\_acl and nifty\_generators. Before Rails, work I did in
     PHP that took a day now took a couple of hours in 2006. Now it takes
     about 30 minutes. If you still haven't quite figured out why REST is
