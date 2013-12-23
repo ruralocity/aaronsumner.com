@@ -6,22 +6,22 @@ In December of 2012, [I announced my Project a Month Project](/2012/12/project-a
 
 #### Sound Refound (November 2012)
 
-A Rails 3.2-plus-Twitter Bootstrap overhaul of an old gallery site I'd created. ([Sound Refound](http://soundrefound.com/), [summary](/2012/12/sound-refound-redux/), [source](https://github.com/ruralocity/soundrefound))
+A Rails 3.2-plus-Twitter Bootstrap overhaul of an old gallery site I'd created. ([Sound Refound](http://soundrefound.com/), [summary](/posts/2012/12/sound-refound-redux.html), [source](https://github.com/ruralocity/soundrefound))
 
 #### Docent (December 2012)
 
 My first published gem; a Rails mountable engine to add a *contextual help* system to a Rails application. Mostly a proof-of-concept and excuse to experiment with mountable engines. ([Docent](http://rubygems.org/gems/docent),
-[Summary](/2012/12/docent-gem.markdown),
+[Summary](/posts/2012/12/docent-gem.html),
 [Source](https://github.com/ruralocity/docent))
 
 #### Leanpub sales data visualizer (January 2013)
 
-A spartan, personal utility application to create charts of sales data for my book, *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*. Mostly just useful to me. ([Summary](/2013/01/leanpub-sales-visualization), [Source](https://github.com/ruralocity/leanpub_analytics))
+A spartan, personal utility application to create charts of sales data for my book, *[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)*. Mostly just useful to me. ([Summary](/posts/2013/01/leanpub-sales-visualization.html), [Source](https://github.com/ruralocity/leanpub_analytics))
 
 #### Everyday Rails Testing with RSpec updates (February 2013)
 
-Some much-needed updates to [my self-published book on the RSpec test framework and Rails](https://leanpub.com/everydayrailsrspec), covering changes to the landscape that have occurred since last fall. ([Summary](/2013/03/rspec-book-updates-feb-2013))
+Some much-needed updates to [my self-published book on the RSpec test framework and Rails](https://leanpub.com/everydayrailsrspec), covering changes to the landscape that have occurred since last fall. ([Summary](/posts/2013/03/rspec-book-updates-feb-2013.html))
 
 #### Wall cabinet (September 2013)
 
-Going analog and adding a little storage to my barn. ([Summary](/2013/09/wall-cabinet))
+Going analog and adding a little storage to my barn. ([Summary](/posts/2013/09/wall-cabinet.html))
