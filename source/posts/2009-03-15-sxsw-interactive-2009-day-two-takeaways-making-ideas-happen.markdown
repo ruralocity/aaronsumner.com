@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 183
+
 date: 2009-03-15
 layout: page
 title: "SXSW Interactive 2009 Day Two Takeaways: Making Ideas Happen"
-wordpress_url: http://www.aaronsumner.com/?p=183
+
 tags: [ "SXSW 2009", "Web Development", Creativity ]
 ---
 I'm a little bit behind on my synthesis of <a href="http://twitter.com/ruralocity">tweets from SXSW Interactive 2009</a>. Here is the first of a series from my Saturday sessions--I'll type up the others as I find pockets of time throughout the day.

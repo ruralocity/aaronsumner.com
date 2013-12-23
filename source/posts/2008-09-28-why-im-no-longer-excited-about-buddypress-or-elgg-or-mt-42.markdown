@@ -1,12 +1,12 @@
 --- 
-wordpress_id: 89
+
 date: 2008-09-28
 layout: page
 title: Why I'm no longer excited about BuddyPress (or Elgg, or MT 4.2)
-wordpress_url: http://www.aaronsumner.com/?p=89
+
 tags: [ WordPress, "Web Development" ]
 ---
-I know, I know: A few weeks back I was <a href="http://www.aaronsumner.com/2008/08/why-im-excited-about-buddypress/">all jazzed up about the BuddyPress project</a>. Well, I'm not anymore. I'm also not too enthused about the new socially-aware MovableType, or Elgg, or PhpFox, or any of the off-the-shelf, "white label" social network platforms. (I'm also not too hot on Ning.)
+I know, I know: A few weeks back I was <a href="/2008/08/why-im-excited-about-buddypress/">all jazzed up about the BuddyPress project</a>. Well, I'm not anymore. I'm also not too enthused about the new socially-aware MovableType, or Elgg, or PhpFox, or any of the off-the-shelf, "white label" social network platforms. (I'm also not too hot on Ning.)
 
 Want to know why?
 

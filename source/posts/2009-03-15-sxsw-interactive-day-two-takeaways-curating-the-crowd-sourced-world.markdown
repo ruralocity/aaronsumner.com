@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 187
+
 date: 2009-03-15
 layout: page
 title: "SXSW Interactive 2009 Day Two Takeaways: Curating the Crowd-sourced World"
-wordpress_url: http://www.aaronsumner.com/?p=187
+
 tags: [ "SXSW 2009", "Web Development", Community ]
 ---
 My notes on <strong>Curating the Crowd-sourced World</strong> aren't as in-depth as others I've taken. The panelists, by and large, came from the arts, so I'm trying to apply what they discussed to my world (focusing more on education). Here are my takeaways, this time in bullet form for convenience:

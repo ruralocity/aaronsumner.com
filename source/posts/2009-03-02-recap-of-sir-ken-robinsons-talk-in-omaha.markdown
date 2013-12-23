@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 134
+
 date: 2009-03-02
 layout: page
 title: Recap of Sir Ken Robinson's talk in Omaha
-wordpress_url: http://www.aaronsumner.com/?p=134
+
 tags: [ Education ]
 ---
 I'm back after a weekend flurry of travels that saw me in five states in two days. (OK, four days in all, but I hit them all in the first two.) <a href="http://www.sirkenrobinson.com/">Sir Ken Robinson</a>'s talk at <a href="http://thekaneko.org/">the Kaneko</a> in Omaha kicked off my long weekend, and I'd like to share a few things about it now.

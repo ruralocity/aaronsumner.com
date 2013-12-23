@@ -8,7 +8,7 @@ tags: [ "Roku" ]
 ---
 
 After a [little bit of thinking about media
-centers](http://www.aaronsumner.com/2010/03/requiem-for-an-apple-tv)
+centers](/2010/03/requiem-for-an-apple-tv)
 last week following the death of my Apple TV, I wound up buying a [Roku
 HD Player](http://www.roku.com/). It can do the three things I was most
 interested in (stream Netflix, stream MLB.TV, stream music)~~~~and is

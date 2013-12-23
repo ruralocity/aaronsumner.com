@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 127
+
 date: 2009-02-26
 layout: page
 title: Sir Ken Robinson in Omaha today!
-wordpress_url: http://www.aaronsumner.com/?p=127
+
 tags: [ Education, Travel ]
 ---
 It used to be I'd take road trips to Omaha to see Guided by Voices or Bob Mould. Nowadays I drive up there to see <a href="http://www.thekaneko.org/events/kenrobinson/index.html">Sir Ken Robinson</a>, he of possibly the all-time best TED presentation, lecture on his newest book <em>The Element.</em>

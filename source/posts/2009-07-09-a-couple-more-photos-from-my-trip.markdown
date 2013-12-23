@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 376
+
 date: 2009-07-09
 layout: page
 title: A couple more photos from my trip
-wordpress_url: http://www.aaronsumner.com/?p=376
+
 tags: [ Photography, Travel ]
 ---
 As I get back into the swing of things, I figured I'd take a break to share a few more photos with you. These are from <a href="http://www.michigandnr.com/publications/pdfs/wildlife/viewingguide/up/22Menominee/index.htm">Piers Gorge</a> in Michigan. A trail winds its way uphill along the Menominee River, past a number of rapids.

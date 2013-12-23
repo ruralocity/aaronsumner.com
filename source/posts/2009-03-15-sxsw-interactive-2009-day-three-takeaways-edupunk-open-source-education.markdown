@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 197
+
 date: 2009-03-15
 layout: page
 title: "SXSW Interactive 2009 Day Three Takeaways: Edupunk: Open Source Education"
-wordpress_url: http://www.aaronsumner.com/?p=197
+
 tags: [ "SXSW 2009", "Web Development", Education ]
 ---
 "Edupunk is about how teaching and learning technologies can transform education." It was pretty much all downhill from there for <strong>Edupunk: Open Source Education</strong>. The long and short of it: Existing, corporately-created learning management systems make it too easy to shovel content online and institutionalize education. These systems make education transactional, not relational--the current model is "oppressive."

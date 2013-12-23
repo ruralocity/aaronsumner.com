@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 424
+
 date: 2009-08-20
 layout: page
 title: Awesome tweets from _why
-wordpress_url: http://www.aaronsumner.com/?p=424
+
 tags: [ Rails ]
 ---
 OK, I don't want to canonize the dude too much, but these tweets from &#95;why are too great to not share, especially the first two.

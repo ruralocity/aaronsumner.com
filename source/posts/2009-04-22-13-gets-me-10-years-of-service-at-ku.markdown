@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 294
+
 date: 2009-04-22
 layout: page
 title: 13 gets me 10 (years of service at KU)
-wordpress_url: http://www.aaronsumner.com/?p=294
+
 tags: [ Work ]
 ---
 Today I got a form letter from Chancellor Bob telling me that my five-year service award will be given to me next month. It's actually taken 13 years due to my six-month stint at KU Med and two-and-a-half years at the University of Washington.

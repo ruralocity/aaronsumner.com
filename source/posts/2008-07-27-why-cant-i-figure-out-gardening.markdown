@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 52
+
 date: 2008-07-27
 layout: page
 title: Why can't I figure out gardening?
-wordpress_url: http://www.aaronsumner.com/?p=52
+
 tags: [ Lawrence, Gardening ]
 ---
 I live on top of some of the most fertile soil in Lawrence, if not all of Kansas. (Sure, it floods every 500 years, but what are the odds <em>this</em> is one of those years?) The former owner of my little homestead was a master gardener, and every square inch of this place was once covered with colorful blooms and broad, green leaves.

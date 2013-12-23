@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 76
+
 date: 2008-08-16
 layout: page
 title: Why I'm excited about BuddyPress
-wordpress_url: http://www.aaronsumner.com/?p=76
+
 tags: [ WordPress ]
 ---
 I'd heard about Automattic's plan for a WordPress-derived social network app called <a href="http://buddypress.org/">BuddyPress</a> a little while back, then promptly forgot about it until a few days ago. <a href="http://www.readwriteweb.com/archives/the_next_social_networks_powered_by_wordpress_movable_type.php">Sarah Perez's ReadWriteWeb article on social engines from Automattic and Six Apart</a> gave me reason to revisit the project. It's still raw, but it shows promise. For one thing, I like the notion that, in theory, I could move content from existing WordPress blogs over into BuddyPress when the time came. But the big reason? It's plugin-based. If you use it to power your social site, you can pick and choose the functions you want, and hypothetically add more as they're developed. It's also based on a relatively widespread platform--as much as WordPress annoys me at times, nine times out of ten when I've wanted to make it do something it doesn't do out of the box I've found either a decent plugin or a workaround.

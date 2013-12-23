@@ -1,10 +1,10 @@
 ---
  
-wordpress_id: 328
+
 date: 2009-06-03
 layout: page
 title: "My current obsession: Ugly things on the grill"
-wordpress_url: http://www.aaronsumner.com/?p=328
+
 tags: [ Cooking ]
 
 ---

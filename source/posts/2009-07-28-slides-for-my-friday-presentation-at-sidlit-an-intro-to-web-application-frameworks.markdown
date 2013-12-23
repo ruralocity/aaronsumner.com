@@ -1,10 +1,10 @@
 ---
  
-wordpress_id: 396
+
 date: 2009-07-28
 layout: page
 title: "Slides for my Friday presentation at SIDLIT: An intro to web application frameworks"
-wordpress_url: http://www.aaronsumner.com/?p=396
+
 tags: [ Presentations, "SIDLIT 2009" ]
 
 ---

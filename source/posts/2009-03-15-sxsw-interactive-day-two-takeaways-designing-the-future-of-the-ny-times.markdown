@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 193
+
 date: 2009-03-15
 layout: page
 title: "SXSW Interactive 2009 Day Two Takeaways: Designing the Future of the NY Times"
-wordpress_url: http://www.aaronsumner.com/?p=193
+
 tags: [ "SXSW 2009", "Web Development", Publishing ]
 ---
 This one was a dud, I'm sad to say. During <strong>Designing the Future of the New York Times</strong>, Tom Bodkin and Khoi Vinh showed off their respective work in print and online (again, respectively) and then debated which one was better. The only real takeaways are that:

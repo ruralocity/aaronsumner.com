@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 340
+
 date: 2009-06-19
 layout: page
 title: "My whirlwind tour of Kansas: A slideshow"
-wordpress_url: http://www.aaronsumner.com/?p=340
+
 tags: [ Kansas, Photography ]
 ---
 <p><a href="http://www.flickr.com/photos/rockchalk/3637638353/" title="Monument Rocks by ruralocity, on Flickr"><img src="http://farm3.static.flickr.com/2479/3637638353_9f271f0afd.jpg" width="500" height="333" alt="Monument Rocks" /></a>

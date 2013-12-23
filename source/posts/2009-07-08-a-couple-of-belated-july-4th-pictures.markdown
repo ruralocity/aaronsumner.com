@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 373
+
 date: 2009-07-08
 layout: page
 title: A couple of belated July 4th pictures
-wordpress_url: http://www.aaronsumner.com/?p=373
+
 tags: [ Photography, Travel ]
 ---
 I've been away for a week and have let my <a href="http://delicious.com/stratepedia">Delicious activity</a> do my talking both here and on the <a href="http://hello.stratepedia.org/">work blog</a>. I've got 700 photos to root through but here are a few teasers, from a Slice-of-America July 4th parade in Iron Mountain, Michigan.

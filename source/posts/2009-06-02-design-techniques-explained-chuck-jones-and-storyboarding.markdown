@@ -1,15 +1,15 @@
 ---
  
-wordpress_id: 319
+
 date: 2009-06-02
 layout: page
 title: "Design techniques explained: Chuck Jones and storyboarding"
-wordpress_url: http://www.aaronsumner.com/?p=319
+
 tags: [ "Instructional Design" ]
 
 ---
 
-![37FED29F-A111-4A34-8C14-278F02AC98FA.jpg](http://www.aaronsumner.com/uploads/2009/06/37fed29f-a111-4a34-8c14-278f02ac98fa.jpg)Allow
+![37FED29F-A111-4A34-8C14-278F02AC98FA.jpg](/uploads/2009/06/37fed29f-a111-4a34-8c14-278f02ac98fa.jpg)Allow
 me to put on my (information/instructional) designer hat for a moment.
 Tonight I watched an excellent film called [*Chuck Jones: Extremes and
 In-Betweens, a Life in

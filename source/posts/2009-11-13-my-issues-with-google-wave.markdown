@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 430
+
 date: 2009-11-13
 layout: page
 title: My issues with Google Wave
-wordpress_url: http://www.aaronsumner.com/?p=430
+
 tags: [ "Web Development", "Google Wave" ]
 ---
 So I've had my <a href="http://wave.google.com/">Google Wave</a> account for at least a month now. So far I'm underwhelmed. Part of me thinks it's just me, and that I've reached that point in my life when new technology confuses and frightens me; but the other part of me thinks I'm just the only one who's willing to admit there are a lot of features in this application that are either half-baked or flat-out don't make sense. So here's my list of gripes:

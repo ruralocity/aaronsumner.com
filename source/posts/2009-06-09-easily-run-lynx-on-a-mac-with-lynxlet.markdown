@@ -1,15 +1,15 @@
 ---
  
-wordpress_id: 333
+
 date: 2009-06-09
 layout: page
 title: Easily run Lynx on a Mac with Lynxlet
-wordpress_url: http://www.aaronsumner.com/?p=333
+
 tags: [ Macintosh, "Web Development" ]
 
 ---
 
-![TerminalScreenSnapz001.jpg](http://www.aaronsumner.com/uploads/2009/06/terminalscreensnapz001.jpg)Who
+![TerminalScreenSnapz001.jpg](/uploads/2009/06/terminalscreensnapz001.jpg)Who
 needs Safari 4 or Firefox 3.5?Besides Wilt Chamberlain and Paul Rudd, my
 alma mater's greatest contribution to the world is probably
 [Lynx](http://en.wikipedia.org/wiki/Lynx_(web_browser)), a text-only web

@@ -1,10 +1,10 @@
 ---
  
-wordpress_id: 191
+
 date: 2009-03-15
 layout: page
 title: "SXSW Interactive 2009 Day Two Takeaways: Feed Me: Bite-size Info for a Hungry Internet"
-wordpress_url: http://www.aaronsumner.com/?p=191
+
 tags: [ "SXSW 2009", "Web Development" ]
 
 ---

@@ -1,20 +1,20 @@
 ---
  
-wordpress_id: 380
+
 date: 2009-07-10
 layout: page
 title: I love one-page websites.
-wordpress_url: http://www.aaronsumner.com/?p=380
+
 tags: [ Portfolio, "Web Development" ]
 
 ---
 
-![SafariScreenSnapz003.jpg](http://www.aaronsumner.com/uploads/2009/07/safariscreensnapz003.jpg)Here's
+![SafariScreenSnapz003.jpg](/uploads/2009/07/safariscreensnapz003.jpg)Here's
 a site redesign I put together over the course of a couple of hours
 between yesterday and today: A new look for [Stratepedia's hub
 site](http://stratepedia.org/). I do this about once a year ([here's
 last year's
-model](http://www.aaronsumner.com/2008/08/yesterdays-project-new-look-for-stratepediaorg/)).
+model](/2008/08/yesterdays-project-new-look-for-stratepediaorg/)).
 One page, with a focus on moving people on to the tools they actually
 want to use. It's also going to afford more room for growth than the
 last one did, in terms of having room to link to major new products and

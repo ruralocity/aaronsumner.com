@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 123
+
 date: 2009-02-25
 layout: page
 title: Apple TV 2.3.1 disables boxee
-wordpress_url: http://www.aaronsumner.com/?p=123
+
 tags: [ "Apple TV", "Boxee" ]
 ---
 What a rough week for <a href="http://boxee.tv/">boxee</a>, at least as it pertains to Apple TV. First, NBC and Fox force their and Hulu's hand and require them to disable AppleTV from the list of supported devices. Now it looks like the latest AppleTV update (2.3.1) has disabled boxee entirely. Hopefully I remembered to switch off automatic updates the last time this happened (and hopefully the boxee team is quick with an update, as they've been in the past).

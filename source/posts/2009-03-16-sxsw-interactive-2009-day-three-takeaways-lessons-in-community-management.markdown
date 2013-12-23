@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 201
+
 date: 2009-03-16
 layout: page
 title: "SXSW Interactive 2009 Day Three Takeaways: Lessons in Community Management"
-wordpress_url: http://www.aaronsumner.com/?p=201
+
 tags: [ "SXSW 2009", "Web Development", Community ]
 ---
 Can you believe that Flickr users upload 3,000-5,000 new photos per minute, and YouTube users upload 13 hours of new video in that same time? How do you manage that amount of content? That was the focus of <strong>Lessons in Community Management</strong>, paneled by representatives of Flickr, YouTube, MetaFilter, Current.tv, and Etsy. This was a frank, open discussion about what's worked for them, and what hasn't worked.

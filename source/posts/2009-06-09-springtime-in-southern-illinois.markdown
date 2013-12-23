@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 330
+
 date: 2009-06-09
 layout: page
 title: Springtime in southern Illinois
-wordpress_url: http://www.aaronsumner.com/?p=330
+
 tags: [ Photography ]
 ---
 <p><a href="http://www.flickr.com/photos/rockchalk/3605788582/" title="Hello by ruralocity, on Flickr"><img src="http://farm4.static.flickr.com/3339/3605788582_b052ba49d1.jpg" width="500" height="333" alt="Hello" /></a>

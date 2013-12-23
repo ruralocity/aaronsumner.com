@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 288
+
 date: 2009-04-14
 layout: page
 title: Stay interested--and interesting
-wordpress_url: http://www.aaronsumner.com/?p=288
+
 tags: [ Presentations, Portfolio, Entrepreneurship ]
 ---
 Here's a short set of bullet-y slides I just presented to a group of researchers at KU about how thinking like entrepreneurs can help us accomplish the work we set out to do. It earned mixed reviews, but I like to share anyway.

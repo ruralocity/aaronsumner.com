@@ -4,7 +4,7 @@ layout: page
 title: "Everyday Rails Testing with RSpec book updates: February 2013's Project a Month Project"
 ---
 
-Keeping up with the [Project a Month Project](http://aaronsumner.com/projects.html), I took time in February to complete a much-needed round of updates to my self-published book [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec). If you have already purchased the book and weren't aware, you can head over to Leanpub and download an updated copy. Here's a rundown of what was addressed in this update:
+Keeping up with the [Project a Month Project](/projects.html), I took time in February to complete a much-needed round of updates to my self-published book [Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec). If you have already purchased the book and weren't aware, you can head over to Leanpub and download an updated copy. Here's a rundown of what was addressed in this update:
 
 - Throughout the book, I replaced the older `.should` syntax with the preferred `expect().to` syntax--in other words, `some_known_truth.should be_true` becomes `expect(some_known_truth).to be_true`. Even though there are still books and tutorials out there using the older syntax, I wanted to get things moving in the right direction--it was also a good way to get myself to quit memory-typing `.should` all the time in my tests.
 - I updated the chapter on Capybara to cover changes in version 2.0. This means that what were formerly request specs are now feature specs, complete with `feature` and `scenario` blocks, along with gotchas from Capybara's dislike of ambiguous matching.

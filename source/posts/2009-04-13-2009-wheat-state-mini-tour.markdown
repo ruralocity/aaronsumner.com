@@ -1,9 +1,9 @@
 ---
  
-wordpress_id: 232
+
 layout: page
 title: 2009 Wheat State mini-tour
-wordpress_url: http://www.aaronsumner.com/?p=232
+
 tags: [ Kansas, Photography ]
 
 ---

@@ -1,10 +1,10 @@
 ---
  
-wordpress_id: 161
+
 date: 2009-03-05
 layout: page
 title: Wednesday night basketball at Allen Fieldhouse
-wordpress_url: http://www.aaronsumner.com/?p=161
+
 tags: [ Photography, Lawrence ]
 
 ---

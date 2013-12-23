@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 78
+
 date: 2008-08-22
 layout: page
 title: A few shots from the first (annual?) Lawrence Buskerfest
-wordpress_url: http://www.aaronsumner.com/?p=78
+
 tags: [ Lawrence, Photography ]
 ---
 [North vs. South](http://www.myspace.com/northvssouthmusicfestival) moved to Kansas City after an initial four-year run in Kansas. As a result, I didn't go see The Meat Purveyors tonight. They're one of my all-time favorite bands, especially live, but technically they're broken up. They get back together every year for North vs. South. I couldn't get myself to drive to Kansas City for the show, though, especially given the festival's history of poor scheduling and the fact that this year's venues are all spread out halfway across a much larger town. (I'm OK with, say, moving a band across the street from the Replay to the Jackpot, but I'd hate to get parked at Davey's and find out the band I wanted to see got moved at the last minute to the Record Bar.) Also, no smoking ban? What century do you live in, Kansas City? I kind of feel like I need to be peeking out my window in case Quantrill makes a repeat visit.

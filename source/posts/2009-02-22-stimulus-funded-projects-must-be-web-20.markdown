@@ -1,15 +1,15 @@
 ---
  
-wordpress_id: 115
+
 date: 2009-02-22
 layout: page
 title: Stimulus-funded projects must be Web 2.0
-wordpress_url: http://www.aaronsumner.com/?p=115
+
 tags: [ "Web Development" ]
 
 ---
 
-![3E54FBC8-A117-47EB-96FA-D848292518DD.jpg](http://www.aaronsumner.com/uploads/2009/02/3e54fbc8-a117-47eb-96fa-d848292518dd.jpg)This
+![3E54FBC8-A117-47EB-96FA-D848292518DD.jpg](/uploads/2009/02/3e54fbc8-a117-47eb-96fa-d848292518dd.jpg)This
 afternoon, I read that [projects funded through economic stimulus
 dollars will be required to provide information about spending in a
 reusable data format](http://www.aaronsw.com/weblog/rssstimulus)--that

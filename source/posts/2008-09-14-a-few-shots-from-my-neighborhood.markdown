@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 83
+
 date: 2008-09-14
 layout: page
 title: A few shots from my neighborhood
-wordpress_url: http://www.aaronsumner.com/?p=83
+
 tags: [ Lawrence, Photography ]
 ---
 This afternoon I walked down to the river to see how the dam was handling the rush of rain water (we got at least four inches of rain Friday night). I brought my camera along.

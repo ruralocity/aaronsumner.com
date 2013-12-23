@@ -1,10 +1,10 @@
 ---
  
-wordpress_id: 422
+
 date: 2009-08-19
 layout: page
 title: Bye bye, &#95;why.
-wordpress_url: http://www.aaronsumner.com/?p=422
+
 tags: [ Rails ]
 
 ---
@@ -17,7 +17,7 @@ Resig has posted [a nice "eulogy" to
 \_why](http://ejohn.org/blog/eulogy-to-_why/). I just have a couple of
 thoughts.
 
-![chunky-bacon.png](http://www.aaronsumner.com/uploads/2009/08/chunky-bacon.png)The
+![chunky-bacon.png](/uploads/2009/08/chunky-bacon.png)The
 first two Ruby-related titles I read were *Why's (Poignant) Guide to
 Ruby* and *Agile Development with Rails* (first edition). Say what you
 want about the former, but it was a refreshing change from pretty much

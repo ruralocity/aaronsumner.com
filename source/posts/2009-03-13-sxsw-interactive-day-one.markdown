@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 171
+
 date: 2009-03-13
 layout: page
 title: "SXSW Interactive: Day One"
-wordpress_url: http://www.aaronsumner.com/?p=171
+
 tags: [ "SXSW 2009", "Web Development" ]
 ---
 Reporting in from Austin, Texas, and <a href="http://sxsw.com/interactive">South by Southwest Interactive 2009</a>. Sessions start in a little over an hour and I'll do what I can to write here about what I see, but you can get more real-time information from me on <a href="http://twitter.com/ruralocity">Twitter</a>.

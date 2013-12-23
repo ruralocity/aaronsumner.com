@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 209
+
 date: 2009-03-20
 layout: page
 title: "SXSW Interactive 2009 Takeaways: \"Free\""
-wordpress_url: http://www.aaronsumner.com/?p=209
+
 tags: [ "SXSW 2009", Publishing ]
 ---
 I closed out my first SXSW Interactive with two sessions featuring Chris Anderson of <em>Wired</em> and <em>The Long Tail</em> fame. In this year's final festival, Anderson was interviewed by Guy Kawasaki with questions about his forthcoming book on the concept of <em>free</em> being the way to come out ahead in today's economy.

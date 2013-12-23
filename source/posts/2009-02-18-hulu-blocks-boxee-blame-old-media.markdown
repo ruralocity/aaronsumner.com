@@ -1,15 +1,15 @@
 ---
  
-wordpress_id: 108
+
 date: 2009-02-18
 layout: page
 title: Hulu blocks boxee. Blame old media.
-wordpress_url: http://www.aaronsumner.com/?p=108
+
 tags: [ Boxee ]
 
 ---
 
-![BC83D9D7-E35E-46E4-81BF-397F85B8ABA1.jpg](http://www.aaronsumner.com/uploads/2009/02/bc83d9d7-e35e-46e4-81bf-397f85b8aba1.jpg)I
+![BC83D9D7-E35E-46E4-81BF-397F85B8ABA1.jpg](/uploads/2009/02/bc83d9d7-e35e-46e4-81bf-397f85b8aba1.jpg)I
 love [boxee](http://www.boxee.tv/). I love [Hulu](http://www.hulu.com/).
 Together, they were totally awesome--my girlfriend and I could watch
 shows on an actual TV, not squinting at a laptop screen. Unfortunately,

@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 93
+
 date: 2008-10-01
 layout: page
 title: Problems with importing Canon RAW photos after installing Apple's Raw compatibility updater 2.2
-wordpress_url: http://www.aaronsumner.com/?p=93
+
 tags: [ Macintosh, Photography ]
 ---
 I'm adding a new category to share things I've had to hunt and dig for, in hopes it makes it easier for others who run into similar problems.

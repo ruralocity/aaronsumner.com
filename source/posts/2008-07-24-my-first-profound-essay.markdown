@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 39
+
 date: 2008-07-24
 layout: page
 title: My next-to-last visit to Jerry's farm
-wordpress_url: http://www.aaronsumner.com/?p=39
+
 tags: [ Photography ]
 ---
 After writing my sort-of bio, I'm a little worded out--so I'll kick off this new project with some photos I took last April in Columbia, Missouri, at my uncle's farm. My grandparents finally sold the place and all the paperwork was finished up last week. Every time I visited I found some new interesting thing. Some of those interesting things have wound up in my house; others were just photographed.

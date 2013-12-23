@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 409
+
 date: 2009-08-09
 layout: page
 title: Replacing my Apple TV; some questions
-wordpress_url: http://www.aaronsumner.com/?p=409
+
 tags: [ "Apple TV" ]
 ---
 I think it's almost time to replace my Apple TV--it's great for streaming audio, and Boxee is a nice touch, but it just doesn't have the horsepower for things like streaming <a href="http://mlb.tv/">live baseball</a> or Netflix. I've long thought I'd replace it with a Mac mini--one of the most underrated Macs <em>ever</em>, in my opinion--but I've got a couple of issues to investigate:

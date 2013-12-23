@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 205
+
 date: 2009-03-17
 layout: page
 title: "SXSW Interactive 2009 Day Four Takeways: Entrepreneurship"
-wordpress_url: http://www.aaronsumner.com/?p=205
+
 tags: [ "SXSW 2009", Entrepreneurship ]
 ---
 With one exception, the sessions I attended on day four all had to do with starting up and, generally, lessons learned from entrepreneurs.

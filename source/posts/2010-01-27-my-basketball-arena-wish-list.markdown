@@ -8,7 +8,7 @@ tags: [ "College Basketball" ]
 ---
 
 I got a lot of hits on my [post about McArthur
-Court](http://www.aaronsumner.com/2010/01/mcarthur-court-oregon-ducks/)
+Court](/2010/01/mcarthur-court-oregon-ducks/)
 a couple of days ago, thanks to it being picked up by an Oregon Ducks
 fan site. Like I said, visiting Mac Court was a real treat and I hope to
 continue visiting historic basketball courts in the next several years.

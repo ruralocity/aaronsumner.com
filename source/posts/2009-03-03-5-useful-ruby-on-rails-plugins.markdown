@@ -1,15 +1,15 @@
 ---
  
-wordpress_id: 140
+
 date: 2009-03-03
 layout: page
 title: 5 useful Ruby on Rails plugins
-wordpress_url: http://www.aaronsumner.com/?p=140
+
 tags: [ Rails ]
 
 ---
 
-![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](http://www.aaronsumner.com/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg)I've
+![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg)I've
 been using [Ruby on Rails](http://www.rubyonrails.org/) since 2005. I
 honestly don't know how I survived the first decade-plus of the web
 developer part of my career without it. Rails handles at least 80% of

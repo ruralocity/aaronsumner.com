@@ -1,10 +1,10 @@
 ---
  
-wordpress_id: 394
+
 date: 2009-07-24
 layout: page
 title: How I use Twitter at conferences (or, don't just read about it; do it)
-wordpress_url: http://www.aaronsumner.com/?p=394
+
 tags: [ Twitter, "SIDLIT 2009" ]
 
 ---
@@ -21,7 +21,7 @@ is to do it. Rather than write a multi-page outline, backed by cited
 references and academic jargon, I'm going to distill what you need to do
 in as few steps as possible:
 
-![TweetieScreenSnapz001.jpg](http://www.aaronsumner.com/uploads/2009/07/TweetieScreenSnapz0011.jpg)
+![TweetieScreenSnapz001.jpg](/uploads/2009/07/TweetieScreenSnapz0011.jpg)
 
 1.  **[Get a Twitter account](http://twitter.com/)**, if you don't have
     one already. It's free and takes like two minutes to start; four
@@ -73,7 +73,7 @@ in as few steps as possible:
 7.  **Decompress, then recapture**. Within 24 hours, take a few minutes
     to review what you posted, and ideally recapture it in some way. For
     SXSW, I [posted blog entries summarizing each
-    session](http://www.aaronsumner.com/category/sxsw-2009/), using my
+    session](/category/sxsw-2009/), using my
     Twitter activity as notes. As John Medina says in *Brain Rules*,
     "repeat to remember" and "remember to repeat." Even if you feel like
     this isn't necessary for memorization purposes, keep in mind that

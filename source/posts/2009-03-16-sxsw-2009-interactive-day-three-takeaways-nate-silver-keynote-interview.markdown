@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 199
+
 date: 2009-03-16
 layout: page
 title: "SXSW 2009 Interactive Day Three Takeaways: Nate Silver Keynote Interview"
-wordpress_url: http://www.aaronsumner.com/?p=199
+
 tags: [ "SXSW 2009" ]
 ---
 I'm not a big statistics or measurement nerd, but like many others I became nigh obsessed with <a href="http://fivethirtyeight.com/">fivethirtyeight.com</a> during last year's presidential campaign. It was a real tread to get to hear <strong>Nate Silver</strong> talk about the impetus behind the site and, in general, his view of things. It's funny how the Internet can make a celebrity out of people who are actually intelligent these days.

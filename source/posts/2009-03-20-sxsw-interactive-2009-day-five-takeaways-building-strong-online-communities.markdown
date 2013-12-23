@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 207
+
 date: 2009-03-20
 layout: page
 title: "SXSW Interactive 2009 Day Five Takeaways: Building Strong Online Communities"
-wordpress_url: http://www.aaronsumner.com/?p=207
+
 tags: [ "SXSW 2009", "Web Development", Community ]
 ---
 I've been going non-stop back in Lawrence since returning from Austin late Tuesday night/early Wednesday morning. I've still got some South by Southwest-related reflections to share. I'll start with one of the better ones I attended, <strong>Building Strong Online Communities</strong>. The panel, made up of Ken Fisher of Ars Technica, Alexis Ohanian of Reddit, Drew Curtis of FARK, and Erin Kotecki West of BlogHer shared several lessons learned on how to manage online communities (and when to let them do their own thing). There was some overlap from <a href="/2009/03/16/sxsw-interactive-2009-day-three-takeaways-lessons-in-community-management.html">an earlier session on community management</a>, but here are some takeaways:

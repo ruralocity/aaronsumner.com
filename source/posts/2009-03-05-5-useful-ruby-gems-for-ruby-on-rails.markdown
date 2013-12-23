@@ -1,17 +1,17 @@
 ---
  
-wordpress_id: 159
+
 date: 2009-03-05
 layout: page
 title: 5 useful Ruby gems for Ruby on Rails
-wordpress_url: http://www.aaronsumner.com/?p=159
+
 tags: [ Rails ]
 
 ---
 
-![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](http://www.aaronsumner.com/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg)To
+![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg)To
 follow up on my list of [useful plugins for Ruby on
-Rails](http://www.aaronsumner.com/2009/03/5-useful-ruby-on-rails-plugins/),
+Rails](/2009/03/5-useful-ruby-on-rails-plugins/),
 I'd like to share a few gems that make my Rails development work much
 easier.
 

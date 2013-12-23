@@ -1,10 +1,10 @@
 ---
  
-wordpress_id: 305
+
 date: 2009-04-29
 layout: page
 title: A few of the sights in North Lawrence
-wordpress_url: http://www.aaronsumner.com/?p=305
+
 tags: [ Lawrence, Photography ]
 
 ---

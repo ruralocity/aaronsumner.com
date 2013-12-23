@@ -1,9 +1,9 @@
 --- 
-wordpress_id: 309
+
 date: 2009-05-02
 layout: page
 title: One nobody's thoughts on the GoGaRuCo mess
-wordpress_url: http://www.aaronsumner.com/?p=309
+
 tags: [ Rails ]
 ---
 If you're a <a href="http://www.rubyonrails.org/">Ruby on Rails</a> developer and have been paying half attention over the last several days you've no doubt heard about the controversial presentation given recently at the Golden Gate Ruby Conference (GoGoRuCo). If you need to catch up, <a href="http://martinfowler.com/bliki/SmutOnRails.html">read Martin Fowler's take</a>--it includes references to most other commentary so far. Issues of sexism aside, what bothers me about what I've learned about some of the individuals making statements on this matter is their apparent disregard for the potential of Rails in "professional" environments.

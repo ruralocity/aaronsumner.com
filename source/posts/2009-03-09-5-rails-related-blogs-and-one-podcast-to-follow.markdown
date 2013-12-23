@@ -1,17 +1,17 @@
 ---
  
-wordpress_id: 163
+
 date: 2009-03-09
 layout: page
 title: 5 Rails-related blogs (and one podcast) to follow
-wordpress_url: http://www.aaronsumner.com/?p=163
+
 tags: [ Rails ]
 
 ---
 
-![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](http://www.aaronsumner.com/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg)As
+![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg)As
 a part of my ongoing series about [how I work with Ruby on
-Rails](http://www.aaronsumner.com/tag/ruby-on-rails/), I'd like to share
+Rails](/tag/ruby-on-rails/), I'd like to share
 with you my top Rails-related feeds. Unfortunately, Ruby on Rails blogs
 tend to not always last long. Here are five I find useful--as well as a
 podcast anyone serious about getting into RoR development shouldn't

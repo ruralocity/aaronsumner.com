@@ -1,10 +1,10 @@
 ---
  
-wordpress_id: 230
+
 date: 2009-04-07
 layout: page
 title: Lawrence on Rails is rolling
-wordpress_url: http://www.aaronsumner.com/?p=230
+
 tags: [ Lawrence, Rails ]
 
 ---

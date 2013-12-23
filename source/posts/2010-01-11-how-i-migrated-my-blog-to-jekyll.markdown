@@ -58,7 +58,7 @@ I still have things to sort out as I have the time:
 
 -   Implement site search. Is Google’s service work 100 bucks a year for
     such a small traffic site? I don’t know; in the meantime you can
-    check out [my archives](http://www.aaronsumner.com/archives.html).
+    check out [my archives](/archives.html).
 -   Add some sort of comments form, I guess, though I’d rather people
     leave comments or contact me on Twitter. It’s easier.
 -   Add code to [GitHub](http://github.com/). It’ll happen eventually.

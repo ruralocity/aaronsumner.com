@@ -9,7 +9,7 @@ tags: [ "Presentations", "SIDLIT 2010" ]
 
 My [talk about do-it-yourself web application development using open
 source
-framworks](http://aaronsumner.com/2009/07/slides-for-my-friday-presentation-at-sidlit-an-intro-to-web-application-frameworks/)
+framworks](/2009/07/slides-for-my-friday-presentation-at-sidlit-an-intro-to-web-application-frameworks/)
 must not have scared off enough people last year at the annual
 [SIDLIT](http://sidlit.org/) conference in Overland Park, Kansas. I got
 word today that my proposal for this year, entitled *Beyond Ning:

@@ -1,10 +1,10 @@
 ---
  
-wordpress_id: 104
+
 date: 2009-02-16
 layout: page
 title: "New project: Flyers archive 2009"
-wordpress_url: http://www.aaronsumner.com/?p=104
+
 tags: [ Portfolio, Music ]
 
 ---
@@ -17,7 +17,7 @@ promoting upcoming "concerts" or other events since college. I digitized
 them awhile back and have put them online first as static HTML pages,
 then with Movable Type, and currently with WordPress.
 
-![F092C8F2-9CBB-4208-A499-CA03700E6306.jpg](http://www.aaronsumner.com/uploads/2009/02/f092c8f2-9cbb-4208-a499-ca03700e6306.jpg)The
+![F092C8F2-9CBB-4208-A499-CA03700E6306.jpg](/uploads/2009/02/f092c8f2-9cbb-4208-a499-ca03700e6306.jpg)The
 current version is OK, I guess, but my idea of relying on WordPress'
 built-in fields (and half-ass tags implementation) have never quite set
 right with me. Deep down I knew I needed a data model designed
