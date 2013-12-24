@@ -10,11 +10,10 @@ tags: [ "Project Management", "Reading" ]
 Summer’s coming to an end. It seems like only yesterday that the school
 year ended, KU’s student population cleared out of Lawrence, and I
 cracked open *[Making Things Happen: Mastering Project
-Management](http://oreilly.com/catalog/9780596517717/_) by Scott Berkun
-. Now it’s August, the students are back in full force, and I’ve spent
+Management](http://oreilly.com/catalog/9780596517717/)* by Scott Berkun. Now it’s August, the students are back in full force, and I’ve spent
 my entire summer with this book. Why so much time with one book,
 especially when my summer reading list was supposed to be much
-longer?*Making Things Happen\_ is very dense (my notes for about 80% of
+longer?*Making Things Happen* is very dense (my notes for about 80% of
 the book currently check in at 41 pages). It’s a summary of Berkun’s
 experience managing software development projects at Microsoft; in
 particular a few iterations of Internet Explorer during the original
@@ -22,7 +21,7 @@ browser wars. It makes for an interesting perspective, especially at a
 time when Agile methodologies have overtaken most web-oriented projects.
 I’ll talk about that more in a minute.
 
-<img src="/images/content/making-things-happen.jpg" alt="" class="right" />
+![cover](/images/content/making-things-happen.jpg){: .floater }
 
 If you’re like me and sort of fell into a managerial role for whatever
 reason (for me, I think it was because I was never afraid to speak up at

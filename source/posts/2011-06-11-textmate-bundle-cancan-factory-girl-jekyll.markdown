@@ -22,44 +22,38 @@ tab-complete shortcuts as it currently stands:
 
 #### Defining abilities in <code>ability.rb</code>:
 
-  ----------------- -----
-  can :manage       cm
-  can :read         cr
-  can :index        ci
-  can :create       cc
-  can :update       cu
-  can :destroy      cd
-  can (array)       c
-  can (block)       cb
-  cannot :manage    ctm
-  cannot :read      ctr
-  cannot :index     cti
-  cannot :create    ctc
-  cannot :update    ctu
-  cannot :destroy   ctd
-  cannot (array)    ct
-  cannot (block)    ctb
-  ----------------- -----
+    can :manage       cm
+    can :read         cr
+    can :index        ci
+    can :create       cc
+    can :update       cu
+    can :destroy      cd
+    can (array)       c
+    can (block)       cb
+    cannot :manage    ctm
+    cannot :read      ctr
+    cannot :index     cti
+    cannot :create    ctc
+    cannot :update    ctu
+    cannot :destroy   ctd
+    cannot (array)    ct
+    cannot (block)    ctb
 
 #### Checking abilities in views and controllers:
 
-  ------------------ ----
-  if can? :manage    cm
-  if can? :create    cc
-  if can? :update    cu
-  if can? :destroy   cd
-  if can? :index     ci
-  ------------------ ----
+    if can? :manage    cm
+    if can? :create    cc
+    if can? :update    cu
+    if can? :destroy   cd
+    if can? :index     ci
 
 #### Protecting controllers and actions:
 
-  -------------------------------------- ------
-  load\_and\_authorize\_resource         lar
-  skip\_load\_and\_authorize\_resource   slar
-  load\_resource                         lr
-  skip\_load\_resource                   slr
-  authorize\_resource                    ar
-  skip\_authorize\_resource              sar
-  -------------------------------------- ------
+    load_and_authorize_resource       lar
+    skip_load_and_authorize_resource  slar
+    load_resource                     lr
+    skip_load_resource                slr
+    authorize_resource                ar
+    skip_authorize_resource           sar
 
 If you try them out please let me know what you think.

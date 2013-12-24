@@ -1,5 +1,5 @@
 ---
- 
+
 
 date: 2009-08-19
 layout: page
@@ -17,8 +17,9 @@ Resig has posted [a nice "eulogy" to
 \_why](http://ejohn.org/blog/eulogy-to-_why/). I just have a couple of
 thoughts.
 
-![chunky-bacon.png](/uploads/2009/08/chunky-bacon.png)The
-first two Ruby-related titles I read were *Why's (Poignant) Guide to
+![chunky-bacon.png](/uploads/2009/08/chunky-bacon.png){: .floater }
+
+The first two Ruby-related titles I read were *Why's (Poignant) Guide to
 Ruby* and *Agile Development with Rails* (first edition). Say what you
 want about the former, but it was a refreshing change from pretty much
 every other software-related book *ever*. It encapsulated the whole

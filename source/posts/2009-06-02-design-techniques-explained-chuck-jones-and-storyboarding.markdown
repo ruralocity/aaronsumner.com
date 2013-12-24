@@ -1,5 +1,5 @@
 ---
- 
+
 
 date: 2009-06-02
 layout: page
@@ -9,8 +9,9 @@ tags: [ "Instructional Design" ]
 
 ---
 
-![37FED29F-A111-4A34-8C14-278F02AC98FA.jpg](/uploads/2009/06/37fed29f-a111-4a34-8c14-278f02ac98fa.jpg)Allow
-me to put on my (information/instructional) designer hat for a moment.
+![37FED29F-A111-4A34-8C14-278F02AC98FA.jpg](/uploads/2009/06/37fed29f-a111-4a34-8c14-278f02ac98fa.jpg){: .floater }
+
+Allow me to put on my (information/instructional) designer hat for a moment.
 Tonight I watched an excellent film called [*Chuck Jones: Extremes and
 In-Betweens, a Life in
 Animation*](http://www.netflix.com/Movie/Chuck_Jones_Extremes_and_in_Betweens_a_Life_in_Animation/60024809),

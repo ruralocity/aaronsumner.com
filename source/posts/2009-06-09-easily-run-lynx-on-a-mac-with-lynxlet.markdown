@@ -1,5 +1,5 @@
 ---
- 
+
 
 date: 2009-06-09
 layout: page
@@ -9,8 +9,9 @@ tags: [ Macintosh, "Web Development" ]
 
 ---
 
-![TerminalScreenSnapz001.jpg](/uploads/2009/06/terminalscreensnapz001.jpg)Who
-needs Safari 4 or Firefox 3.5?Besides Wilt Chamberlain and Paul Rudd, my
+![TerminalScreenSnapz001.jpg](/uploads/2009/06/terminalscreensnapz001.jpg){: .floater }
+
+Who needs Safari 4 or Firefox 3.5?Besides Wilt Chamberlain and Paul Rudd, my
 alma mater's greatest contribution to the world is probably
 [Lynx](http://en.wikipedia.org/wiki/Lynx_(web_browser)), a text-only web
 browser from the days before Flash and AJAX. Believe it or not, I still

@@ -7,8 +7,11 @@ tags: [ "Portfolio,Web Development" ]
 
 ---
 
-<a href="http://kansasprojectsuccess.org/"><img src="/images/content/project-success.png" class="right" alt="" /></a>\
-**What it is:** [Project Success](http://kansasprojectsuccess.org/) is a
+![cover](/images/content/project-success.png){: .floater }
+
+### What it is
+
+[Project Success](http://kansasprojectsuccess.org/) is a
 new joint initiative between the [Beach Center on
 Disability](http://beachcenter.org/) and the [Center for Research on
 Learning](http://kucrl.org/) (both housed at the University of Kansas)
@@ -17,7 +20,9 @@ website collects and promotes learning resources identified by project
 staff to assist these students, their parents, teachers, and school
 administrators.
 
-**What I did:** For this site, I developed the end-user interface for
+### What I did
+
+For this site, I developed the end-user interface for
 browsing and searching resources, and for registering to attend live
 events hosted by Project Success (though implemented, this feature is
 not yet being used as of this writing). I designed the layout and chose
@@ -27,7 +32,9 @@ approval system in place to allow staff to OK resources for sharing.
 Underneath that I did the application and database work and set up a
 dedicated virtual private server for the project.
 
-**Tools I used:** [Rails 3](http://rubyonrails.org/) for a web
+### Tools I used
+
+[Rails 3](http://rubyonrails.org/) for a web
 application framework. [Devise](https://github.com/plataformatec/devise)
 and [CanCan](https://github.com/ryanb/cancan) for authentication and
 authorization. [RSpec 2](https://github.com/rspec/rspec) with [Factory

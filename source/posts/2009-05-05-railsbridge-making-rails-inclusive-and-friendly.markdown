@@ -9,9 +9,9 @@ tags: [ Rails ]
 
 ---
 
-![59BF2BC9-BDD3-406A-94D0-EDCBC7E6B91F.jpg](/uploads/2009/05/59bf2bc9-bdd3-406a-94d0-edcbc7e6b91f.jpg)Now
-this is awesome. In light of the [negative publicity hit Rails recently
-took](/posts/2009/05/one-nobodys-thoughts-on-the-gogaruco-mess.html),
+![59BF2BC9-BDD3-406A-94D0-EDCBC7E6B91F.jpg](/uploads/2009/05/59bf2bc9-bdd3-406a-94d0-edcbc7e6b91f.jpg){: .floater }
+
+Now this is awesome. In light of the [negative publicity hit Rails--n-the-gogaruco-mess.html),
 a band of developers who would rather accentuate the positive things
 happening in the community--and show what kinds of positive things a
 community is *capable* of doing--have launched the

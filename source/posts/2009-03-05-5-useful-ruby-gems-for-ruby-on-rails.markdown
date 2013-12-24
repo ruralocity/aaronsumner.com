@@ -9,9 +9,9 @@ tags: [ Rails ]
 
 ---
 
-![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg)To
-follow up on my list of [useful plugins for Ruby on
-Rails](/posts/2009/03/5-useful-ruby-on-rails-plugins.html),
+![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg){: .floater }
+
+To follow up on my list of [useful plugins for--by-on-rails-plugins.html),
 I'd like to share a few gems that make my Rails development work much
 easier.
 

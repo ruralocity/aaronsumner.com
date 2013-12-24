@@ -15,13 +15,13 @@ McArthur will be replaced by [Matthew Knight
 Arena](http://en.wikipedia.org/wiki/Matthew_Knight_Arena). With a
 combined sense of nostalgia and urgency, I made my way to Eugene during
 the gloomiest time of the year to visit the Pacific Northwest to take in
-a game at the 83-year-old court~~~~my first stop in what I hope becomes
+a game at the 83-year-old court--my first stop in what I hope becomes
 an ongoing series of visits to historic college basketball facilities.
-\
+
 <a href="http://www.flickr.com/photos/rockchalk/4300856371/" title="McArthur Court by ruralocity, on Flickr"><img src="http://farm5.static.flickr.com/4033/4300856371_378ed2ca87.jpg" width="333" height="500" alt="McArthur Court" /></a>
-\
+
 I’d seen lots of photos of the inside of McArthur Court, but not too
-many outdoor shots. It’s easy to see why~~~~the building is not exactly
+many outdoor shots. It’s easy to see why—the building is not exactly
 photogenic; just a large, nondescript concrete building next to newer,
 fancier athletics facilities. You might think it’s just an old warehouse
 if not for the small, simple signs bearing its name, along with the
@@ -39,13 +39,13 @@ hallways, and through tiny, nondescript tunnels.
 <a href="http://www.flickr.com/photos/rockchalk/4300850947/" title="Banners at McArthur Court by ruralocity, on Flickr"><img src="http://farm5.static.flickr.com/4029/4300850947_0c6e2165e5.jpg" width="500" height="333" alt="Banners at McArthur Court" /></a>
 
 As we approached the entryway to our section, I remembered that Oregon
-won the 1939 National Championship~~~~notable because that year’s
+won the 1939 National Championship--notable because that year’s
 championship was decided by the very first post-season NCAA tournament.
 And sure enough, as we walked through the tunnel and into “The Pit”
 proper, we were greeted by the large banner commemorating the occasion .
-\
+
 <a href="http://www.flickr.com/photos/rockchalk/4301597598/" title="McArthur Court Scoreboard by ruralocity, on Flickr"><img src="http://farm5.static.flickr.com/4055/4301597598_dba83a6688.jpg" width="500" height="333" alt="McArthur Court Scoreboard" /></a>
-\
+
 The scoreboards might be the newest features in Mac Court, having
 probably been installed in the late sixties by my guess. I’ve taken for
 granted the ability to glance up at a scoreboard and see how many points
@@ -55,14 +55,14 @@ you’d better keep track of that yourself. I bet the guy selling
 scorecards cleans up on game day. And at least from our seats, the
 public address announcer was not of much help, as the voice coming over
 the antiquated sound system was muffled and mostly inaudible.
-\
+
 <a href="http://www.flickr.com/photos/rockchalk/4301601536/" title="Oregon pep band by ruralocity, on Flickr"><img src="http://farm3.static.flickr.com/2706/4301601536_9ae1878931.jpg" width="500" height="333" alt="Oregon pep band" /></a>
-\
+
 The lack of a sound system puts the job of supplying music squarely on
 the collective shoulders of the pep band. In fact, the only instance of
 piped-in music I recall was during a halftime performance of local grade
 school unicycle enthusiasts. Luckily, Oregon has a *great* pep
-band~~~~their rendition of “Roller Coaster of Love” is the best pep band
+band--their rendition of “Roller Coaster of Love” is the best pep band
 rendition of the Ohio Players’ classic you’ll ever hear, I guarantee.
 
 <a href="http://www.flickr.com/photos/rockchalk/4300852279/" title="Lute Olson by ruralocity, on Flickr"><img src="http://farm5.static.flickr.com/4024/4300852279_5333500e23.jpg" width="500" height="333" alt="Lute Olson" /></a>

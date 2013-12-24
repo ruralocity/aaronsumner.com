@@ -9,8 +9,9 @@ tags: [ Rails ]
 
 ---
 
-![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg)I've
-been working on a major update of a project I originally completed in
+![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg){: .floater }
+
+I've been working on a major update of a project I originally completed in
 2006--same basic interface, same basic functionality; new version of
 Rails. Specifically, I'm going from version 1.2.6 to 2.2.2.
 
@@ -20,8 +21,7 @@ come to mind:
 -   **REST**: It's amazing how many things just *happen* like magic when
     you're developing Rails apps and you've accepted a REST-based
     architecture into your workflow, especially when using gems I've
-    [mentioned in the
-    past](/posts/2009/03/5-useful-ruby-gems-for-ruby-on-rails.html)
+    [mentioned i--s-for-ruby-on-rails.html)
     like restful\_acl and nifty\_generators. Before Rails, work I did in
     PHP that took a day now took a couple of hours in 2006. Now it takes
     about 30 minutes. If you still haven't quite figured out why REST is

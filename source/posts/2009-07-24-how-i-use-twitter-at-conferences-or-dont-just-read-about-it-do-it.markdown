@@ -1,5 +1,5 @@
 ---
- 
+
 
 date: 2009-07-24
 layout: page
@@ -21,7 +21,7 @@ is to do it. Rather than write a multi-page outline, backed by cited
 references and academic jargon, I'm going to distill what you need to do
 in as few steps as possible:
 
-![TweetieScreenSnapz001.jpg](/uploads/2009/07/TweetieScreenSnapz0011.jpg)
+![TweetieScreenSnapz001.jpg](/uploads/2009/07/TweetieScreenSnapz0011.jpg){: .floater }
 
 1.  **[Get a Twitter account](http://twitter.com/)**, if you don't have
     one already. It's free and takes like two minutes to start; four

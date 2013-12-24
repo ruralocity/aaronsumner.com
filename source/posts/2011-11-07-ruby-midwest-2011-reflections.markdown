@@ -21,13 +21,13 @@ tags: [ "Ruby", "Programming" ]
     languages and frameworks, but can be difficult to maintain. (From
     [Rails Is the New Rails](http://mbleigh.com/rails-is-the-new-rails/)
     by Michael Bleigh)
--   <code>find\_each</code> and <code>find\_in\_batches</code> can speed
+-   <code>find_each</code> and <code>find_in_batches</code> can speed
     up large queries; use them. (Note to self: Stop forgetting about
     them.) (From Ethan Gunderson’s ActiveRecord Anti-Patterns for Fun
     and Profit; reinforced by James Edward Gray II in [Life on the
     Edge](http://speakerdeck.com/u/jeg2/p/life-on-the-edge))
--   [query\_reviewer](https://github.com/nesquena/query_reviewer) and
-    [consistency\_fail](https://github.com/trptcolin/consistency_fail)
+-   [query_reviewer](https://github.com/nesquena/query_reviewer) and
+    [consistency_fail](https://github.com/trptcolin/consistency_fail)
     are useful gems for finding database issues in Rails code.
     (Gunderson)
 -   Observation: It’s sometimes hard to feel like you’re a part of the

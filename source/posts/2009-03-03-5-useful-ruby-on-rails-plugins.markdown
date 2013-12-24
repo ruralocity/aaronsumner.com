@@ -1,5 +1,5 @@
 ---
- 
+
 
 date: 2009-03-03
 layout: page
@@ -9,7 +9,9 @@ tags: [ Rails ]
 
 ---
 
-![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg)I've
+![B3236CB4-276B-43C7-922D-12CBE428CE5A.jpg](/uploads/2009/03/b3236cb4-276b-43c7-922d-12cbe428ce5a.jpg){: .floater }
+
+I've
 been using [Ruby on Rails](http://www.rubyonrails.org/) since 2005. I
 honestly don't know how I survived the first decade-plus of the web
 developer part of my career without it. Rails handles at least 80% of
@@ -54,9 +56,9 @@ There's no shame in using plugins!
     tags in your app, this plugin could be invaluable. I usually tweak
     some settings, and I've come across a few bits of weirdness, but for
     my apps this plugin has worked pretty well.
-5.  ~~**[google\_analytics](http://github.com/rubaidh/google_analytics/tree/master):**
+5.  **[google\_analytics](http://github.com/rubaidh/google_analytics/tree/master):**
     If you're using Google Analytics to track site usage, install this
-    plugin.~~ I forgot, this is a handy gem now.
+    plugin. I forgot, this is a handy gem now.
 
 If you found this at all useful, be sure to tell others via your
 favorite social applications.

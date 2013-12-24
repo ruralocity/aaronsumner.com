@@ -21,7 +21,7 @@ lot worse than attend [Free State
 Social](http://www.freestatesocial.com/) in my hometown of Lawrence,
 Kansas. Chris Brogan, Jeremiah Owyang, Ellyn Angelotti, Shawna Coronado,
 Sarah Evans, and Scott Raymond are the all-star lineup of featured
-speakers. Regular tickets are \$295; \$395 will get you a VIP ticket and
+speakers. Regular tickets are $295; $395 will get you a VIP ticket and
 extra access to said all-stars.
 
 ### Red Dirt Ruby Conference, Oklahoma City OK, May 6-7

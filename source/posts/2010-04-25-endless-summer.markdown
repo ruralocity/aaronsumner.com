@@ -26,31 +26,31 @@ cough).
 I’m no filmmaker, and aside from a couple of film studies classes I took
 at KU, really have no grounds to stand on when it comes to dissecting
 movies. I just know what I like. And this weekend, I took a shine to
-*[The Endless Summer](http://www.imdb.com/title/tt0060371/_), Bruce
+*[The Endless Summer](http://www.imdb.com/title/tt0060371/)*, Bruce
 Brown’s 1966 documentary about two young Californian surfers who travel
 around the world seeking “the perfect wave.” They hit the beach in
 Africa, Australia, New Zealand, Tahiti, and Hawaii; interact with the
 locals; and generally go on an adventure that most who love world travel
 could only envy even today .
-\
-<img src="/images/content/endless-summer.jpg" alt="" />
-\
+
+![endless-summer](/images/content/endless-summer.jpg){: .floater }
+
 The format of the movie is probably what fascinates me the most. Being
 from 1966, it is much more like the educational reel-to-reel films I’d
 see in school as a kid, with no interviews from primary sources of Ken
 Burns-style image panning. The subject matter, and Brown’s easy-going,
-fun way of explaining it, set*The Endless Summer\_ apart from its
+fun way of explaining it, set *The Endless Summer* apart from its
 contemporaries discussing the smelting process or the like. (I would
 have *loved* watching this film in school, 15 years or so after its
 initial release, for what it’s worth.) The words are all Brown’s, as he
 narrates the footage in a general style not unlike a 1960s wildlife
-documentary~~~~that pack of wildebeests can’t speak for itself, so the
+documentary--that pack of wildebeests can’t speak for itself, so the
 filmmaker uses his own words to explain the situation and even put a
 splash of humanity in these wild animals. Brown shows his subjects on
 the waves and among the natives, but never asks them about their
 thoughts . Rather, *his* words mix with *his* visuals to tell the story
 from *his* point of view.
-\
+
 And how about those visuals? Again, I don’t really know anything about
 making movies, especially historically, but I imagine that much of this
 film was done on a budget and required highly portable gear. I don’t
@@ -61,10 +61,10 @@ it on a sheet he’s hung from the ceiling and talks about what is
 happening, all while a cool surf rock band plays in the corner of the
 room. No special effects; probably not even any color correction in
 post-production. Very authentic.
-\
+
 Could this movie be made today? My guess is no, at least not in this
 format. For starters, surfing is not the *hot new thing* it was 45 years
-ago~~~~but besides that, it would take a gusty documentarian to hold him
+ago--but besides that, it would take a gusty documentarian to hold him
 or herself accountable for what’s said, and not just craft and edit
 interviews together to convey a message. I also think the budget for a
 2010 remake would be astronomical, with the equipment and crews

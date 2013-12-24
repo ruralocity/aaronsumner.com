@@ -47,8 +47,8 @@ subscriptions).
 I was at a conference last week, and in a small breakout session the
 presenter had some files she wanted to share with participants. Her
 method? She copied the files onto two portable USB hard drives (not the
-little USB flash drives like you’ve got on your keychain; \_actual hard
-drives\_) and had participants pass them around. This inspired me to
+little USB flash drives like you’ve got on your keychain; *actual hard
+drives*) and had participants pass them around. This inspired me to
 write a post on Dropbox, an online service I use almost daily for
 keeping my own devices in sync and sharing files with others without
 e-mail attachments or the passed-around-hard-drive method outlined

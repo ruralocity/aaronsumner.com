@@ -19,7 +19,7 @@ isn’t for you. If you’re a raw beginner, this book probably isn’t for
 you either. You’ll need some gear, a little bit of understanding of that
 gear, and some patience to work through the assignments in the book.
 
-<img src="http://covers.oreilly.com/images/9781933952796/cat.gif" alt="" width="180" height="270" class="right" />
+![cover](http://covers.oreilly.com/images/9781933952796/cat.gif){: .floater }
 
 The first six assignments deal with the technical aspects of these
 cameras, focusing on features your point-and-shoot or camera phone don’t
@@ -47,12 +47,8 @@ look toward other sources.
 Assignments*](http://shop.oreilly.com/product/9781933952796.do) is
 available from O’Reilly.
 
-<div class="panel">
 **Note:** I wrote this review for [O’Reilly’s Blogger Review
 Program](http://oreilly.com/bloggers/). It’s a pretty nice deal: Get a
 free e-book to read, share a review in your blog, get another free book
 to read. Sign up for yourself to take advantage of this deal, and watch
-for more book reports in my blog.\
-
-</div>
-
+for more book reports in my blog.

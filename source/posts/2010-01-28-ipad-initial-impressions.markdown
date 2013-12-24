@@ -9,7 +9,7 @@ tags: [ "iPad", "Education Technology" ]
 
 Hey, did you hear? Apple announced the
 [iPad](http://www.apple.com/ipad/) yesterday, a 10-inch, super-thin
-tablet computer with a surprisingly decent starting price of \$499
+tablet computer with a surprisingly decent starting price of \499
 (waiting to hear if they’ll have academic price breaks). Every
 technology pundit worth his or her blog has already chipped in two cents
 (or at least made fun of the name), so why not add my own?

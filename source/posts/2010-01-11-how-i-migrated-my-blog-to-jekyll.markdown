@@ -11,8 +11,8 @@ As I mentioned last night, I’ve moved this blog from using WordPress on
 the backend to [Jekyll](http://github.com/mojombo/jekyll/), my new
 favorite way to publish on the web. Jekyll’s made web publishing fun for
 me again. It’s a throwback in many ways to the ways we used to do things
-back in the early days of the web~~~~lots of command line and text
-editors~~~~while providing modern conveniences like an intelligent
+back in the early days of the web--lots of command line and text
+editors--while providing modern conveniences like an intelligent
 templating system and local server for development. If you’re frustrated
 with WordPress security or performance issues, or think that other
 content management system offerings are more complex than they need to

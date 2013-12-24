@@ -5,7 +5,7 @@ title: "Sound Refound: November 2012's Project a Month Project"
 tags: [ "Project a Month Project" ]
 ---
 
-As mentioned separately, I have initiated a [Project a Month Project](/posts/2012/12/project-a-month-project.html) to help kickstart myself into getting more ideas and side projects out into the wild. The inaugural project was a total rebuild of **[Sound Refound](http://soundrefound.com/)**, my online gallery of concert flyers I collected from the streets and venue walls of Lawrence and Seattle back when I used to go to a lot of shows.
+As mentioned separately, I have initiated a [Project a Month Project]--ound.com/)**, my online gallery of concert flyers I collected from the streets and venue walls of Lawrence and Seattle back when I used to go to a lot of shows.
 
 The rest of this post is mostly technical detail of the project. Be forewarned.
 

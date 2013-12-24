@@ -29,9 +29,9 @@ a way to immediately leverage the knowledge of an organization. People
 with expertise and relevance are instantly looped in, can participate in
 the conversation, collaborate, and make contributions more simply than
 ever before. That will be the catalyst of this new productivity
-revolution—delivered through these new social enterprise platforms.\
-
+revolution—delivered through these new social enterprise platforms.
 </blockquote>
+
 I’m curious to know more about how organizations who already *get it*
 are doing this sort of thing now. If you work at a socially-wired
 company or organization, or if you’ve used the social gears to drive a

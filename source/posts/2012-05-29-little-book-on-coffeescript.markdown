@@ -13,10 +13,10 @@ If you’re in the same boat (or if you’re a Python developer who feels
 the same way I do about JavaScript) you’ve likely heard of of
 CoffeeScript, an alternative language that compiles neatly into
 JavaScript. Alex MacCaw’s *[A Little Book on
-CoffeeScript](http://shop.oreilly.com/product/0636920024309.do_) is a
+CoffeeScript](http://shop.oreilly.com/product/0636920024309.do)* is a
 solid introduction to the little language.
-\
-*A Little Book on CoffeeScript\_ is indeed little (checking in at six
+
+*A Little Book on CoffeeScript* is indeed little (checking in at six
 chapters in about 60 pages in PDF form), but offers a thorough
 introduction to the language and how it can make your life with
 JavaScript simpler. The book dives right into syntax, then on through
@@ -46,12 +46,8 @@ a little experience, and delivers lots of practical advice for
 succeeding with the language. All that in a book you can read in an hour
 or so.
 
-<div class="panel">
 **Note:** I wrote this review for [O’Reilly’s Blogger Review
 Program](http://oreilly.com/bloggers/). It’s a pretty nice deal: Get a
 free e-book to read, share a review in your blog, get another free book
 to read. Sign up for yourself to take advantage of this deal, and watch
-for more book reports in my blog.\
-
-</div>
-
+for more book reports in my blog.

@@ -9,7 +9,7 @@ tags: [ "Creativity", "Entrepreneurship", "Work" ]
 
 I’m a big fan of Scott Berkun’s work. His book *The Myths of
 Innovation*, was a [favorite read of mine from last
-year](/posts/2010/11/myths-of-innovation-berkun.html). If
+year]--rkun.html). If
 you’ve read that book and want reinforcement of the practices it
 suggests, or are looking for a video alternative, this O’Reilly Master
 class video may be a good pick. It’s a recording of Berkun leading a
@@ -54,12 +54,8 @@ addition to your inventor’s or project manager’s library.
 Breakthrough Projects Video*](http://oreilly.com/catalog/9780596804602/)
 is available from O’Reilly.
 
-<div class="panel">
 **Note:** I wrote this review for [O’Reilly’s Blogger Review
 Program](http://oreilly.com/bloggers/). It’s a pretty nice deal: Get a
 free e-book to read, share a review in your blog, get another free book
 to read. Sign up for yourself to take advantage of this deal, and watch
-for more book reports in my blog.\
-
-</div>
-
+for more book reports in my blog.

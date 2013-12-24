@@ -12,24 +12,25 @@ still the head coach at USC. The reporter talked about a book Coach
 Carroll had his players read. What interested me about this was that the
 book, W. Timothy Gallwey’s *[The Inner Game of Tennis: The Classic Guide
 to the Mental Side of Peak
-Performance](http://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314/_),
+Performance](http://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314/)*,
 isn’t even about football. Intrigued by that, and the fact that USC’s
 success at the time indicated that maybe it at least couldn’t*hurt\_ to
 check this book out sometime, I picked up a used copy (so used that my
 copy doesn’t include the word *classic* in the title yet). I finally got
 around to reading it this past month.
 
-<img src="/images/content/inner-game.jpg" alt="" class="right" />\
+![cover](/images/content/inner-game.jpg){: .floater }
+
 I don’t play tennis. The only sport I even dabble in anymore is bowling,
 and I haven’t done that in a month. However, as Coach Carroll found,
 *The Inner Game of Tennis* transcends tennis. It transcends sport
 (indeed, Gallwey also offers *[The Inner Game of
-Work](http://theinnergame.com/the-inner-game-of-work/_); I haven’t read
+Work](http://theinnergame.com/the-inner-game-of-work/)*; I haven’t read
 it yet). There are some good pearls for software developers in the book,
 if you allow yourself to read between the lines a bit. Here are few
 takeaways I got:
-\
-**Set your subconscious free:** The crux of*The Inner Game\_ is that we
+
+**Set your subconscious free:** The crux of*The Inner Game* is that we
 have two “selfs;” one conscious and one subconscious. The conscious
 self, often, serves as critic, when it would do better as an observer of
 the subconscious self, which is responsible for learning, creativity,

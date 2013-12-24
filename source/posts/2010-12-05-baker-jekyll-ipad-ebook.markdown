@@ -17,7 +17,7 @@ self-publishing for the iPad, Baker is worth looking into. You’ll need a
 Mac with XCode and the iOS installed&mdash;you can [download these tools
 for free from Apple](http://developer.apple.com/), but to make your
 e-book available to customers in the App Store you’ll need to pony up
-\$99 to [join the iOS Developer Program](http://developer.apple.com/).
+$99 to [join the iOS Developer Program](http://developer.apple.com/).
 
 Since you’ll be using HTML and CSS to format your content, putting
 together an e-book with Baker isn’t much more complex than making a

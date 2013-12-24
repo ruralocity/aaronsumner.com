@@ -7,7 +7,7 @@ tags: [ "Web Development", "Mobile", "Javascript" ]
 
 ---
 
-<img src="/images/content/jquery-mobile.gif" class="right" />\
+![cover](/images/content/jquery-mobile.gif){: .floater }
 Last August, the cover of *Wired* magazine famously proclaimed that “the
 Web is dead” and that native apps have taken over how we interact with
 the Internet. Whether that bold statement is accurate or not is a
@@ -52,12 +52,8 @@ write the Web off just yet.
 Mobile*](http://oreilly.com/catalog/9781449306687/) is available from
 O’Reilly.
 
-<div class="panel">
 **Note:** I wrote this review for [O’Reilly’s Blogger Review
 Program](http://oreilly.com/bloggers/). It’s a pretty nice deal: Get a
 free e-book to read, share a review in your blog, get another free book
 to read. Sign up for yourself to take advantage of this deal, and watch
-for more book reports in my blog.\
-
-</div>
-
+for more book reports in my blog.

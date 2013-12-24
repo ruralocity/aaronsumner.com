@@ -40,9 +40,9 @@ more than 200 artifacts in the database.
 
 <img src="/images/content/sound-refound-main.jpg" alt="" />
 
-The application itself is pretty basic~~~~just a straightforward Rails
+The application itself is pretty basic--just a straightforward Rails
 application with three models . The new thing for me with this app was
-the deployment~~~~after realizing that running a Rails 2.3.x application
+the deployment--after realizing that running a Rails 2.3.x application
 on DreamHost was going to pretty much require *installing my own copy of
 Ruby* in my account I decided to finally take a look at
 [Heroku](http://heroku.com) for application hosting service. What can I
