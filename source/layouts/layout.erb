@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><%= current_page.data.title || "Title T.K." %> | Aaron Sumner</title>
     <%= stylesheet_link_tag "bootstrap", "bootstrap-narrow", "font-awesome", 'http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic', "site" %>
+    <link href="/atom.xml" rel="alternate" title="RSS" type="application/rss+xml">
   </head>
 
   <body class="<%= page_classes %>">
@@ -30,7 +31,7 @@
           <li><a href="/pages/projects.html">Projects</a></li>
           <li><a href="/pages/colophon.html">Colophon</a></li>
           <li><a href="/pages/license.html">License</a></li>
-          <li><a href="#">Feed</a></li>
+          <li><a href="/atom.xml">Feed</a></li>
           <li><a href="/pages/contact.html">Contact</a></li>
         </ul>
     </footer>

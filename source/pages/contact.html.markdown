@@ -20,6 +20,6 @@ I do my best to reply, but please understand that I'm a pretty busy guy and it c
     <li><a href="http://linkedin.com/in/asumner"><i class="fa fa-linkedin-square fa-2x" title="LinkedIn"></i></a></li>
     <li><a href="#"><i class="fa fa-google-plus-square fa-2x" title="Google+"></i></a></li>
     <li><a href="https://facebook.com/aaron.sumner"><i class="fa fa-facebook-square fa-2x" title="Facebook"></i></a></li>
-    <li><a href="#"><i class="fa fa-rss-square fa-2x" title="RSS"></i></a></li>
+    <li><a href="/atom.xml"><i class="fa fa-rss-square fa-2x" title="RSS"></i></a></li>
   </ul>
 </div>
