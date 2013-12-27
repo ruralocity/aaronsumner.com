@@ -57,6 +57,16 @@ set :js_dir, 'js'
 
 set :images_dir, 'images'
 
+# Handle redirects from old post format in development
+require 'rack/rewrite'
+use Rack::Rewrite do
+  r301 '/projects.html', '/pages/projects.html'
+  r301 '/archives.html', '/pages/archives.html'
+  r301 '/colophon.html', '/pages/colophon.html'
+  r301 %r{^/(\d+)/(\d+)/(.*)\/}, '/posts/$1/$2/$3.html'
+  r301 %r{^/(\d+)/(\d+)/(.*)}, '/posts/$1/$2/$3.html'
+end
+
 activate :blog do |blog|
   blog.prefix = "posts"
   blog.permalink = ":year/:month/:title.html"

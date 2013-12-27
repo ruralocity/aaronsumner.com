@@ -21,3 +21,5 @@ gem "builder"
 
 # Google Analytics
 gem "middleman-google-analytics"
+
+gem "rack-rewrite", "~> 1.4.1"
