@@ -2,6 +2,7 @@
   <h1><%= current_page.data.title || "Title T.K." %></h1>
   <%= yield %>
   <% if current_page.data.date %>
-    <time><%= current_page.data.date.to_datetime.strftime('%B %e, %Y')  %></time>
+    <time><%= current_page.data.date.to_datetime.strftime('%B %e, %Y')  %></time>.
+    Questions or comments? <a href="/pages/contact.html">Let me know what you think</a>.
   <% end %>
 <% end %>
