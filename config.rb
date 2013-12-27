@@ -57,26 +57,24 @@ set :js_dir, 'js'
 
 set :images_dir, 'images'
 
-# Build-specific configuration
-configure :build do
-  # For example, change the Compass output style for deployment
-  # activate :minify_css
-
-  # Minify Javascript on build
-  # activate :minify_javascript
-
-  # Enable cache buster
-  # activate :asset_hash
-
-  # Use relative URLs
-  # activate :relative_assets
-
-  # Or use a different image path
-  # set :http_prefix, "/Content/images/"
-end
-
 activate :blog do |blog|
   blog.prefix = "posts"
   blog.permalink = ":year/:month/:title.html"
   blog.layout = "page"
+end
+
+configure :development do
+  activate :google_analytics do |ga|
+    ga.tracking_id = false
+  end
+end
+
+configure :build do
+  activate :google_analytics do |ga|
+    ga.tracking_id = "UA-1291847-4"
+    ga.debug = false
+    ga.anonymize_ip = true
+    ga.domain_name = "aaronsumner.com"
+    ga.allow_linker = true
+  end
 end

@@ -18,3 +18,6 @@ end
 # Blogging
 gem "middleman-blog"
 gem "builder"
+
+# Google Analytics
+gem "middleman-google-analytics"
