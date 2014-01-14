@@ -2,7 +2,7 @@
 title: Reading List
 ---
 
-Hey, most of these links point to Amazon.com and include my affiliate code, so if you purchase them I get a small cut. O'Reilly books are an exception since I get to read those for free. All that said, I get most of my reading material from my local public library and strongly recommend you do the same.
+Hey, most of these links point to Amazon.com and include my affiliate code, so if you purchase them I get a small cut. O'Reilly books are an exception since I get to read those for free. All that said, I get most of my reading material from my local public library—so be sure to check them out, too.
 
 ## 2014
 
