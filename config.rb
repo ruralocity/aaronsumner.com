@@ -96,3 +96,9 @@ configure :build do
     ga.allow_linker = true
   end
 end
+
+helpers do
+  def author_and_publisher(data)
+    [data.author, data.publisher].join('; ')
+  end
+end

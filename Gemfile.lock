@@ -69,7 +69,10 @@ GEM
       sprockets (~> 2.1)
       sprockets-helpers (~> 1.0.0)
       sprockets-sass (~> 1.0.0)
+    mini_portile (0.5.2)
     multi_json (1.8.4)
+    nokogiri (1.6.1)
+      mini_portile (~> 0.5.0)
     rack (1.5.2)
     rack-livereload (0.3.15)
       rack
@@ -112,6 +115,7 @@ DEPENDENCIES
   middleman-blog (~> 3.5.1)
   middleman-google-analytics
   middleman-livereload (~> 3.1.0)
+  nokogiri
   rack-rewrite (~> 1.4.1)
   ruby18_source_location
   wdm (~> 0.1.0)
