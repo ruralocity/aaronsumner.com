@@ -41,7 +41,7 @@ title: Home
   <div class="col-md-6">
     <h3>Recent posts</h3>
     <ul>
-      <% blog('posts').articles[0...8].each do |article| %>
+      <% blog('posts').articles[0...5].each do |article| %>
         <li>
           <a href="<%= article.url %>"><%= article.title %></a>
           <time>(<%= article.date.strftime('%B %e, %Y') %>)</time>
@@ -51,6 +51,20 @@ title: Home
 
     <p>
       <a href="/pages/archives.html">Hit the archives for more</a>
+    </p>
+
+    <h3>Now reading</h3>
+    <ul>
+      <% blog('reading').articles[0..1].each do |article| %>
+        <li>
+          <a href="<%= article.data.purchase_url %>"><%= article.title %></a>
+          (<%= author_and_publisher(article.data) %>)
+        </li>
+      <% end %>
+    </ul>
+
+    <p>
+      <a href="/pages/reading.html">Complete reading list</a>
     </p>
   </div>
 
