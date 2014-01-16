@@ -68,9 +68,17 @@ use Rack::Rewrite do
 end
 
 activate :blog do |blog|
+  blog.name = "posts"
   blog.prefix = "posts"
   blog.permalink = ":year/:month/:title.html"
   blog.layout = "page"
+end
+
+activate :blog do |blog|
+  blog.name = "reading"
+  blog.prefix = "reading"
+  blog.permalink = ":title.html"
+  blog.layout = "book"
 end
 
 configure :development do
