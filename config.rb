@@ -78,7 +78,6 @@ activate :blog do |blog|
   blog.name = "reading"
   blog.prefix = "reading"
   blog.permalink = ":title.html"
-  blog.layout = "book"
 end
 
 configure :development do
