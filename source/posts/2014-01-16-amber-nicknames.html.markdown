@@ -28,3 +28,12 @@ tags:
 - Coconut
 - Coconut Butt
 
+### Updates: January 17, 2014
+
+Forgot about a few:
+
+- Pinky Tescadero
+- Stinky Tescadero
+- Funky Stinkerbean (I sense a theme)
+- Li'l Tuffy
+
