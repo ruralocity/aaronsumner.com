@@ -37,3 +37,10 @@ Forgot about a few:
 - Funky Stinkerbean (I sense a theme)
 - Li'l Tuffy
 
+### Updates: January 18, 2014
+
+I can't believe I forgot these names I use all the time:
+
+- Potato/Poh-tah-toe
+- Sweet Potato
+- Itty Bitty (Pretty)
