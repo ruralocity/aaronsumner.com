@@ -7,3 +7,4 @@ publisher: Alfred A. Knopf
 tags:
 ---
 
+Quick, entertaining read on how all your favorite writers and artists maintained creativity. Spoiler alert: Major drug and alcohol abuse.
