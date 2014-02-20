@@ -7,3 +7,4 @@ publisher: Avery
 tags:
 ---
 
+Interesting, general audience-oriented look at research on willpower--and why it's easy to form bad habits and hard to start good ones. Well, for me, anyway.
