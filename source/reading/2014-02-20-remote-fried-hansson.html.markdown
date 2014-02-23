@@ -7,3 +7,4 @@ publisher: Crown Business
 tags:
 ---
 
+A quick read for anyone interested in telework/telecommuting/remote work/whatever you want to call it. Includes resources for people already working remotely, too.
