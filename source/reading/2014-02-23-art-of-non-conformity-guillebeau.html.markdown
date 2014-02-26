@@ -7,3 +7,4 @@ publisher: Penguin
 tags:
 ---
 
+Really wanted to like it but couldn't get through three chapters.
