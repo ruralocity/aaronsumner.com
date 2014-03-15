@@ -7,3 +7,4 @@ publisher: Oxford University Press
 tags:
 ---
 
+Interesting book, but I had to focus on other things and couldn't get around to finishing it. Hope to revisit in the future.
