@@ -18,3 +18,5 @@
 
 # Ignore drafts folder
 /build
+
+/.cache
