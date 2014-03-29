@@ -7,3 +7,4 @@ publisher: O'Reilly Media
 tags:
 ---
 
+Another attempt to get into iOS development. Failed.
