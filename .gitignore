@@ -17,6 +17,6 @@
 .DS_Store
 
 # Ignore drafts folder
-/build
+/drafts
 
 /.cache
