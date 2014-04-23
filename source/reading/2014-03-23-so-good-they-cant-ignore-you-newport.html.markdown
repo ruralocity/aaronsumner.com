@@ -6,3 +6,5 @@ publisher: Business Plus
 date: 2014-03-23
 tags:
 ---
+
+Recommended by a number of people I respect, but left me disappointed. It could've been a long blog post. Good overall premise, but shaky examples and a somewhat condescending tone did it in for me.

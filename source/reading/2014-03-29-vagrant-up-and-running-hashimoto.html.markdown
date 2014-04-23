@@ -7,3 +7,4 @@ publisher: O'Reilly Media
 tags:
 ---
 
+Picked it up as a Vagrant refresher and came away with some things I hadn't seen in other books on the subject, especially coverage of plugin development. Recommended.
