@@ -7,3 +7,4 @@ publisher: O'Reilly Media
 tags:
 ---
 
+A new addition to my list of favorite Ruby books.
