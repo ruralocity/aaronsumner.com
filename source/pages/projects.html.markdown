@@ -20,7 +20,7 @@ A spartan, personal utility application to create charts of sales data for my bo
 
 #### Everyday Rails Testing with RSpec updates (February 2013)
 
-Some much-needed updates to [my self-published book on the RSpec test framework and Rails](https://leanpub.com/everydayrailsrspec), covering changes to the landscape that have occurred since last fall. ([Summary](/posts/2013/03/rspec-book-updates-feb-2013.html))
+Some much-needed updates to [my book on the RSpec test framework and Rails](https://leanpub.com/everydayrailsrspec), covering changes to the landscape that have occurred since last fall. ([Summary](/posts/2013/03/rspec-book-updates-feb-2013.html))
 
 #### Wall cabinet (September 2013)
 
