@@ -3,7 +3,7 @@ title: Learning Devise for Rails
 date: 2014-01-22 20:27 UTC
 purchase_url: http://shop.oreilly.com/product/9781782167044.do
 author: Hafiz Barie Lubis, Nia Mutiara, Giovanni Sakti
-publisher: Packit Publishing
+publisher: Packt Publishing
 tags:
 ---
 
