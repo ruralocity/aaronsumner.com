@@ -1,0 +1,9 @@
+---
+title: "<%= @reading.title %>"
+purchase_url:
+author: "<%= @reading.author %>"
+publisher: "<%= @reading.publisher %>"
+date: <%= @reading.date %>
+tags:
+---
+

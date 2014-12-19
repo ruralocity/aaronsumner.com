@@ -1,8 +1,25 @@
+require 'thor'
+require 'active_support/inflector'
+
+class Generator < Thor
+  include Thor::Actions
+  Thor::Sandbox::Generator.source_root('templates')
+
+  # A work in progress ...
+  desc "reading", "add a new book to the reading list"
+  def reading
+    title = ask 'Title:'
+    author = ask 'Author:'
+    publisher = ask 'Publisher:'
+    @reading = Book.new(title, author, publisher)
+
+    template('reading.tt', "source/reading/#{@reading.filename}")
+  end
+end
+
 # A series of quick Thor tasks I used to convert the site from its legacy Jekyll
 # format to the current Middleman version you can see at
 # http://www.aaronsumner.com/
-
-require "thor"
 
 class Converter < Thor
   include Thor::Actions
@@ -68,5 +85,39 @@ class Converter < Thor
       puts "converting #{file} ..."
       gsub_file file, /http:\/\/w*\.*aaronsumner.com\//, "/"
     end
+  end
+end
+
+class Book
+  extend ActiveSupport::Inflector
+
+  attr_reader :title
+  attr_reader :author
+  attr_reader :publisher
+  attr_reader :date
+
+  def initialize(title, author, publisher)
+    @title = title
+    @author = author
+    @publisher = publisher
+    @date = Time.new
+  end
+
+  def filename
+    "#{date_param}-#{title_param}-#{author_param}.html.markdown"
+  end
+
+  private
+
+  def title_param
+    @title.parameterize
+  end
+
+  def author_param
+    @author.parameterize
+  end
+
+  def date_param
+    @date.strftime('%Y-%m-%d')
   end
 end
