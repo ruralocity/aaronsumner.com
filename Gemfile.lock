@@ -111,6 +111,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport
   builder
   middleman (~> 3.2.2)
   middleman-blog (~> 3.5.1)

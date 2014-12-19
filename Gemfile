@@ -20,6 +20,7 @@ end
 gem "middleman-blog", "~> 3.5.1"
 gem "builder"
 gem "nokogiri"
+gem 'activesupport'
 
 # Google Analytics
 gem "middleman-google-analytics"
