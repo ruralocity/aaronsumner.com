@@ -14,7 +14,7 @@ book, W. Timothy Gallwey’s *[The Inner Game of Tennis: The Classic Guide
 to the Mental Side of Peak
 Performance](http://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314/)*,
 isn’t even about football. Intrigued by that, and the fact that USC’s
-success at the time indicated that maybe it at least couldn’t*hurt\_ to
+success at the time indicated that maybe it at least couldn’t *hurt* to
 check this book out sometime, I picked up a used copy (so used that my
 copy doesn’t include the word *classic* in the title yet). I finally got
 around to reading it this past month.
