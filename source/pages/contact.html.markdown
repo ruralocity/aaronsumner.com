@@ -5,8 +5,8 @@ title: Contact
 I've decided to remove a traditional commenting mechanism from this site, so if you have a question or something to say you'll need to go one of these routes:
 
 - Send me an at-reply on Twitter; I'm [@ruralocity](https://twitter.com/ruralocity) there.
-- Send me an email at [aaron@ruralocity.com](mailto:aaron@ruralocity.com).
-- If you have a question about something from _Everyday Rails Testing with RSpec_, please direct it to the [GitHub issues page for that project](https://github.com/everydayrails/rspec_rails_4/issues).
+- Send me an email at [aaron@binarybbq.com](mailto:aaron@binarybbq.com).
+- If you have a question about something from _Everyday Rails Testing with RSpec_, please direct it to the [GitHub issues page for that project](https://github.com/everydayrails/).
 
 I do my best to reply, but please understand that I'm a pretty busy guy and it can sometimes take me a few days.
 
@@ -23,3 +23,7 @@ I do my best to reply, but please understand that I'm a pretty busy guy and it c
     <li><a href="/atom.xml"><i class="fa fa-rss-square fa-2x" title="RSS"></i></a></li>
   </ul>
 </div>
+
+### Postcards
+
+Aaron Sumner / 645 Vermont Street #442496 / Lawrence KS 66044 / USA
