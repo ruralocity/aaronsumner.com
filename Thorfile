@@ -107,6 +107,10 @@ class Book
     "#{date_param}-#{title_param}-#{author_param}.html.markdown"
   end
 
+  def date_param
+    @date.strftime('%Y-%m-%d')
+  end
+
   private
 
   def title_param
@@ -115,9 +119,5 @@ class Book
 
   def author_param
     @author.parameterize
-  end
-
-  def date_param
-    @date.strftime('%Y-%m-%d')
   end
 end
