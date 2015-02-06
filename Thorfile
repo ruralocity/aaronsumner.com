@@ -1,5 +1,6 @@
 require 'thor'
 require 'active_support/inflector'
+require 'vacuum'
 
 class Generator < Thor
   include Thor::Actions
@@ -8,10 +9,12 @@ class Generator < Thor
   # A work in progress ...
   desc "reading", "add a new book to the reading list"
   def reading
+    # TODO: Ask for ASIN first, and if present, use it to populate the rest
     title = ask 'Title:'
     author = ask 'Author:'
     publisher = ask 'Publisher:'
-    @reading = Book.new(title, author, publisher)
+    asin = ask 'ASIN:'
+    @reading = Book.new(title, author, publisher, asin)
 
     template('reading.tt', "source/reading/#{@reading.filename}")
   end
@@ -95,12 +98,14 @@ class Book
   attr_reader :author
   attr_reader :publisher
   attr_reader :date
+  attr_reader :amazon_book
 
-  def initialize(title, author, publisher)
+  def initialize(title, author, publisher, asin)
     @title = title
     @author = author
     @publisher = publisher
     @date = Time.new
+    @amazon_book = AmazonBook.new(asin) unless asin.empty?
   end
 
   def filename
@@ -111,6 +116,14 @@ class Book
     @date.strftime('%Y-%m-%d')
   end
 
+  def url
+    @amazon_book.url if @amazon_book
+  end
+
+  def image
+    @amazon_book.image if @amazon_book
+  end
+
   private
 
   def title_param
@@ -119,5 +132,36 @@ class Book
 
   def author_param
     @author.parameterize
+  end
+end
+
+class AmazonBook
+  def initialize(asin)
+    # assumes environment is setup per vacuum's instructions
+    @details = find_book_by_asin(asin)
+  end
+
+  def url
+    @details['ItemLookupResponse']['Items']['Item']['DetailPageURL']
+  end
+
+  def image
+    @details['ItemLookupResponse']['Items']['Item']['SmallImage']['URL']
+  end
+
+  private
+
+  def find_book_by_asin(asin)
+    # TODO: Error handling
+    request = Vacuum.new
+    request.associate_tag = 'everrail-20'
+    query = {
+      query: {
+        'ItemId' => asin,
+        'ResponseGroup' => 'ItemAttributes,Images',
+      }
+    }
+    response = request.item_lookup(query)
+    response.to_h
   end
 end

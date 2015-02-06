@@ -21,6 +21,7 @@ gem "middleman-blog", "~> 3.5.1"
 gem "builder"
 gem "nokogiri"
 gem 'activesupport'
+gem 'vacuum'
 
 # Google Analytics
 gem "middleman-google-analytics"
