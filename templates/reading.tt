@@ -4,8 +4,7 @@ purchase_url: <%= @reading.url %>
 author: "<%= @reading.author %>"
 publisher: "<%= @reading.publisher %>"
 date: <%= @reading.date_param %>
+image: <%= @reading.image %>
 tags:
 ---
-<% if @reading.image %>
-<a href="<%= @reading.url %>"><img class="amazon-book-cover" src="<%= @reading.image %>" /></a>
-<% end %>
+
