@@ -1,22 +1,15 @@
 require 'thor'
-require 'active_support/inflector'
-require 'vacuum'
+require './lib/book'
 
 class Generator < Thor
   include Thor::Actions
   Thor::Sandbox::Generator.source_root('templates')
 
-  # A work in progress ...
-  desc "reading", "add a new book to the reading list"
+  desc "reading", "generate a new reading list item by ASIN"
   def reading
-    # TODO: Ask for ASIN first, and if present, use it to populate the rest
-    title = ask 'Title:'
-    author = ask 'Author:'
-    publisher = ask 'Publisher:'
     asin = ask 'ASIN:'
-    @reading = Book.new(title, author, publisher, asin)
-
-    template('reading.tt', "source/reading/#{@reading.filename}")
+    @book = Book.new(asin)
+    template('reading.tt', "source/reading/#{@book.filename}")
   end
 end
 
@@ -88,80 +81,5 @@ class Converter < Thor
       puts "converting #{file} ..."
       gsub_file file, /http:\/\/w*\.*aaronsumner.com\//, "/"
     end
-  end
-end
-
-class Book
-  extend ActiveSupport::Inflector
-
-  attr_reader :title
-  attr_reader :author
-  attr_reader :publisher
-  attr_reader :date
-  attr_reader :amazon_book
-
-  def initialize(title, author, publisher, asin)
-    @title = title
-    @author = author
-    @publisher = publisher
-    @date = Time.new
-    @amazon_book = AmazonBook.new(asin) unless asin.empty?
-  end
-
-  def filename
-    "#{date_param}-#{title_param}-#{author_param}.html.markdown"
-  end
-
-  def date_param
-    @date.strftime('%Y-%m-%d')
-  end
-
-  def url
-    @amazon_book.url if @amazon_book
-  end
-
-  def image
-    @amazon_book.image if @amazon_book
-  end
-
-  private
-
-  def title_param
-    @title.parameterize
-  end
-
-  def author_param
-    @author.parameterize
-  end
-end
-
-class AmazonBook
-  def initialize(asin)
-    # assumes environment is setup per vacuum's instructions
-    @details = find_book_by_asin(asin)
-  end
-
-  def url
-    @details['ItemLookupResponse']['Items']['Item']['DetailPageURL']
-  end
-
-  def image
-    @details['ItemLookupResponse']['Items']['Item']['SmallImage']['URL']
-  end
-
-  private
-
-  def find_book_by_asin(asin)
-    # TODO: Error handling
-    request = Vacuum.new
-    request.associate_tag = 'everrail-20'
-    query = {
-      query: {
-        'ItemId' => asin,
-        'ResponseGroup' => 'ItemAttributes,Images',
-      }
-    }
-    response = request.item_lookup(query)
-    response.to_h
   end
 end

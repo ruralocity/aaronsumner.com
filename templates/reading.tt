@@ -1,10 +1,10 @@
 ---
-title: "<%= @reading.title %>"
-purchase_url: <%= @reading.url %>
-author: "<%= @reading.author %>"
-publisher: "<%= @reading.publisher %>"
-date: <%= @reading.date_param %>
-image: <%= @reading.image %>
+title: "<%= @book.title %>"
+purchase_url: <%= @book.url %>
+author: "<%= @book.author %>"
+publisher: "<%= @book.publisher %>"
+date: <%= @book.date_param %>
+image: <%= @book.image %>
 tags:
 ---
 
