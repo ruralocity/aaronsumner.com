@@ -19,7 +19,7 @@ title: Reading List
     <li>
       <article class="reading">
         <% if article.data.image %>
-        <a href="<%= article.data.purchase_url %>"><img class="amazon-book-cover" src="<%= article.data.image %>" /></a>
+        <a href="<%= article.data.purchase_url %>"><img alt="" class="amazon-book-cover" src="<%= article.data.image %>" /></a>
         <% end %>
         <h4>
           <a href="<%= article.data.purchase_url %>"><%= article.title %> (<%= author_and_publisher(article.data) %>)</a>
