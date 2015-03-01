@@ -17,7 +17,7 @@ title: Reading List
 <ul>
   <% blog('reading').articles.each do |article| %>
     <li>
-      <article>
+      <article class="reading">
         <% if article.data.image %>
         <a href="<%= article.data.purchase_url %>"><img class="amazon-book-cover" src="<%= article.data.image %>" /></a>
         <% end %>
