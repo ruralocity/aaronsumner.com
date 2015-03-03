@@ -8,3 +8,5 @@ image: http://ecx.images-amazon.com/images/I/516TXpkm6%2BL._SL75_.jpg
 tags:
 ---
 
+Quick read so far--another one of those books that could probably be a
+decent-sized post on Medium instead of a whole business book.
