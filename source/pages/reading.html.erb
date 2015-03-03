@@ -16,17 +16,15 @@ title: Reading List
 
 <ul>
   <% blog('reading').articles.each do |article| %>
-    <li>
-      <article class="reading">
-        <% if article.data.image %>
-        <a href="<%= article.data.purchase_url %>"><img alt="" class="amazon-book-cover" src="<%= article.data.image %>" /></a>
-        <% end %>
-        <h4>
-          <a href="<%= article.data.purchase_url %>"><%= article.title %> (<%= author_and_publisher(article.data) %>)</a>
-        </h4>
-        <%= article.summary(500) %>
-        <time>(<%= article.date.strftime('%B %Y') %>)</time>
-      </article>
+    <li> 
+      <% if article.data.image %>
+      <a href="<%= article.data.purchase_url %>"><img alt="" class="amazon-book-cover" src="<%= article.data.image %>" /></a>
+      <% end %>
+      <h4>
+        <a href="<%= article.data.purchase_url %>"><%= article.title %> (<%= author_and_publisher(article.data) %>)</a>
+      </h4>
+      <%= article.summary(500) %>
+      <time>(<%= article.date.strftime('%B %Y') %>)</time>
     </li>
   <% end %>
 </ul>
