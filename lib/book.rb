@@ -22,7 +22,11 @@ class Book
   end
 
   def author
-    @details['ItemLookupResponse']['Items']['Item']['ItemAttributes']['Author']
+    author_string = @details['ItemLookupResponse']['Items']['Item']['ItemAttributes']['Author']
+    if author_string.is_a? Array
+      author_string = author_string.join(', ')
+    end
+    author_string
   end
 
   def publisher
