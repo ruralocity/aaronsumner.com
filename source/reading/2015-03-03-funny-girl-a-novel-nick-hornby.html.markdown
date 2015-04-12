@@ -9,4 +9,6 @@ tags:
 ---
 
 Trying some fiction after a long, long break from it. I really liked Hornby's
-stuff in the 90s but haven't kept up with his more recent work.
+stuff in the 90s but haven't kept up with his more recent work. (Edit: I've
+gotten bad at reading fiction, I guess, and this is on a two-week loan. I'm
+enjoying it, but can't keep up with the necessary pace.)
