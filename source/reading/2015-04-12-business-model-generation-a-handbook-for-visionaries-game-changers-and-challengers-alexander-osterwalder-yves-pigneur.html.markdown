@@ -8,3 +8,5 @@ image: http://ecx.images-amazon.com/images/I/61hdwArEEXL._SL75_.jpg
 tags:
 ---
 
+This book would've been more useful to me in my role at my last employer. It's
+got some good ideas, and is probably best suited for the very visually-oriented.
