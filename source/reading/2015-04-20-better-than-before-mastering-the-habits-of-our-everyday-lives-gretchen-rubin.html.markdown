@@ -8,3 +8,7 @@ image: http://ecx.images-amazon.com/images/I/41FcxIppSiL._SL75_.jpg
 tags:
 ---
 
+Mixed feelings about this book. I totally buy the core tenet, that
+one-size-fits-all does not apply to people trying to form good habits. Not sure
+how I feel about the labeling from there, though, and I'm a little skeptical of
+the science used to support said labels.
