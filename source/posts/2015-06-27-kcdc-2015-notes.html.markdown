@@ -1,0 +1,107 @@
+---
+title: My notes from KCDC 2015
+date: 2015-06-27 01:13 UTC
+tags:
+---
+
+For this year's [Kansas City Developer Conference](http://kcdc.info) I made a
+spur-of-the-moment decision to give sketchnoting a try. I'd read through *[The
+Sketchnote
+Handbook](http://www.amazon.com/The-Sketchnote-Handbook-illustrated-visual/dp/0321857895%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321857895)*
+by Mike Rohde earlier in the year, and felt inspired by the blank notebook
+included in the conference swag bag. Here are those notes--it was a fun process.
+I hope to give it another try in a few weeks at [OSCON](http://oscon.com), and
+hope you'll give it a try the next time you attend a conference.
+
+<a href="https://www.flickr.com/photos/rockchalk/19152224312" title="Remotely
+Successful sketchnotes by Aaron Sumner, on Flickr"><img
+src="https://c1.staticflickr.com/1/511/19152224312_a59744f6e2_c.jpg" width="600"
+height="800" alt="Remotely Successful sketchnotes"></a>
+
+**Remotely Successful** by Matt Darby and Zander Hill
+
+<a href="https://www.flickr.com/photos/rockchalk/18970290840" title="Fizz Buzz
+Buzzkill sketchnotes by Aaron Sumner, on Flickr"><img
+src="https://c1.staticflickr.com/1/495/18970290840_0f30a0be66_c.jpg" width="600"
+height="800" alt="Fizz Buzz Buzzkill sketchnotes"></a>
+
+**Fizz Buzz Buzzkill** by Ryan Doll
+
+<a href="https://www.flickr.com/photos/rockchalk/19158011635" title="Complexity
+is Outside the Code sketchnotes (part 1) by Aaron Sumner, on Flickr"><img
+src="https://c1.staticflickr.com/1/260/19158011635_098bca4da0_c.jpg" width="600"
+height="800" alt="Complexity is Outside the Code sketchnotes (part 1)"></a>
+
+<a href="https://www.flickr.com/photos/rockchalk/18971888749" title="Complexity
+is Outside the Code sketchnotes (part 2) by Aaron Sumner, on Flickr"><img
+src="https://c1.staticflickr.com/1/273/18971888749_b4a5efdc13_c.jpg" width="600"
+height="800" alt="Complexity is Outside the Code sketchnotes (part 2)"></a>
+
+**Complexity is Outside the Code** by Jessica Kerr
+
+<a href="https://www.flickr.com/photos/rockchalk/19161509801" title="HowToConf
+sketchnotes by Aaron Sumner, on Flickr"><img
+src="https://c4.staticflickr.com/4/3929/19161509801_1ba3814813_c.jpg"
+width="600" height="800" alt="HowToConf sketchnotes"></a>
+
+**HowToConf** by Matt Darby and Zander Hill
+
+<a href="https://www.flickr.com/photos/rockchalk/18970456748" title="Unfreeze
+Your Brain with Gulp and Slush sketchnotes by Aaron Sumner, on Flickr"><img
+src="https://c4.staticflickr.com/4/3788/18970456748_ae76a5e5da_c.jpg"
+width="600" height="800" alt="Unfreeze Your Brain with Gulp and Slush
+sketchnotes"></a>
+
+**Unfreeze Your Brain with Gulp and Slush** by Jesse Harlin
+
+<a href="https://www.flickr.com/photos/rockchalk/18997325900"
+title="Team-Focused Development sketchnotes, part 1 by Aaron Sumner, on
+Flickr"><img
+src="https://c1.staticflickr.com/1/527/18997325900_c875b6daae_c.jpg" width="600"
+height="800" alt="Team-Focused Development sketchnotes, part 1"></a>
+
+<a href="https://www.flickr.com/photos/rockchalk/18997458308"
+title="Team-Focused Development sketchnotes, part 2 by Aaron Sumner, on
+Flickr"><img
+src="https://c1.staticflickr.com/1/379/18997458308_43e45cfac6_c.jpg" width="600"
+height="800" alt="Team-Focused Development sketchnotes, part 2"></a>
+
+**Team Focused Development** by Jesse Yoakum
+
+<a href="https://www.flickr.com/photos/rockchalk/19179292592" title="An
+Introduction to Ember CLI sketchnotes by Aaron Sumner, on Flickr"><img
+src="https://c1.staticflickr.com/1/304/19179292592_515c4b7479_c.jpg" width="600"
+height="800" alt="An Introduction to Ember CLI sketchnotes"></a>
+
+**Introduction to Ember CLI** by Brandon Williams
+
+<a href="https://www.flickr.com/photos/rockchalk/19188668111" title="Leveraging
+Modern Device Features from the Web sketchnotes by Aaron Sumner, on Flickr"><img
+src="https://c1.staticflickr.com/1/399/19188668111_0c1736988f_c.jpg" width="600"
+height="800" alt="Leveraging Modern Device Features from the Web
+sketchnotes"></a>
+
+**Leveraging Modern Device Features from the Web** by Andrew Dunkman
+
+<a href="https://www.flickr.com/photos/rockchalk/18997509848" title="A Tour of
+Elixir sketchnotes by Aaron Sumner, on Flickr"><img
+src="https://c1.staticflickr.com/1/436/18997509848_041e3b1e5d_c.jpg" width="600"
+height="800" alt="A Tour of Elixir sketchnotes"></a>
+
+**Fast, Parallel, and Reliable: Pick 3, a Tour of Elixir** by Jordan Day
+
+<a href="https://www.flickr.com/photos/rockchalk/19179275002"
+title="Accessibility for the Modern Web sketchnotes, part 1 by Aaron Sumner, on
+Flickr"><img
+src="https://c1.staticflickr.com/1/515/19179275002_ea157512a0_c.jpg" width="600"
+height="800" alt="Accessibility for the Modern Web sketchnotes, part 1"></a>
+
+<a href="https://www.flickr.com/photos/rockchalk/19185089035"
+title="Accessibility for the Modern Web sketchnotes, part 2 by Aaron Sumner, on
+Flickr"><img
+src="https://c1.staticflickr.com/1/400/19185089035_4a81dcfc10_c.jpg" width="600"
+height="800" alt="Accessibility for the Modern Web sketchnotes, part 2"></a>
+
+**Accessibility for the Modern Web** by Brian Greene
+
+
