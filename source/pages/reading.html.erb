@@ -17,6 +17,7 @@ title: Reading List
 <ul>
   <% blog('reading').articles.each do |article| %>
     <li> 
+      <div class="reading">
       <% if article.data.image %>
       <a href="<%= article.data.purchase_url %>"><img alt="" class="book amazon-book-cover" src="<%= article.data.image %>" /></a>
       <% end %>
@@ -25,6 +26,7 @@ title: Reading List
       </h4>
       <%= article.summary(500) %>
       <time>(<%= article.date.strftime('%B %Y') %>)</time>
+      </div>
     </li>
   <% end %>
 </ul>
