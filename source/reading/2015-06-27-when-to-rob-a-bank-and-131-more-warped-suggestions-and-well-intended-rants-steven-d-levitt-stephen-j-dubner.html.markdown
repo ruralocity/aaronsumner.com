@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/51XstUZgKuL._SL75_.jpg
 tags:
 ---
 
+A fun read; I think it'd be a good introduction to the *Freakonomics* take on the world for anyone who hasn't yet read any of their other books.
