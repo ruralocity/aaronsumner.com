@@ -11,7 +11,7 @@ Last week I decided to give GitHub's [Atom](http://atom.io) an honest try as my 
 
 So about one week in, here are the things I'm liking most:
 
-- **The Atom ecosystem is already huge.** It's really nice to notice something you'd like the editor to do (for example, [displaying a realtime word count](https://atom.io/packages/wordcount) while writing blog posts and book chapters), check for Atom packages, and find at least one solution, or more. It's a testament to the ubiquity of JavaScript.
+- **The Atom ecosystem is already huge.** It's really nice to notice something you'd like the editor to do (for example, [displaying a realtime word count](https://atom.io/packages/wordcount) while writing blog posts and [book chapters](https://leanpub.com/everydayrailsrspec)), check for Atom packages, and find at least one solution, or more. It's a testament to the ubiquity of JavaScript.
 - And when Atom doesn't quite do what you'd like, **it's dead simple to customize** using common web tools. This has been my favorite features, hands down. I also like how straightforward it is to get to customizations in Atom. To be honest, I never quite figured out how extensibility in TextMate 2 was supposed to work, and wound up reverting my behavior to just accepting whatever was available to me.
 - I don't know if I'm supposed to be doing this, but I like that I can **keep my Atom configurations under source control** by adding an *atom* directory in my dotfiles, then symlinking *~/.atom* to it. I couldn't easily do that with TextMate. It'll be nice to have consistent settings, more or less out of the box, across multiple Macs and an Ubuntu workstation.
 
