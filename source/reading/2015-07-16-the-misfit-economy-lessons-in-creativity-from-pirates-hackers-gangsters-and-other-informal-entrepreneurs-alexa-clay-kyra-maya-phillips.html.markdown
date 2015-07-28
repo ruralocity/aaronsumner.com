@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/51iHv4yKkLL._SL75_.jpg
 tags:
 ---
 
+RIYL Malcolm Gladwell-style, make-a-point-through-a-bunch-of-stories-type books. I don't, always, but the stories in this one are more interesting than most of those. It's a quick read and worth checking out.
