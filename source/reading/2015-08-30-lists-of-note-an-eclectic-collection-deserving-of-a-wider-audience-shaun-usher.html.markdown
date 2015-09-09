@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/51ashFdB93L._SL75_.jpg
 tags:
 ---
 
+Denser than I expected, but enjoyable.
