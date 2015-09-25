@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/417D%2Bybj3GL._SL75_.jpg
 tags:
 ---
 
+A thorough reference for getting specific tasks done in the Ruby ecosystem. It lacks the corresponding discussion pieces that other cookbook-style books from O'Reilly and the Pragmatic Programmers have, but makes up for it by covering more specific scenarios. It's like a well-written, well-vetted Stack Overflow, without all the baggage.
