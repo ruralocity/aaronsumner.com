@@ -8,4 +8,4 @@ image: http://ecx.images-amazon.com/images/I/41ZGOGACDyL._SL75_.jpg
 tags:
 ---
 
-Don't read too much into the fact that I'm reading this book, okay?
+Don't read too much into the fact that I read this book, okay?
