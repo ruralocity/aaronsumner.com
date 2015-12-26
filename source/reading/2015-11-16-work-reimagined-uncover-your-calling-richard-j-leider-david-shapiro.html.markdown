@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/51JG2drcxsL._SL75_.jpg
 tags:
 ---
 
+Ugh. Remind me that I should be writing books like this instead of reading them.
