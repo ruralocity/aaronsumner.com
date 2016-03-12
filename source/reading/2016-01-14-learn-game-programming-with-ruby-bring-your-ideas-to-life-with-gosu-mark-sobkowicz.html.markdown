@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/41hkEJpZRIL._SL75_.jpg
 tags:
 ---
 
+A broad overview of using the Gosu library in Ruby to create relatively simple, 2-D games. I wouldn't make this my first book if I were getting into programming or even Ruby, but it's a fun diversion for people who want to do something with Ruby besides web apps and system automation.
