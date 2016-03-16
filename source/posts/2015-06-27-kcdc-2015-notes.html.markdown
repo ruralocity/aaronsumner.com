@@ -66,7 +66,7 @@ Flickr"><img
 src="https://c1.staticflickr.com/1/379/18997458308_43e45cfac6_c.jpg" width="600"
 height="800" alt="Team-Focused Development sketchnotes, part 2"></a>
 
-**Team Focused Development** by Jesse Yoakum
+**Team Focused Development** by Jerry Yoakum
 
 <a href="https://www.flickr.com/photos/rockchalk/19179292592" title="An
 Introduction to Ember CLI sketchnotes by Aaron Sumner, on Flickr"><img
