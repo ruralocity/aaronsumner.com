@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/51pJ6ykpc6L._SL75_.jpg
 tags:
 ---
 
+Interesting topic, but difficult read. I'll wait for the inevitable *30 for 30*.
