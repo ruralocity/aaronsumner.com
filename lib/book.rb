@@ -29,6 +29,10 @@ class Book
     author_string
   end
 
+  def editor
+    @details['ItemLookupResponse']['Items']['Item']['ItemAttributes']['Editor']
+  end
+
   def publisher
     @details['ItemLookupResponse']['Items']['Item']['ItemAttributes']['Publisher']
   end
@@ -62,6 +66,10 @@ class Book
   end
 
   def author_param
-    author.parameterize
+    if author
+      author.parameterize
+    elsif editor
+      editor.parameterize
+    end
   end
 end
