@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/51xrSIGzOdL._SL75_.jpg
 tags:
 ---
 
+I'm pleasantly surprised by this book. Practical advice for people who are looking to blaze their own path.
