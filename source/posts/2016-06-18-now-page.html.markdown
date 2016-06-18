@@ -1,0 +1,7 @@
+---
+title: I've created a Now page
+date: 2016-06-18 19:35 UTC
+tags:
+---
+
+I added a [Now page](/pages/now.html) to this site, inspired by Derek Sivers's [Now Page Movement](http://nownownow.com/). I think you should do the same. Not only does it let people know what you're up to, it's a healthy exercise in weighing priorities. Maybe you're not as busy as you think you are.
