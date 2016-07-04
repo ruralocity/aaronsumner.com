@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/617qCtvzlqL._SL75_.jpg
 tags:
 ---
 
+This is a beautiful book and recommended to anyone who's played a part in building the Internet over the years.
