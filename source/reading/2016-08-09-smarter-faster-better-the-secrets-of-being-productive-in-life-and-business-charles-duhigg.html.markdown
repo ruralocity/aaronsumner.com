@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/51JktCRRHrL._SL75_.jpg
 tags:
 ---
 
+Among other things, this book includes one of the better explanations/examples I've seen of agile methodologies used outside of a software development context. Good read.
