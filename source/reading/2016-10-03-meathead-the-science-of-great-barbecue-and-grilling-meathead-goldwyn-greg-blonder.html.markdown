@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/61G72qWIr0L._SL75_.jpg
 tags:
 ---
 
+Adapting Meathead's [ribs recipe](http://amazingribs.com/recipes/porknography/best_BBQ_ribs_ever.html) resulted in some of the best ribs I've ever cooked. Not sure I agree with all of his assertions, but the book has gotten me rethinking some things I've always just assumed about smoking. A little cheesy in some places, but worth checking out.

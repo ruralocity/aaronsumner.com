@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/41RwaKBFNdL._SL75_.jpg
 tags:
 ---
 
+Got about a chapter through this, but couldn't figure out where it was heading.

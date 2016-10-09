@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/41FzWwOS4cL._SL75_.jpg
 tags:
 ---
 
+I don't think anything in this book is not available in a blog post somewhere online, but Bruno and Baillet have curated together several neat projects.
