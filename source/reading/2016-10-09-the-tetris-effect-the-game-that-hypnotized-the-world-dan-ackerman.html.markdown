@@ -8,3 +8,7 @@ image: http://ecx.images-amazon.com/images/I/418Z%2BodJ%2B%2BL._SL75_.jpg
 tags:
 ---
 
+Enjoyable read. I remembered some of the details of how Tetris made its way
+to the West, but never knew the whole story. I also never knew how
+relatively rare that Tengen version of the game is--wish I'd held on to my
+copy.
