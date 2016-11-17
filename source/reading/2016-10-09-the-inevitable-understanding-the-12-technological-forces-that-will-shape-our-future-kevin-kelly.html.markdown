@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/51ARPOxWr2L._SL75_.jpg
 tags:
 ---
 
+I was really looking forward to this, but had trouble getting into it once it arrived.
