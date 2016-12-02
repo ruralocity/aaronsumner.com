@@ -8,3 +8,5 @@ image: http://ecx.images-amazon.com/images/I/51cgQETsaUL._SL75_.jpg
 tags:
 ---
 
+One of the better business books I've read in a long time--a fun, down-to-earth
+look at how Koch built the Samuel Adams brand. Highly recommended.
