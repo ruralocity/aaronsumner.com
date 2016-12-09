@@ -8,3 +8,4 @@ image: http://ecx.images-amazon.com/images/I/61W-MDLovNL._SL75_.jpg
 tags:
 ---
 
+Targeted to kids, but still a fun, quick read for anyone interested in reminiscing about classic video games.
