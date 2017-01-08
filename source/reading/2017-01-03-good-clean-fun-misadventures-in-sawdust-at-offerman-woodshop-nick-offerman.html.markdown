@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/61bPUuNgkuL._SL75_.jpg
 tags:
 ---
 
+Recommended for fans of Nick Offerman and/or *Parks and Recreation* and/or craftsmanship of any kind, not necessarily just woodworking.
