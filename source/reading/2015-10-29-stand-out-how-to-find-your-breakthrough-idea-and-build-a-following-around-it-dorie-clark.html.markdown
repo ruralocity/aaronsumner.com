@@ -1,6 +1,6 @@
 ---
 title: "Stand Out: How to Find Your Breakthrough Idea and Build a Following Around It"
-purchase_url: http://www.amazon.com/Stand-Out-Breakthrough-Following-Around/dp/1591847400%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1591847400
+purchase_url: http://amzn.to/2jXhcV8
 author: "Dorie Clark"
 publisher: "Portfolio"
 date: 2015-10-29

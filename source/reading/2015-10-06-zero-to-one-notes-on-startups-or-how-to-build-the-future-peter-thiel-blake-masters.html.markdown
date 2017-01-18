@@ -1,6 +1,6 @@
 ---
 title: "Zero to One: Notes on Startups, or How to Build the Future"
-purchase_url: http://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0804139296
+purchase_url: http://amzn.to/2jXh87Q
 author: "Peter Thiel, Blake Masters"
 publisher: "Crown Business"
 date: 2015-10-06

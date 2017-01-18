@@ -1,6 +1,6 @@
 ---
 title: "A Curious Mind: The Secret to a Bigger Life"
-purchase_url: http://www.amazon.com/Curious-Mind-Secret-Bigger-Life/dp/147673075X%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D147673075X
+purchase_url: http://amzn.to/2jXjN1o
 author: "Brian Grazer, Charles Fishman"
 publisher: "Simon & Schuster"
 date: 2015-07-11

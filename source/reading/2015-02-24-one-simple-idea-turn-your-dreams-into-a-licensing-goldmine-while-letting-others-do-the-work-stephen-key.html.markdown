@@ -1,6 +1,6 @@
 ---
 title: "One Simple Idea: Turn Your Dreams into a Licensing Goldmine While Letting Others Do the Work"
-purchase_url: http://www.amazon.com/One-Simple-Idea-Licensing-Goldmine/dp/0071756159%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0071756159
+purchase_url: http://amzn.to/2jXj40a
 author: "Stephen Key"
 publisher: "McGraw-Hill"
 date: 2015-02-24

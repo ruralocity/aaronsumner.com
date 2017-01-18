@@ -1,6 +1,6 @@
 ---
 title: "The Timber Press Guide to Vegetable Gardening in the Midwest"
-purchase_url: http://www.amazon.com/Timber-Press-Vegetable-Gardening-Midwest/dp/1604695528%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1604695528
+purchase_url: http://amzn.to/2izEG6v
 author: "Michael VanderBrug"
 publisher: "Timber Press"
 date: 2016-01-23

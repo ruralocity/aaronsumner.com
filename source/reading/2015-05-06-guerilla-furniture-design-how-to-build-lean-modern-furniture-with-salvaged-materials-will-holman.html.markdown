@@ -1,6 +1,6 @@
 ---
 title: "Guerilla Furniture Design: How to Build Lean, Modern Furniture with Salvaged Materials"
-purchase_url: http://www.amazon.com/Guerilla-Furniture-Design-Salvaged-Materials/dp/1612123031%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1612123031
+purchase_url: http://amzn.to/2jvgB0j
 author: "Will Holman"
 publisher: "Storey Publishing, LLC"
 date: 2015-05-06

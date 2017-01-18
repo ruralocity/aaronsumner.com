@@ -1,6 +1,6 @@
 ---
 title: "Funny Girl: A Novel"
-purchase_url: http://www.amazon.com/Funny-Girl-Novel-Nick-Hornby/dp/1594205418%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1594205418
+purchase_url: http://amzn.to/2k33STe
 author: "Nick Hornby"
 publisher: "Riverhead Books"
 date: 2015-03-03

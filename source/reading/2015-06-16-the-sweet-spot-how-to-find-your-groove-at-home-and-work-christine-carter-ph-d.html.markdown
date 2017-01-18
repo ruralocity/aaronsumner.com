@@ -1,6 +1,6 @@
 ---
 title: "The Sweet Spot: How to Find Your Groove at Home and Work"
-purchase_url: http://www.amazon.com/The-Sweet-Spot-Find-Groove/dp/0553392042%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0553392042
+purchase_url: http://amzn.to/2jXnX9H
 author: "Christine Carter Ph.D."
 publisher: "Ballantine Books"
 date: 2015-06-16

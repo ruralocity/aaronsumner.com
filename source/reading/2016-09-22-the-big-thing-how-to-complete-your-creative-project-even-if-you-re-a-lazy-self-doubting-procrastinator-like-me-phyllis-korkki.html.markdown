@@ -1,6 +1,6 @@
 ---
 title: "The Big Thing: How to Complete Your Creative Project Even if You're a Lazy, Self-Doubting Procrastinator Like Me"
-purchase_url: http://www.amazon.com/Big-Thing-Complete-Self-Doubting-Procrastinator/dp/0062384309%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0062384309
+purchase_url: http://amzn.to/2izHyjS
 author: "Phyllis Korkki"
 publisher: "Harper"
 date: 2016-09-22

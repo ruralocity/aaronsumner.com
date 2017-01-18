@@ -1,6 +1,6 @@
 ---
 title: "Plants from Pits: Pots of plants for the whole family to enjoy"
-purchase_url: http://www.amazon.com/Plants-Pits-plants-whole-family/dp/1784721034%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1784721034
+purchase_url: http://amzn.to/2jXowjP
 author: "Holly Farrell"
 publisher: "Mitchell Beazley"
 date: 2015-09-11

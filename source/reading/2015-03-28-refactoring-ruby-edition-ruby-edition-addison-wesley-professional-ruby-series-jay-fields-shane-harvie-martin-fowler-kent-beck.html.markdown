@@ -1,6 +1,6 @@
 ---
 title: "Refactoring: Ruby Edition (Addison-Wesley Professional Ruby Series)"
-purchase_url: http://www.amazon.com/Refactoring-Edition-Addison-Wesley-Professional-Series/dp/0321984137%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321984137
+purchase_url: http://amzn.to/2j7J0pO
 author: "Jay Fields, Shane Harvie, Martin Fowler, Kent Beck"
 publisher: "Addison-Wesley Professional"
 date: 2015-03-28

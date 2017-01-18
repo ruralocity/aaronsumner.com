@@ -1,6 +1,6 @@
 ---
 title: "Work Reimagined: Uncover Your Calling"
-purchase_url: http://www.amazon.com/Work-Reimagined-Uncover-Your-Calling/dp/1626565589%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1626565589
+purchase_url: http://amzn.to/2jvaZDD
 author: "Richard J. Leider, David Shapiro"
 publisher: "Berrett-Koehler Publishers"
 date: 2015-11-16

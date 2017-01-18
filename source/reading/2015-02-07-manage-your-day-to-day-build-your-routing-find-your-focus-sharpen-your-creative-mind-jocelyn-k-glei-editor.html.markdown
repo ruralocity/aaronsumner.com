@@ -1,6 +1,6 @@
 ---
 title: "Manage Your Day-to-day: Build Your Routine, Find Your Focus & Sharpen Your Creative Mind"
-purchase_url: http://www.amazon.com/Manage-Your-Day-Day-Creative-ebook/dp/B00B77UE4W%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00B77UE4W
+purchase_url: http://amzn.to/2jXr5lK
 author: "Jocelyn K. Glei (Editor)"
 publisher: "99U"
 date: 2015-02-07

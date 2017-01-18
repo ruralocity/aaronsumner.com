@@ -1,6 +1,6 @@
 ---
 title: "Practical Vim: Edit Text at the Speed of Thought (Pragmatic Programmers)"
-purchase_url: http://www.amazon.com/Practical-Vim-Thought-Pragmatic-Programmers/dp/1934356980%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1934356980
+purchase_url: http://amzn.to/2iG9FJs
 author: "Drew Neil"
 publisher: "Pragmatic Bookshelf"
 date: 2015-03-08

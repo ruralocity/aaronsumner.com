@@ -1,6 +1,6 @@
 ---
 title: "Pomodoro Technique Illustrated (Pragmatic Life)"
-purchase_url: http://www.amazon.com/Pomodoro-Technique-Illustrated-Pragmatic-Life/dp/1934356506%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1934356506
+purchase_url: http://amzn.to/2jXvF3v
 author: "Staffan Noteberg"
 publisher: "Pragmatic Bookshelf"
 date: 2015-11-21

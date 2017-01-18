@@ -1,6 +1,6 @@
 ---
 title: "The Sketchnotes Handbook: The Illustrated Guide to Visual Note Taking"
-purchase_url: http://www.amazon.com/The-Sketchnote-Handbook-illustrated-visual/dp/0321857895%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321857895
+purchase_url: http://amzn.to/2iG6MbF
 author: "Mike Rohde"
 publisher: "Peachpit Press"
 date: 2015-02-16

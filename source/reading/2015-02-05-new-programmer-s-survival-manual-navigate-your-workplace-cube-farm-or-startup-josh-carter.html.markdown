@@ -1,6 +1,6 @@
 ---
 title: "New Programmer's Survival Manual: Navigate Your Workplace, Cube Farm, or Startup"
-purchase_url: ttp://www.amazon.com/gp/product/1934356816/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1934356816&linkCode=as2&tag=everrail-20&linkId=MGJCQFZFKEVBH4RS
+purchase_url: http://amzn.to/2jIEXRO
 author: "Josh Carter"
 publisher: "Pragmatic Programmers"
 date: 2015-02-05

@@ -1,7 +1,7 @@
 ---
 title: "The Undercover Economist: Exposing Why the Rich Are Rich, the Poor Are Poor—and Why You Can Never Buy a Decent Used Car!"
 date: 2014-03-02 17:42 UTC
-purchase_url: http://www.amazon.com/gp/product/0345494016/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0345494016&linkCode=as2&tag=everrail-20
+purchase_url: http://amzn.to/2jIHafU
 author: Tim Harford
 publisher: Oxford University Press
 tags:

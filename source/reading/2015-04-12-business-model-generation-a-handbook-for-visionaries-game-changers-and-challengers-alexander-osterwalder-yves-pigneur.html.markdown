@@ -1,6 +1,6 @@
 ---
 title: "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers"
-purchase_url: http://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0470876417
+purchase_url: http://amzn.to/2jx9p3n
 author: "Alexander Osterwalder, Yves Pigneur"
 publisher: "John Wiley and Sons"
 date: 2015-04-12

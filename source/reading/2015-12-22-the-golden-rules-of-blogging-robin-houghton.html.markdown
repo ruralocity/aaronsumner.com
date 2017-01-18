@@ -1,6 +1,6 @@
 ---
 title: "The Golden Rules Of Blogging"
-purchase_url: http://www.amazon.com/The-Golden-Rules-Of-Blogging/dp/1440339570%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1440339570
+purchase_url: http://amzn.to/2izEtAf
 author: "Robin Houghton"
 publisher: "HOW Books"
 date: 2015-12-22

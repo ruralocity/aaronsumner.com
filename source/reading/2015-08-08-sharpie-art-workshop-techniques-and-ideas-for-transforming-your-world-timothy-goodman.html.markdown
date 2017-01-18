@@ -1,6 +1,6 @@
 ---
 title: "Sharpie Art Workshop: Techniques and Ideas for Transforming Your World"
-purchase_url: http://www.amazon.com/Sharpie-Art-Workshop-Techniques-Transforming/dp/1631590480%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1631590480
+purchase_url: http://amzn.to/2jx8Y9y
 author: "Timothy Goodman"
 publisher: "Rockport Publishers"
 date: 2015-08-08

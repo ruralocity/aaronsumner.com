@@ -1,6 +1,6 @@
 ---
 title: "Testing Python: Applying Unit Testing, TDD, BDD and Acceptance Testing"
-purchase_url: http://www.amazon.com/Testing-Python-Applying-Unit-Acceptance/dp/1118901223%3FSubscriptionId%3DAKIAIVZLK2PABGQI2KAQ%26tag%3Deverrail-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1118901223
+purchase_url: http://amzn.to/2izAJyF
 author: "David Sale"
 publisher: "Wiley"
 date: 2015-06-04
