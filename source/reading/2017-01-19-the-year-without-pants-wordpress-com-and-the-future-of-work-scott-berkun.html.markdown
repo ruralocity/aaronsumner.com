@@ -8,4 +8,6 @@ image: https://images-na.ssl-images-amazon.com/images/I/51owey2z8ML._SL75_.jpg
 tags:
 ---
 
-Reading this for a study group at work.
+Read this for a study group at work. We were interested in its take on
+remote work, but that's just a small part of this book's look at the inner
+workings of Automattic.
