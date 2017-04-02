@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51uMYJ07oBL._SL75_.jpg
 tags:
 ---
 
+A nice, pop science look at metacognition. The resources at the end of the book seem particularly actionable.
