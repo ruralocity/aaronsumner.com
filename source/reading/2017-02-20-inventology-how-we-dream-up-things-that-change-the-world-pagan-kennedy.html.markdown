@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/41sTRc4gBcL._SL75_.jpg
 tags:
 ---
 
+I really enjoyed this book, especially reading it alongside books like _Learn Better_ and _Deep Work_. The patterns espoused in those books result in the outcomes documented in this one. Recommended.

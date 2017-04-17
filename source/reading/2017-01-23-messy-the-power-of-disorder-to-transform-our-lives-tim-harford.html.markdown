@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51ynh7rJqLL._SL75_.jpg
 tags:
 ---
 
+I like Harford, but I had trouble getting into this one.
