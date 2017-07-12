@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51dToE1quFL._SL75_.jpg
 tags:
 ---
 
+Such a wonderful book; Samin Nosrat does a great job explaining conceptual stuff about cooking that I either thought I knew, but didn't; or never knew I had to know. I only scratched the surface before I had to return it to the library, but it's on my wishlist now.

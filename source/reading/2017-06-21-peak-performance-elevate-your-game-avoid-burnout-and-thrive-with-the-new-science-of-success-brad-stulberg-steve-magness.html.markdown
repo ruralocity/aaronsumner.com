@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/41peNvWGh8L._SL75_.jpg
 tags:
 ---
 
+Quick-read book that does a nice job summarizing a lot of other books in my reading list on the general topics of productivity and creativity. Gets a little self-helpy toward the end, but good overall.
