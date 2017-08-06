@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51ze%2Byb39eL._SL75_.jpg
 tags:
 ---
 
+Fun little book for _Star Wars_ fans who also happen to like data charts (guessing that Venn diagram's got a lot of overlap). I noticed a couple of minor errata (&lt;redacted&gt; _did_ appear in season three of _Rebels_, right?), but I'll let the nerds sort that out on Reddit or wherever that sort of thing happens.
