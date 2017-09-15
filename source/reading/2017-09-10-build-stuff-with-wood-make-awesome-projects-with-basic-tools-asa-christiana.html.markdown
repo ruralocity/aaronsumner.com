@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51JgD-chVcL._SL75_.jpg
 tags:
 ---
 
+This is a fun little book. I really like how each chapter builds on the previous in terms of skills and tools used (I also like that it focuses on power tools, because power tools are fun). Some of the instructions _may_ be a little hand-wavy for the very beginners, but that's probably part of the fun. Recommended.
