@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/519sJeZEbOL._SL75_.jpg
 tags:
 ---
 
+Couldn't get into this, just like I couldn't get into the podcast version of it a few years ago. That said, I think some people _do_ need to be told to put down their phones every once in awhile.
