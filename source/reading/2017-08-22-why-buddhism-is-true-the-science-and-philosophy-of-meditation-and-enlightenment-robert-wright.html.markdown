@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/41fUQsuuGIL._SL75_.jpg
 tags:
 ---
 
+Fascinating book, but dense and a little over my head in a lot of places. I read the first few chapters, then switched to the audiobook version to see if I might absorb things better. I really enjoyed Wright's writing style, and was bummed that he didn't read it himself for the audiobook.

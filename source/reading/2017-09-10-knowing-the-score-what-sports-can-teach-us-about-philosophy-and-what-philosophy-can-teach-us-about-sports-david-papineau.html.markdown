@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51vzVT2-4iL._SL75_.jpg
 tags:
 ---
 
+Enjoyable book, even if I didn't get any of the cricket references.
