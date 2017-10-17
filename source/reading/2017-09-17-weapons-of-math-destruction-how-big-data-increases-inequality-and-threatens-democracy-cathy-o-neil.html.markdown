@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51pxbIv3v9L._SL75_.jpg
 tags:
 ---
 
+I finally checked this out, strongly agree with its thesis, and wanted to like it. But I've heard the author interviewed so many times at this point that I didn't feel the need to read a 200+ page rant.
