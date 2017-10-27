@@ -1,0 +1,25 @@
+---
+title: How I run
+date: 2017-10-27 12:01 UTC
+tags: running
+---
+
+Earlier this month, I wrote about [why I picked running back up](https://aaronsumner.com/posts/2017/10/why-i-run.html) after a long, long hiatus. I plugged the [Galloway method](http://amzn.to/2xQiBGT), or _Run Walk Run_, as my program of choice, particularly over the more widely known Couch-to-5K system.
+
+If you're not familiar with Jeff Galloway's method, it's beautiful and simple at its essence. Take short walk breaks, early and often. You'll have the energy you need to finish a run, and you're less likely to get hurt. There's more to it than that, but that's enough to start.
+
+I started off with [Galloway's app](http://lolofit.com/apps/easy_5k_with_jeff_galloway), on a treadmill. The app's okay, but quickly showing its age as far as iOS apps go. The treadmill worked out well because (a) starting a running program outdoors in January in Kansas didn't sound fun, and (b) I didn't know any better. I stuck with the app's introductory program, and transitioned to a self-managed, outdoor routine after I'd completed my first 5K (on the treadmill) and the weather finally got nice.
+
+Now, two days a week, I take a two-to-three mile run on the hilly, rough, gravel roads around my house. If you've ever driven to [Rim Rock Farm](http://www.kuathletics.com/sports/2013/7/31/facilities-rim-rock-farm.aspx) for a cross country meet, you know what these roads are like. They're not pleasant. I have almost been run over by a dump truck. I've had multiple encounters with roadkill, and the scavengers that don't want me anywhere near it. I run past an old milk barn in which [a dude wanted for murder recently hid out for a week](http://cjonline.com/news/local/crime-courts/2017-06-30/da-topeka-man-accused-killing-estranged-wife-found-arrested). The locals colloquially call my route _Landfill Road_, or even _Dump Road_, because yeah, there's a landfill at the end of it. I equate this to Rocky Balboa's training in the original Rocky movie, _vis-a-vis_ Apollo Creed's. Apollo's got the fancy gym and trainer; [Rocky's running around Philly in cheap sweats and punching sides of beef in a meat locker](https://www.youtube.com/watch?v=jtAWOXEjyj0).
+
+I figure that if I can run Dump Road on a hot August evening, I can run just about anywhere.
+
+On Saturday mornings (usually), I drive into town and hit the [Lawrence Levee Trail](https://www.traillink.com/trail/lawrence-levee-trail/) for a four-to-five mile run. It's flat and pleasant, and instead of angry turkey vultures and impatient dump truck drivers, I encounter friendly people who say _good morning!_ as they go by, and familiar faces of people whose routines overlap mine. It's very nice, and I look forward to it (shock), and even feel weird if I miss it for some reason.
+
+I wear a [Fitbit Charge 2](http://amzn.to/2y9pYLy) on my runs. I like it because it has an interval timer to let me know when to run and when to walk, and maps my runs via the Fitbit app (though I have to tote my phone with me). I had a Pebble Time long enough to know I don't need a smartwatch, but I am interested in Fitbit's new [Ionic](http://amzn.to/2iDG892) for its larger screen, if nothing else. (And Fitbits track sleep, something a certain other wearable maker still hasn't figured out.)
+
+I write down my runs on blank monthly calendar pages that I print out. I like the ceremony of manually recording my progress (or sometimes, lack thereof) as opposed to leaving it to Fitbit. That's the best way to pause and reflect on the activity--what went well, and what sucked.
+
+The weather's getting crummy in northeast Kansas again, but I'm fighting going back to the treadmill as long as possible. I do walk on it two or three times a week, but aim to keep my outdoor running schedule as long as possible--even if it means loading up on goofy-looking ear warmers and dudes' running tights. The things we do.
+
+I'm in sort of a maintenance mode now--I want to increase my mileage, and wouldn't mind shaving a few seconds off my pace, but I think it's most important right now to not let the foul weather knock me out of this habit I created for myself this year. After the new year, though, I plan to join [my local running store's Run Walk Run program](http://www.adastrarunning.com/run-walk-lawrence/) and shoot for bigger things--maybe a half marathon for 2018? No guarantees yet, but if you'd told me this time last year that I'd run multiple 5Ks in 2017, I wouldn't have believed you.
