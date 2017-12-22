@@ -1,0 +1,33 @@
+---
+title: 2017 in review
+date: 2017-12-22 04:12 UTC
+tags:
+---
+
+As best as I can remember, 2017 was the first year I publicly set goals for myself. I posted a couple of status reports along the way, and now that the year is almost finished, I figured it appropriate to wrap things up and see how I did.
+
+### Run my first 5K
+
+[As noted in September](/posts/2017/09/goal-status-q3.html), I did this! And by the end of the year, I'd run (run/walked) two more. As a general rule, I've been running three times a week, even as the weather has turned wintry. Of all the things I've done in the past, oh, ten years or so, this is what I'm most proud of.
+
+I'm now able to run/walk at least five miles at a time, at least once per week. If you'd told me a year ago I'd be doing this, I wouldn't have believed you.
+
+### Speak at a technical conference
+
+[I just did this the once](http://kansaslinuxfest.org/2017-aaron-sumner/), in May. But I fully realize, now, the importance of doing this sort of thing on a regular basis. I'm happy that I was able to repurpose this talk at least three times--twice at local meetups, and once at an internal engineering event at my employer, [O'Reilly Media](https://oreilly.com).
+
+And while I didn't leverage this early success into more big public talks in 2017, I submitted a new proposal for [RailsConf](https://railsconf.com/) 2018 the other day. I know it's a long shot, but I'm hoping to at least get some good feedback so I can present at at least one larger-scale event in the coming year. Wish me luck!
+
+### Rebuild passive income streams
+
+I thought that a [thorough upgrade to my Rails testing book](https://leanpub.com/everydayrailsrspec) would introduce it to a new audience, and help generate new revenue. I also felt confident that I could come up with a new idea or two that I could work on outside of my regular job to make the type of revenue I was earning back in the book's heyday.
+
+I was wrong. Book sales have been disappointing, to say the least. And my ideas for new projects haven't panned out as I'd hoped. I won't lie; both of these factors are depressing. And I'm not sure how to address them in the coming year.
+
+### Other items of note
+
+- I stepped down from running a local meetup group. I haven't talked about this publicly, but I resigned as organizer of Lawrence Coders in August, and the group pretty much ceased to be when nobody stepped in to formally pick it up. I had a lot of reasons for stepping down, none of which were financial. I'm disappointed that nobody took over, but that's how it goes. Lawrence Coders served an important purpose, and had a good run. In return, though, I've been able to give more to the [Kansas City Ruby User Group](http://meetup.com/kcruby/), and have enjoyed that a great deal.
+
+- I got back into amateur woodworking, via [Steve Ramsey's Weekend Woodworker online course](https://theweekendwoodworker.com). If you're interested in the craft, I highly recommend checking out Steve's six-week course. I'm still wrapping up the requirements as I write this, but it's done a lot toward helping me feel more comfortable with skills I already had, and understand things I can do with existing tools. I can't tell you how exiting it is to see, like, a beautiful, midcentury chair, and realize that _I could totally build one of those myself_.
+
+- I got pretty fucking good, if I may say so, at cooking on a grill and with a charcoal smoker. I wasn't a slouch before, but I leveled up this year. I owe most of it to reading [Aaron Franklin's book](http://amzn.to/2jXjnbe) (and watching his [PBS series](http://amzn.to/2iNb82p)) on outdoor cooking. Not only did I cook for two more times than I've counted, but I cooked for large parties multiple times. I plan to do this more, and if you live somewhere I hope to be living this time next year, I hope you're listening. Because this is how I figure I'll have to make friends in a new place. In the meantime, [follow my Instagram](https://www.instagram.com/ruralocity/) for highlights.
