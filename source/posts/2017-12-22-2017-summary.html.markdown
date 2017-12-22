@@ -22,7 +22,7 @@ And while I didn't leverage this early success into more big public talks in 201
 
 I thought that a [thorough upgrade to my Rails testing book](https://leanpub.com/everydayrailsrspec) would introduce it to a new audience, and help generate new revenue. I also felt confident that I could come up with a new idea or two that I could work on outside of my regular job to make the type of revenue I was earning back in the book's heyday.
 
-I was wrong. Book sales have been disappointing, to say the least. And my ideas for new projects haven't panned out as I'd hoped. I won't lie; both of these factors are depressing. And I'm not sure how to address them in the coming year.
+I was wrong. Book sales have been disappointing, to say the least. And my ideas for new projects haven't panned out as I'd hoped. I won't lie; both of these factors are depressing. And I'm not sure how to address them in the coming year. In the meantime, I've [started selling the book on Amazon](http://amzn.to/2AiYnW1), and am exploring print options.
 
 ### Other items of note
 
