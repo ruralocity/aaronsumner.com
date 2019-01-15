@@ -1,0 +1,21 @@
+---
+title: January 2019 update
+date: 2019-01-15 16:44 UTC
+tags:
+---
+
+![Astoria](/images/content/astoria-megler.jpg)
+
+Hello, and Happy New Year. You didn't ask, but I'm going to tell you anyway:
+
+I am enjoying life in [Astoria](https://en.wikipedia.org/wiki/Astoria,_Oregon). We've had a nice break from the rain for the past five days now, and I'm always finding new things to do, new small local businesses to support, and what have you. The scenery is amazing--the photo above is from my morning run along the Columbia River last Sunday.
+
+We still need a real barbecue place and a running group, but I don't think I'm the one to start either (in spite of idle threats I've made in the past).
+
+I've been writing (almost) daily for the first time in ages, and have material for a new book idea. It's a sequel of sorts to my first book, _[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)_, but with less focus on code and more attention to concepts (at least for now). It's based on real-life frustrations I have with integration test suites as an application matures.
+
+No guarantees it'll see the light of day, and no timeline, but I'm going to keep writing and see what happens. I'd say if you don't hear more about this by March, it ain't going to happen.
+
+Related, I know Rails 6 is coming, but I don't see doing another update to my first book, at least not this year. There doesn't seem to be the demand for it, and honestly, I need to do other things for awhile.
+
+I've gotten involved with the [Astoria Full Stack](https://www.meetup.com/Astoria-Full-Stack/) software developers group. We're poking at civic hacking ideas in the vein of Code for America; if you're interested, please join the Meetup group and attend our next meeting. Or if you've done this sort of thing in your community, and have suggestions for things we should do (or avoid), please let me know.
