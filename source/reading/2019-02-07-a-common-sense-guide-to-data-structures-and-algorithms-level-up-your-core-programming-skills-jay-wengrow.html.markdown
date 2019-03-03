@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/41ifrhvheUL._SL75_.jpg
 tags:
 ---
 
+As someone who didn't go through a computer science education, I really enjoyed this book. Far more approachable and to-the-point than any other resource I've seen on the topic. Highly recommended.
