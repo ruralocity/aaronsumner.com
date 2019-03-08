@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jv5chj
 author: "Jane McGonigal"
 publisher: "Penguin Press"
 date: 2015-10-16
-image: http://ecx.images-amazon.com/images/I/51oHuRxOgIL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51oHuRxOgIL._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2iG6MbF
 author: "Mike Rohde"
 publisher: "Peachpit Press"
 date: 2015-02-16
-image: http://ecx.images-amazon.com/images/I/51PefxyjMIL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51PefxyjMIL._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izEVPa
 author: "Jake Knapp, John Zeratsky, Braden Kowitz"
 publisher: "Simon & Schuster"
 date: 2016-03-29
-image: http://ecx.images-amazon.com/images/I/51H-QUEcf5L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51H-QUEcf5L._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2iNEfEs
 author: ""
 publisher: "America's Test Kitchen"
 date: 2016-05-08
-image: http://ecx.images-amazon.com/images/I/61YUEhRzkVL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61YUEhRzkVL._SL75_.jpg
 tags:
 ---
 

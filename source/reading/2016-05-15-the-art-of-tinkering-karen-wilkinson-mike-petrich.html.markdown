@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izFecz
 author: "Karen Wilkinson, Mike Petrich"
 publisher: "Weldon Owen"
 date: 2016-05-15
-image: http://ecx.images-amazon.com/images/I/51kNydjXs1L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51kNydjXs1L._SL75_.jpg
 tags:
 ---
 

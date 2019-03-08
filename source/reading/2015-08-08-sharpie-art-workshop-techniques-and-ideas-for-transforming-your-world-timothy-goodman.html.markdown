@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jx8Y9y
 author: "Timothy Goodman"
 publisher: "Rockport Publishers"
 date: 2015-08-08
-image: http://ecx.images-amazon.com/images/I/516VJ8PD%2BJL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/516VJ8PD%2BJL._SL75_.jpg
 tags:
 ---
 

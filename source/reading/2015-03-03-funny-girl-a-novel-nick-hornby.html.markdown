@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2k33STe
 author: "Nick Hornby"
 publisher: "Riverhead Books"
 date: 2015-03-03
-image: http://ecx.images-amazon.com/images/I/51fHeFk79yL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51fHeFk79yL._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2k3avoy
 author: "Mark Sobkowicz"
 publisher: "Pragmatic Bookshelf"
 date: 2016-01-14
-image: http://ecx.images-amazon.com/images/I/41hkEJpZRIL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41hkEJpZRIL._SL75_.jpg
 tags:
 ---
 

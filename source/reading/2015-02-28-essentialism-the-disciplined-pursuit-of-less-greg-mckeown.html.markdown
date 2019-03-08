@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jxbBIn
 author: "Greg McKeown"
 publisher: "Crown Business"
 date: 2015-02-28
-image: http://ecx.images-amazon.com/images/I/516TXpkm6%2BL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/516TXpkm6%2BL._SL75_.jpg
 tags:
 ---
 

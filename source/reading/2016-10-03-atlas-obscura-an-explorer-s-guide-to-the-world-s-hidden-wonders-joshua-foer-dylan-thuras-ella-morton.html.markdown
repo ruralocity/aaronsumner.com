@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izBdoM
 author: "Joshua Foer, Dylan Thuras, Ella Morton"
 publisher: "Workman Publishing Company"
 date: 2016-10-03
-image: http://ecx.images-amazon.com/images/I/51k31p1SkiL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51k31p1SkiL._SL75_.jpg
 tags:
 ---
 

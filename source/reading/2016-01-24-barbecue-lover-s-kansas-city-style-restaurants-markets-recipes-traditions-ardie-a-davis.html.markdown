@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXhsUe
 author: "Ardie A. Davis"
 publisher: "Globe Pequot Press"
 date: 2016-01-24
-image: http://ecx.images-amazon.com/images/I/613EZpSK6cL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/613EZpSK6cL._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2k33iF9
 author: "John Warrillow"
 publisher: "Portfolio"
 date: 2015-05-19
-image: http://ecx.images-amazon.com/images/I/51Gwh7VM1GL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Gwh7VM1GL._SL75_.jpg
 tags:
 ---
 

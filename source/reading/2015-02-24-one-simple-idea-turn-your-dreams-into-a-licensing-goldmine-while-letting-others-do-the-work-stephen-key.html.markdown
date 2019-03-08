@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXj40a
 author: "Stephen Key"
 publisher: "McGraw-Hill"
 date: 2015-02-24
-image: http://ecx.images-amazon.com/images/I/51iYAOUJ2RL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51iYAOUJ2RL._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izL7qe
 author: "Sarah Knight"
 publisher: "Little, Brown and Company"
 date: 2016-02-23
-image: http://ecx.images-amazon.com/images/I/415hfU4ZwnL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/415hfU4ZwnL._SL75_.jpg
 tags:
 ---
 

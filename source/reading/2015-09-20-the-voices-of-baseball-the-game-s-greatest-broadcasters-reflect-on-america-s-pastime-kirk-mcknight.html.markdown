@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jv3PyZ
 author: "Kirk McKnight"
 publisher: "Rowman & Littlefield Publishers"
 date: 2015-09-20
-image: http://ecx.images-amazon.com/images/I/51HsAXyjTNL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51HsAXyjTNL._SL75_.jpg
 tags:
 ---
 

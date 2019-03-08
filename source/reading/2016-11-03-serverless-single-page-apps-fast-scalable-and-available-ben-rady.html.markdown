@@ -4,7 +4,7 @@ purchase_url: https://www.safaribooksonline.com/library/view/serverless-single-p
 author: "Ben Rady"
 publisher: "Pragmatic Bookshelf"
 date: 2016-11-03
-image: http://ecx.images-amazon.com/images/I/41LXPK5Ki-L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41LXPK5Ki-L._SL75_.jpg
 tags:
 ---
 

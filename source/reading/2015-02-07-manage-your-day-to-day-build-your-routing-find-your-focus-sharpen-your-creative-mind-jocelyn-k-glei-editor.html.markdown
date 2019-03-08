@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXr5lK
 author: "Jocelyn K. Glei (Editor)"
 publisher: "99U"
 date: 2015-02-07
-image: http://ecx.images-amazon.com/images/I/41qNwT0g1gL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41qNwT0g1gL._SL75_.jpg
 tags:
 ---
 

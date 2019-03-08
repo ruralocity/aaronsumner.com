@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXkA2y
 author: "Sandi Metz"
 publisher: "Addison-Wesley Professional"
 date: 2016-07-28
-image: http://ecx.images-amazon.com/images/I/51WwzhhzYvL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51WwzhhzYvL._SL75_.jpg
 tags:
 ---
 

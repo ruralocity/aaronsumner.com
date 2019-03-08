@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izI6Gy
 author: "Charles Duhigg"
 publisher: "Random House"
 date: 2016-08-09
-image: http://ecx.images-amazon.com/images/I/51JktCRRHrL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51JktCRRHrL._SL75_.jpg
 tags:
 ---
 

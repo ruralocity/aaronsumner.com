@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izJdWA
 author: "David J. Helfand"
 publisher: "Columbia University Press"
 date: 2016-02-09
-image: http://ecx.images-amazon.com/images/I/51-dYV3TAkL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51-dYV3TAkL._SL75_.jpg
 tags:
 ---
 

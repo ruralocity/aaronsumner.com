@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izRF8j
 author: "Dane Huckelbridge"
 publisher: "William Morrow"
 date: 2016-07-03
-image: http://ecx.images-amazon.com/images/I/518iVxqhLtL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/518iVxqhLtL._SL75_.jpg
 tags:
 ---
 

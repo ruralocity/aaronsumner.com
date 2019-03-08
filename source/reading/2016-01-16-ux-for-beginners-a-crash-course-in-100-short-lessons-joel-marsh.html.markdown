@@ -4,7 +4,7 @@ purchase_url: http://shop.oreilly.com/product/0636920035084.do
 author: "Joel Marsh"
 publisher: "O'Reilly Media"
 date: 2016-01-16
-image: http://ecx.images-amazon.com/images/I/51YSdqHXJHL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51YSdqHXJHL._SL75_.jpg
 tags:
 ---
 

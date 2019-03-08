@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXh87Q
 author: "Peter Thiel, Blake Masters"
 publisher: "Crown Business"
 date: 2015-10-06
-image: http://ecx.images-amazon.com/images/I/41puRJbtwkL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41puRJbtwkL._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXmuQO
 author: "Jim Koch"
 publisher: "Flatiron Books"
 date: 2016-11-22
-image: http://ecx.images-amazon.com/images/I/51cgQETsaUL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51cgQETsaUL._SL75_.jpg
 tags:
 ---
 

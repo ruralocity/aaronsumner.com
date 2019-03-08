@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izEtAf
 author: "Robin Houghton"
 publisher: "HOW Books"
 date: 2015-12-22
-image: http://ecx.images-amazon.com/images/I/51mXrSqZVaL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51mXrSqZVaL._SL75_.jpg
 tags:
 ---
 

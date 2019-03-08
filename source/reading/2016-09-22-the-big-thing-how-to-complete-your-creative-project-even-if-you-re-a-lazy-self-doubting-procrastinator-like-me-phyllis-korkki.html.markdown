@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izHyjS
 author: "Phyllis Korkki"
 publisher: "Harper"
 date: 2016-09-22
-image: http://ecx.images-amazon.com/images/I/41RwaKBFNdL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41RwaKBFNdL._SL75_.jpg
 tags:
 ---
 

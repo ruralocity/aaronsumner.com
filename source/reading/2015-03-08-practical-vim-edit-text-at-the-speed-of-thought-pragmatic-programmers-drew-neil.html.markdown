@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2iG9FJs
 author: "Drew Neil"
 publisher: "Pragmatic Bookshelf"
 date: 2015-03-08
-image: http://ecx.images-amazon.com/images/I/41CDg2Cqz9L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41CDg2Cqz9L._SL75_.jpg
 tags:
 ---
 

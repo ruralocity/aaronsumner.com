@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXvF3v
 author: "Staffan Noteberg"
 publisher: "Pragmatic Bookshelf"
 date: 2015-11-21
-image: http://ecx.images-amazon.com/images/I/51Ll9qONugL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Ll9qONugL._SL75_.jpg
 tags:
 ---
 

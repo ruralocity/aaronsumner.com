@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2j7szKe
 author: "Carol Deppe"
 publisher: "Chelsea Green Publishing"
 date: 2015-05-14
-image: http://ecx.images-amazon.com/images/I/612dMS%2BbidL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/612dMS%2BbidL._SL75_.jpg
 tags:
 ---
 

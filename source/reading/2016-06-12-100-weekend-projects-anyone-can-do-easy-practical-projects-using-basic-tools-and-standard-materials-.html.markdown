@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izFcBG
 author: ""
 publisher: "Reader's Digest"
 date: 2016-06-12
-image: http://ecx.images-amazon.com/images/I/51Y-Aw85aSL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Y-Aw85aSL._SL75_.jpg
 tags:
 ---
 

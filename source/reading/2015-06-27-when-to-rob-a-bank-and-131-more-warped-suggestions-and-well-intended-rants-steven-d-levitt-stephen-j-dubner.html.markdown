@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2k39soT
 author: "Steven D. Levitt, Stephen J. Dubner"
 publisher: "William Morrow"
 date: 2015-06-27
-image: http://ecx.images-amazon.com/images/I/51XstUZgKuL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51XstUZgKuL._SL75_.jpg
 tags:
 ---
 

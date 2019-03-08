@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXiqQf
 author: "Nathan Smith, Michael Snyder"
 publisher: "Timber Press"
 date: 2015-08-23
-image: http://ecx.images-amazon.com/images/I/61PoCrDOT0L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61PoCrDOT0L._SL75_.jpg
 tags:
 ---
 

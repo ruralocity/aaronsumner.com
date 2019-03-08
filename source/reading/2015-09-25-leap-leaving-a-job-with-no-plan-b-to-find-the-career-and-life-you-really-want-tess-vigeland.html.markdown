@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2iNCB5t
 author: "Tess Vigeland"
 publisher: "Harmony"
 date: 2015-09-25
-image: http://ecx.images-amazon.com/images/I/41ZGOGACDyL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41ZGOGACDyL._SL75_.jpg
 tags:
 ---
 

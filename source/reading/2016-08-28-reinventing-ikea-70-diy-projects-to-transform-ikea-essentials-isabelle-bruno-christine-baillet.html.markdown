@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXqkJD
 author: "Isabelle Bruno, Christine Baillet"
 publisher: "Harry N. Abrams"
 date: 2016-08-28
-image: http://ecx.images-amazon.com/images/I/41FzWwOS4cL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41FzWwOS4cL._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXv3uy
 author: "Alexa Clay, Kyra Maya Phillips"
 publisher: "Simon & Schuster"
 date: 2015-07-16
-image: http://ecx.images-amazon.com/images/I/51iHv4yKkLL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51iHv4yKkLL._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jvgB0j
 author: "Will Holman"
 publisher: "Storey Publishing, LLC"
 date: 2015-05-06
-image: http://ecx.images-amazon.com/images/I/61yDr8wWQQL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61yDr8wWQQL._SL75_.jpg
 tags:
 ---
 

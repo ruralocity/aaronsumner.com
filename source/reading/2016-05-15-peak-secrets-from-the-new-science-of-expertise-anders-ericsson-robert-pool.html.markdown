@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2j7UEB5
 author: "Anders Ericsson, Robert Pool"
 publisher: "Eamon Dolan/Houghton Mifflin Harcourt"
 date: 2016-05-15
-image: http://ecx.images-amazon.com/images/I/41rJVsU7tJL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41rJVsU7tJL._SL75_.jpg
 tags:
 ---
 

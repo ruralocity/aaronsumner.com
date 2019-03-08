@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXvYLS
 author: "Kevin Kelly"
 publisher: "Viking"
 date: 2016-10-09
-image: http://ecx.images-amazon.com/images/I/51ARPOxWr2L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51ARPOxWr2L._SL75_.jpg
 tags:
 ---
 

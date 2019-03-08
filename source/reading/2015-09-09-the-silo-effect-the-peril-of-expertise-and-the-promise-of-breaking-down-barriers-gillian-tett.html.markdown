@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXnDaY
 author: "Gillian Tett"
 publisher: "Simon & Schuster"
 date: 2015-09-09
-image: http://ecx.images-amazon.com/images/I/414pXPc6FQL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/414pXPc6FQL._SL75_.jpg
 tags:
 ---
 

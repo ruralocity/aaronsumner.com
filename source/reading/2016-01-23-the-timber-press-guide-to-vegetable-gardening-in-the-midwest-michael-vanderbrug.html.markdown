@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izEG6v
 author: "Michael VanderBrug"
 publisher: "Timber Press"
 date: 2016-01-23
-image: http://ecx.images-amazon.com/images/I/51EevtFTwAL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51EevtFTwAL._SL75_.jpg
 tags:
 ---
 

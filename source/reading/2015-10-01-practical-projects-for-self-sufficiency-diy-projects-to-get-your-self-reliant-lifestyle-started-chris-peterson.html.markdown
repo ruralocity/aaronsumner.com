@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2izDO1T
 author: "Chris Peterson"
 publisher: "Cool Springs Press"
 date: 2015-10-01
-image: http://ecx.images-amazon.com/images/I/51XP2pa4R-L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51XP2pa4R-L._SL75_.jpg
 tags:
 ---
 

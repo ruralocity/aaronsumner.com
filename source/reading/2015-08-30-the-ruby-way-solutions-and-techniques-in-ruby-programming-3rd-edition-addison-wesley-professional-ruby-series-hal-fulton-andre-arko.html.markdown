@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXniFd
 author: "Hal Fulton, André Arko"
 publisher: "Addison-Wesley Professional"
 date: 2015-08-30
-image: http://ecx.images-amazon.com/images/I/417D%2Bybj3GL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/417D%2Bybj3GL._SL75_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2j7J0pO
 author: "Jay Fields, Shane Harvie, Martin Fowler, Kent Beck"
 publisher: "Addison-Wesley Professional"
 date: 2015-03-28
-image: http://ecx.images-amazon.com/images/I/51ZguvU8wLL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51ZguvU8wLL._SL75_.jpg
 tags:
 ---
 

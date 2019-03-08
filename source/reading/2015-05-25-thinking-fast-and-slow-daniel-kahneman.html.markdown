@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jx99Sf
 author: "Daniel Kahneman"
 publisher: "Farrar, Straus and Giroux"
 date: 2015-05-25
-image: http://ecx.images-amazon.com/images/I/41RtytNpsfL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41RtytNpsfL._SL75_.jpg
 tags:
 ---
 

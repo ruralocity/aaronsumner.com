@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXrcxD
 author: "Howard Megdal"
 publisher: "Thomas Dunne Books"
 date: 2016-03-11
-image: http://ecx.images-amazon.com/images/I/51pJ6ykpc6L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51pJ6ykpc6L._SL75_.jpg
 tags:
 ---
 

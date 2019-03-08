@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXjN1o
 author: "Brian Grazer, Charles Fishman"
 publisher: "Simon & Schuster"
 date: 2015-07-11
-image: http://ecx.images-amazon.com/images/I/41rS3QcILfL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41rS3QcILfL._SL75_.jpg
 tags:
 ---
 
