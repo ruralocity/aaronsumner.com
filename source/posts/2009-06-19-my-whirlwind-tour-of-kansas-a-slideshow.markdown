@@ -6,7 +6,7 @@ title: "My whirlwind tour of Kansas: A slideshow"
 
 tags: [ Kansas, Photography ]
 ---
-<p><a href="http://www.flickr.com/photos/rockchalk/3637638353/" title="Monument Rocks by ruralocity, on Flickr"><img src="http://farm3.static.flickr.com/2479/3637638353_9f271f0afd.jpg" width="500" height="333" alt="Monument Rocks" /></a>
+<p><a href="http://www.flickr.com/photos/rockchalk/3637638353/" title="Monument Rocks by ruralocity, on Flickr"><img src="https://farm3.static.flickr.com/2479/3637638353_9f271f0afd.jpg" width="500" height="333" alt="Monument Rocks" /></a>
 </p>
 <p>Last weekend I took a tour of some of the landmarks of Kansas. If you're from here you've probably heard of most of these places, but if your impression of Kansas is that it's just farms, tornados and Toto, you're in for a surprise.
 </p>

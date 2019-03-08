@@ -10,7 +10,7 @@ tags: [ Cooking ]
 ---
 
 [![Grilled
-pizza](http://farm3.static.flickr.com/2422/3593221755_f41fe45fbb.jpg)](http://www.flickr.com/photos/rockchalk/3593221755/ "Grilled pizza by ruralocity, on Flickr")
+pizza](https://farm3.static.flickr.com/2422/3593221755_f41fe45fbb.jpg)](http://www.flickr.com/photos/rockchalk/3593221755/ "Grilled pizza by ruralocity, on Flickr")
 
 Of late, I'm obsessed with cooking somewhat ugly, but incredibly
 delicious, things on the grill. Turns out grilling pizzas isn't as hard

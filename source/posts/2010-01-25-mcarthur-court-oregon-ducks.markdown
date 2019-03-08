@@ -56,7 +56,7 @@ scorecards cleans up on game day. And at least from our seats, the
 public address announcer was not of much help, as the voice coming over
 the antiquated sound system was muffled and mostly inaudible.
 
-<a href="http://www.flickr.com/photos/rockchalk/4301601536/" title="Oregon pep band by ruralocity, on Flickr"><img src="http://farm3.static.flickr.com/2706/4301601536_9ae1878931.jpg" width="500" height="333" alt="Oregon pep band" /></a>
+<a href="http://www.flickr.com/photos/rockchalk/4301601536/" title="Oregon pep band by ruralocity, on Flickr"><img src="https://farm3.static.flickr.com/2706/4301601536_9ae1878931.jpg" width="500" height="333" alt="Oregon pep band" /></a>
 
 The lack of a sound system puts the job of supplying music squarely on
 the collective shoulders of the pep band. In fact, the only instance of
@@ -93,7 +93,7 @@ the game. The “USA! USA!” chant whenever Kyryl Natyazhko (an Arizona
 player hailing from the Ukraine) touched the ball was a little dumb,
 though, reminding me more of pro wrestling than college basketball.
 
-<a href="http://www.flickr.com/photos/rockchalk/4300852859/" title="Press row at McArthur Court by ruralocity, on Flickr"><img src="http://farm3.static.flickr.com/2682/4300852859_4fa2713191.jpg" width="500" height="333" alt="Press row at McArthur Court" /></a>
+<a href="http://www.flickr.com/photos/rockchalk/4300852859/" title="Press row at McArthur Court by ruralocity, on Flickr"><img src="https://farm3.static.flickr.com/2682/4300852859_4fa2713191.jpg" width="500" height="333" alt="Press row at McArthur Court" /></a>
 
 When McArthur Court was built, press row didn’t need to accommodate
 laptops or a gaggle of local and national newsmen. Now, reporters and
@@ -116,7 +116,7 @@ seats go up and up. And up. From the top deck, sitting in old wooden
 bleachers, you can get an eye level view of the Ducks’ collection of
 banners. Look down for a bird’s eye view of the action on the floor.
 
-<a href="http://www.flickr.com/photos/rockchalk/4301602884/" title="Top-level view by ruralocity, on Flickr"><img src="http://farm3.static.flickr.com/2759/4301602884_4768f73e21.jpg" width="500" height="333" alt="Top-level view" /></a>
+<a href="http://www.flickr.com/photos/rockchalk/4301602884/" title="Top-level view by ruralocity, on Flickr"><img src="https://farm3.static.flickr.com/2759/4301602884_4768f73e21.jpg" width="500" height="333" alt="Top-level view" /></a>
 
 The game itself was nothing memorable. The visiting Arizona Wildcats
 started off strong and, for the most part, stayed in charge the whole
