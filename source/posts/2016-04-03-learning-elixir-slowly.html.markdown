@@ -5,7 +5,7 @@ tags: elixir-lang
 ---
 
 <div class="foo">
-<img src="http://elixir-lang.org/images/logo/logo.png" class="floater" />
+<img src="/images/content/elixir-logo.png" class="floater" />
 </div>
 
 I've been intrigued by the [Elixir programming language](http://elixir-lang.org) and it's friendly take on functional programming for some time, but have been slow to pick things up. That's changing somewhat, thanks to some great resources I've found, but I've also found joy in deliberately taking things slow with a new programming language, versus my usual *learn-it-on-the-fly-because-deadlines* approach.
