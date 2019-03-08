@@ -23,7 +23,7 @@ This old bass drum was in the barn Jerry was converting to a recording studio at
 It stayed cold in the central states a long time this year--I mean, this was from late April. Back home in Kansas it was another good month before things started to bloom for real. And now, once again, my yard is totally overgrown--but that's another story.
 
 <p>
-<a href="http://www.flickr.com/photos/rockchalk/2430152669/" title="Hello. by ruralocity, on Flickr"><img src="http://farm4.static.flickr.com/3091/2430152669_7e29e01c32.jpg" width="500" height="333" alt="Hello." /></a>
+<a href="http://www.flickr.com/photos/rockchalk/2430152669/" title="Hello. by ruralocity, on Flickr"><img src="https://farm4.static.flickr.com/3091/2430152669_7e29e01c32.jpg" width="500" height="333" alt="Hello." /></a>
 </p>
 
 A neighbor's fence was compromised, making for a good opportunity to tinker with my new-at-the-time Sigma 70-300mm telephoto lens. Betsy didn't have the luxury of such super-duper telephoto power and <a href="http://flickr.com/photos/beeseason/2432435985/">got a little closer</a>.
@@ -33,7 +33,7 @@ A neighbor's fence was compromised, making for a good opportunity to tinker with
 </p>
 
 <p>
-<a href="http://www.flickr.com/photos/rockchalk/2430966514/" title="Rust 2 by ruralocity, on Flickr"><img src="http://farm4.static.flickr.com/3057/2430966514_c30d78ba9f.jpg" width="500" height="333" alt="Rust 2" /></a>
+<a href="http://www.flickr.com/photos/rockchalk/2430966514/" title="Rust 2 by ruralocity, on Flickr"><img src="https://farm4.static.flickr.com/3057/2430966514_c30d78ba9f.jpg" width="500" height="333" alt="Rust 2" /></a>
 </p>
 
 What can I say, I like rusty things. Jerry didn't even really farm so I'm not sure why he had this stuff.

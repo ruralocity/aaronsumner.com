@@ -4,4 +4,4 @@ layout: page
 title: "Picture of the day: Bark"
 ---
 
-<a href="http://www.flickr.com/photos/rockchalk/9792659716/" title="Bark by ruralocity, on Flickr"><img src="http://farm4.staticflickr.com/3834/9792659716_d2739aa25d_c.jpg" width="800" height="534" alt="Bark"></a>
+<a href="http://www.flickr.com/photos/rockchalk/9792659716/" title="Bark by ruralocity, on Flickr"><img src="https://farm4.staticflickr.com/3834/9792659716_d2739aa25d_c.jpg" width="800" height="534" alt="Bark"></a>

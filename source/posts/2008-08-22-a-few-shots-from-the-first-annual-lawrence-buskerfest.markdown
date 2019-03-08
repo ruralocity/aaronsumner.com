@@ -13,7 +13,7 @@ Enough bagging on North vs. South, though. I'll probably break down and go tomor
 That's not what this post is about, though. Instead of hosting North vs. South, our town is playing host to Lawrence Buskerfest, a cavalcade of street performances stationed at various spots along Mass Street. We caught a few of the acts after we ate dinner. Unfortunately most of the acts were of the blink-and-you'll-miss-them type; the fire-eating/sword-swallowing act everyone was so excited about was over and done with by the time we left La Parilla.
 
 <p>
-<a href="http://www.flickr.com/photos/rockchalk/2788683808/" title="Busker Festival by ruralocity, on Flickr"><img src="http://farm4.static.flickr.com/3277/2788683808_fb9bc9b461.jpg" width="500" height="333" alt="Busker Festival" /></a>
+<a href="http://www.flickr.com/photos/rockchalk/2788683808/" title="Busker Festival by ruralocity, on Flickr"><img src="https://farm4.static.flickr.com/3277/2788683808_fb9bc9b461.jpg" width="500" height="333" alt="Busker Festival" /></a>
 </p>
 
 I got a few good shots of a zydeco band set up at 8th and Mass, though. It was three dudes (guitar, accordion, washboard/vocals, papier mache fellow). This girl came along and I'm not sure if she's a formal member of the band or not, but she played tambourine like she'd been practicing with them for years. Here's a <a href="http://flickr.com/photos/rockchalk/tags/lawrencebuskerfestival2008/show/">slideshow of my photos from the event</a>, if you'd like, with better shots of the other band members. If you know who these guys are, please let me know.

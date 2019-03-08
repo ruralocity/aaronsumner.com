@@ -9,7 +9,7 @@ tags: [ Kansas, Photography ]
 ---
 
 [![Smoky Hills Wind
-Farm](http://farm4.static.flickr.com/3312/3439440777_96c4eaf98d.jpg)](http://www.flickr.com/photos/rockchalk/3439440777/ "Smoky Hills Wind Farm by ruralocity, on Flickr")
+Farm](https://farm4.static.flickr.com/3312/3439440777_96c4eaf98d.jpg)](http://www.flickr.com/photos/rockchalk/3439440777/ "Smoky Hills Wind Farm by ruralocity, on Flickr")
 
 Today I hopped a bus with a bunch of KU unclassified staff for this
 year's [Wheat State
@@ -20,7 +20,7 @@ Institute](http://www.landinstitute.org/) (interesting, but not
 pictured).
 
 [![Cozy
-Inn](http://farm4.static.flickr.com/3573/3439442085_131f6ff980.jpg)](http://www.flickr.com/photos/rockchalk/3439442085/ "Cozy Inn by ruralocity, on Flickr")
+Inn](https://farm4.static.flickr.com/3573/3439442085_131f6ff980.jpg)](http://www.flickr.com/photos/rockchalk/3439442085/ "Cozy Inn by ruralocity, on Flickr")
 
 For lunch we grabbed food from Salina's historic [Cozy
 Inn](http://www.cozyburger.com/)--White Castle-like sliders at a tiny
