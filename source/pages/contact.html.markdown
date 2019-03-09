@@ -4,7 +4,7 @@ title: Contact
 
 If you have a question about something from _Everyday Rails Testing with RSpec_, please direct it to the [GitHub issues page for that project](https://github.com/everydayrails/). Otherwise, please use the form below. I do my best to reply, but please understand that I'm a pretty busy guy and it can sometimes take me a little while.
 
-<form name="contact" method="POST" data-netlify="true" action="/pages/thanks.html">
+<form name="contact" method="POST" netlify action="/pages/thanks.html">
   <div class="form-group">
     <label for="name">Your name:</label>
     <input type="text" name="name" class="form-control" />
