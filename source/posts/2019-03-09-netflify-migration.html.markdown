@@ -1,10 +1,10 @@
 ---
-title: Initial impressions after migrating this site to Netflify
+title: Initial impressions after migrating this site to Netlify
 date: 2019-03-09 05:54 UTC
 tags:
 ---
 
-Not sure why it took me so long to learn that [Netflify](https://www.netlify.com) is a thing, but after hearing it mentioned in a podcast last week, I decided to see what would be involved with moving a site or two over to it. Turns out, not much: As of about an hour ago, this site has been moved from an old VPS to Netlify.
+Not sure why it took me so long to learn that [Netlify](https://www.netlify.com) is a thing, but after hearing it mentioned in a podcast last week, I decided to see what would be involved with moving a site or two over to it. Turns out, not much: As of about an hour ago, this site has been moved from an old VPS to Netlify.
 
 ## Yeah, but why?
 
@@ -18,7 +18,7 @@ Up to now, I've been using a virtual host on a virtual private server that hoste
 
 If you're still reading, you probably know about [Heroku](https://www.heroku.com) as an easy-to-use service that abstracts away the details of setting up a web application. Think of Netlify as Heroku, but for static HTML, CSS, and JavaScript. Create content, commit and push to your Git repository, and it's published within minutes. No server management involved.
 
-I've been tired of managing my own servers for awhile, and regretting my decision a few years ago to let go of a grandfathered hosting account that offered unlimited bandwidth. Netflify doesn't offer unlimited bandwidth, but my status as an influencer these days isn't such that it's going to drive up my hosting bill any time soon. (And if it does, maybe that's a good problem to have?)
+I've been tired of managing my own servers for awhile, and regretting my decision a few years ago to let go of a grandfathered hosting account that offered unlimited bandwidth. Netlify doesn't offer unlimited bandwidth, but my status as an influencer these days isn't such that it's going to drive up my hosting bill any time soon. (And if it does, maybe that's a good problem to have?)
 
 I'm still new to Netlify, but here's what I've liked so far:
 
@@ -32,7 +32,7 @@ As part of the deploy, Netlify scans files for potential mixed content issues, a
 
 ## SSL with Netlify
 
-Serving sites over HTTPS with Netlify is totally simple if you switch your domain to use their name servers. I'd originally planned to continue using DNS as provided by my registrar, but ran into issues. They went away instantly by switching to Netflify's DNS--and since this site is the only thing I ever plan to host from aaronsumner.com, there's not much reason not to at this point.
+Serving sites over HTTPS with Netlify is totally simple if you switch your domain to use their name servers. I'd originally planned to continue using DNS as provided by my registrar, but ran into issues. They went away instantly by switching to Netlify's DNS--and since this site is the only thing I ever plan to host from aaronsumner.com, there's not much reason not to at this point.
 
 ## Forms!
 
