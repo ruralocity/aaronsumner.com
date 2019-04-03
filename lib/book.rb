@@ -49,16 +49,21 @@ class Book
 
   def find_book_by_asin(asin)
     # TODO: Error handling
-    request = Vacuum.new
-    request.associate_tag = 'everrail-20'
-    query = {
-      query: {
-        'ItemId' => asin,
-        'ResponseGroup' => 'ItemAttributes,Images',
+    begin
+      request = Vacuum.new
+      request.associate_tag = 'everrail-20'
+      query = {
+        query: {
+          'ItemId' => asin,
+          'ResponseGroup' => 'ItemAttributes,Images',
+        }
       }
-    }
-    response = request.item_lookup(query)
-    response.to_h
+      response = request.item_lookup(query)
+      response.to_h
+    rescue Excon::Error::ServiceUnavailable
+      puts "Amazon API blocked due to low revenue 😭"
+      exit
+    end
   end
 
   def title_param
