@@ -1,0 +1,23 @@
+---
+title: April 2019 update
+date: 2019-04-17 03:52 UTC
+tags:
+---
+
+![Seaside, Oregon](/images/content/beach-seaside.jpg)
+
+[Last month](/posts/2019/03/march-2019.html), I commented on the mild winter we had on the North Coast of Oregon. It seems like it's rained ever since, or at least consistently for the past couple of weeks. It'll be summer here before you know it, though. I'm looking forward to some good races and outdoor cooks this season. How about you?
+
+I _was_ able to hit the beach in Seaside for a bit, before this stretch of lousy weather, though. I will never tire of watching the raw power of the mighty Pacific. Remember, nothing is permanent, and nature always wins.
+
+So on that note, here's a little update for _this_ month. The past 30-ish days were rocky, but I managed my way through them.
+
+- My [civic hacking project](https://odfrec.herokuapp.com) I talked about here is technically in the wild now, even if I haven't publicized it broadly. It's a simple interface to a public dataset of recreational opportunities at lands managed by the Oregon Department of Forestry. It's built with Rails, hosted on Heroku, and was a good opportunity to try out the latest version of Bootstrap (if any of those things mean anything to you).
+
+  I have some more work I'd like to do with it at some point, like add location-aware search and a more modern web front-end. But it's out there, and I dare say it's useful. I'm planning to take advantage of it this summer to hit some nearby trails. And I'm hoping to write up the benefits of public datasets as learning tools soon.
+
+- I got a brief post up on Everyday Rails about [migrating your Rails test suite's JavaScript driver manager](https://everydayrails.com/2019/04/09/chromedriver-helper-webdrivers.html). It got picked up by Ruby Weekly, so I'm happy.
+
+- I've been working on a few Rails upgrade projects, now that Ruby 2.3 has reached its end of life, and Rails 4.2 through 5.1 are about to join it. I used to be conservative about upgrading, but now that large Rails shops like GitHub and Shopify have (a) actually upgraded, and (b) shared their strategies, no more. My goal is to be as up-to-date as possible at any given time, at least in a staging environment, by the end of the year. (By the way, I've got a blog post in the can about this, but haven't posted it yet because reasons. Hopefully next week or so.)
+
+- Finally, last month, I commented on having a couple of irons in the fire. One of them didn't work out, at all, so I'm focusing on the other. Still not ready to talk publicly about it, but maybe next month.
