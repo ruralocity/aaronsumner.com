@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/41NCiA5R7FL._SL75_.jpg
 tags:
 ---
 
+I gave up after a couple of chapters, will read through the official Vue.js documentation instead.

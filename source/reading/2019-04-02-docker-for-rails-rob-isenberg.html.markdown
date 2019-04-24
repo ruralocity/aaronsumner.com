@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/41s4oEcpiyL._SL75_.jpg
 tags:
 ---
 
+A good introduction to Docker as it pertains to Rails--this book helped me mentally sort some particular issues I've had. Maybe not as thorough as I was hoping coming in, but I don't think my expectations were realistic.
