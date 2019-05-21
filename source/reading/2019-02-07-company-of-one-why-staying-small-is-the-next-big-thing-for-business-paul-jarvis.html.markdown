@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51PwA-Z9V6L._SL75_.jpg
 tags:
 ---
 
+It took me months to actually finish this book. I have mixed feelings about it, as I do with most in this genre. [This Twitter thread](https://twitter.com/gcaprio/status/1128325063923707904) sums up a lot of the book's shortcomings (especially the handwaving over stuff like healthcare in the United States). But I _have_ seen these tactics work in the alternate scenario Jarvis proposes, being a company of one within a larger organization.

@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51Ozf%2Boc71L._SL75_.jpg
 tags:
 ---
 
+I really want to like Ansible, but it seems like every resource I find on it favors getting deep into the weeds over just getting stuff done with the tool. Are tools like Ansible still in high demand in an age of containers and orchestration? And if so, should I write my own book about it?
