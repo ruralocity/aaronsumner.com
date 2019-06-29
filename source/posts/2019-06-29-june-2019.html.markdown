@@ -1,0 +1,23 @@
+---
+title: June 2019 update
+date: 2019-06-29 05:12 UTC
+tags:
+---
+
+Almost let this month get away from me! Hi, I'm still here.
+
+This monthly update started as a conceit to get myself to write _anything_ after a long bout of writer's block. I'm not sure if I'm more inspired than I have been in some time, or if a change in my tools has helped, but I've been writing again with reasonable consistency for the past several weeks. I have a couple of separate-but-overlapping pieces in progress. One will be a blog post and the other will be--something. I haven't figured it out yet. But please keep any eye out here and/or [Everyday Rails](https://everydayrails.com) for further development on both.
+
+One thing to mention about tools--after a few years away from it, I have really been enjoying writing with [iA Writer](https://ia.net/writer) again. I'm not sure what it is--maybe using a tool that's _just_ for writing, that I don't use for, like, everything else in my life, has helped.
+
+---
+
+My six-year anniversary with [O'Reilly Media](http://www.oreilly.com) is coming up soon. It's been an interesting and educational six years. In that time, I've seen our engineering department grow ten-fold (maybe twenty-fold? I can't even count anymore) and an entire business pivot. I've seen tech stacks shift drastically, as core concepts are further extracted away, and assumptions are made that everyone has the latest, greatest browser (or at least something released in the last year)--a luxury I didn't have in my more formative years. Who here remembers when we had to make sure everything still worked with some shitty old version of Internet Explorer?
+
+It's hard for me to not think about what I've learned at O'Reilly and, in hindsight, try to apply it to what I would've done in my previous job, _if I only knew_. I was not a great manager of people, or projects, or products; and yet, I managed all three, because somebody had to do it. I was an average software developer, but I had my ideals and convictions. They hurt me before, but helped me after I moved on.
+
+And I was even right on a few things, and have seen multiple small enterprises with big ideas disappear because they listened to others over me. I'm not gloating--this makes me sad.
+
+It's easy for me to regret, and I know you don't want to hear me whine about it, anyway. I mean, everything makes sense, in hindsight, right? But it's been damn hard for me to shake of late.
+
+So on that note, see you next month.
