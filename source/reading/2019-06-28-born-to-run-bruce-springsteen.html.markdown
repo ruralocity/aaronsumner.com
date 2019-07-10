@@ -8,3 +8,6 @@ image: https://images-na.ssl-images-amazon.com/images/I/51d%2BBRcsBAL._SL75_.jpg
 tags:
 ---
 
+As someone who respects Springsteen a ton but has mostly been a casual fan,
+I enjoyed this a lot more than I thought I would. The audio version is read
+by the author and recommended.
