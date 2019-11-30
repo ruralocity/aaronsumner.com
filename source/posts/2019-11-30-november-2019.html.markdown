@@ -1,0 +1,76 @@
+---
+title: November 2019 update
+date: 2019-11-30 13:45 UTC
+tags:
+---
+
+It's been a few months since I've done one of these. Things blew up in my face
+this year. I'm working to dig myself out now. I'm not going to get into the
+details, or speculate on what's next for me, in the interest of living in the
+present. Don't worry; I'm doing ok.
+
+Anyway, here's a couple of things I've been up to of late (scoped to this
+month). I'll try to get more regular with these things again in the coming
+months.
+
+---
+
+A couple of weeks ago, I [teased a new writing project on Twitter][tease].
+It's still pretty raw, and I'm not totally sure it's going to work out like it
+looks in my head. Earlier this year, I picked up my old copy of _The Pragmatic
+Programmer_ for a re-read, and discovered that a [20th anniversary edition]
+was in the works (since released). I get questions about updates as soon as my
+book gets a tick behind the latest revision of Rails, and have never charged
+readers for new editions (though I've also never promised a lifetime deal,
+just saying).
+
+So you might imagine that the idea of a book that only needs updating every
+twenty years sounds mighty compelling to me right now.
+
+I'm not at _write a book_ phase for this yet; I'm barely at the _write a few
+blog posts_ yet. But the gist is, share general lessons I've learned over the
+years about writing software, in an approachable, and consistent, but brief,
+format. Think [Seth Godin], but for writing software. And try to do so with as
+little code as possible, to both broaden scope (outside of Ruby/Rails/RSpec)
+and lengthen shelf life.
+
+So far I've been outlining and jotting down bits as I think about them. This
+project is by no means definite; I could get bored with it or it may just not
+come together the way I want it to. But if it does come to light I'll share
+more about it here.
+
+[tease]: https://twitter.com/ruralocity/status/1195421307745132544
+[20th anniversary edition]: https://amzn.to/2BcGg5f
+[Seth Godin]: https://seths.blog
+
+---
+
+As a lot of you may know, one of my hobbies is cooking outside. That's one of
+the nice things about living someplace where it's light out until like ten
+during the summer--I can cook multiple times a week that way, if I want. But
+even during the winter, I try to fire up my smoker at least once a month. I
+had one of my best cooks of the year this week, cooking a boneless turkey
+breast low and slow, in the style of Franklin Barbecue.
+
+There are lots of videos online showing how to do this, but my favorite
+approach for my Weber smoker is the "[Central Texas style]" technique outlined
+on the [Virtual Weber Bullet]. The secret, as with most things in life, is to
+use butter. Lots and lots of butter.
+
+[Central Texas style]: https://www.virtualweberbullet.com/turkey-breast-central-texas-style/
+[Virtual Weber Bullet]: https://www.virtualweberbullet.com/
+
+---
+
+If you're still reading, I have a small favor to ask. If you happen to be
+doing any shopping this holiday season on Amazon, would you mind making a
+(small) purchase through my [Amazon affiliate link]? It's not about money for
+me--at my peak, I was getting enough from them to maybe buy one book a year.
+But I do use an API from them to populate my [reading list], and they've cut
+off access to low-performing affiliates like me unless we've generated revenue
+for them in the past 30 days. Otherwise I have to copy and paste. It's a drag,
+but not the end of the world, and I understand if you'd rather support local
+and/or independent retailers. I would do the same.
+
+[Amazon affiliate link]: https://amzn.to/35QDPT4
+[reading list]: /pages/reading.html
