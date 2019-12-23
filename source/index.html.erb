@@ -50,7 +50,7 @@ title: Home
     <h3>Recent posts</h3>
 
     <ul>
-      <% blog('posts').articles[0..4].each do |article| %>
+      <% blog('posts').articles[0..6].each do |article| %>
         <li>
           <a href="<%= article.url %>"><%= article.title %></a>
           <time>(<%= article.date.strftime('%B %e, %Y') %>)</time>
@@ -64,7 +64,7 @@ title: Home
 
     <h3>Now reading</h3>
     <ul>
-      <% blog('reading').articles[0..2].each do |article| %>
+      <% blog('reading').articles[0..3].each do |article| %>
         <li>
           <a href="<%= article.data.purchase_url %>"><%= article.title %></a>
           (<%= author_and_publisher(article.data) %>)
@@ -86,7 +86,7 @@ title: Home
 
     <h3>Biography</h3>
 
-    <img src="/images/mug2019.jpg" width="175" height="175" alt="" class="floater" />
+    <img src="/images/mug2019a.jpg" width="175" height="175" alt="" class="floater" />
 
     <p>
       I'm Aaron Sumner, of Astoria, Oregon, USA;  by way of Lawrence, Kansas,
@@ -107,6 +107,10 @@ title: Home
       I'm a Senior Software Engineer at
       <a href="http://oreilly.com/">O'Reilly Media</a>
       and <a href="http://radar.oreilly.com/asumner">have blogged there a few times</a>, too.
+      Most people who know me know me as a tech author, though; I wrote
+      <em><a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing with RSpec</a></em>
+      and have blogged at <a href="https://everydayrails.com">Everyday Rails</a>
+      since 2010.
     </p>
 
     <p>
