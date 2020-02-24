@@ -103,7 +103,7 @@ GEM
     minitest (5.11.3)
     multi_json (1.13.1)
     multi_xml (0.6.0)
-    nokogiri (1.10.4)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     padrino-helpers (0.12.9)
       i18n (~> 0.6, >= 0.6.7)
@@ -114,7 +114,7 @@ GEM
     rack (1.6.11)
     rack-livereload (0.3.17)
       rack
-    rack-rewrite (1.4.01)
+    rack-rewrite (1.4.1)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rb-fsevent (0.10.3)
