@@ -8,4 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/41jw4DNjgeL._SL75_.jpg
 tags:
 ---
 
-Look, I'm going through some stuff right now, and I really enjoyed this book. Lots of sound, practical advice about handling social anxieties, presented in a friendly, straightforward way. Recommended.
+Lots of sound, practical advice about handling social anxieties, presented in a friendly, straightforward way. Recommended.

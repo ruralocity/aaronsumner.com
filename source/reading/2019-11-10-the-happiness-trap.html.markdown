@@ -7,5 +7,3 @@ date: 2019-11-10
 image: https://images-na.ssl-images-amazon.com/images/I/41qddEFlsTL._SL75_.jpg
 tags:
 ---
-
-I read this on recommendation from my therapist. It's helping me reset after a tough year.
