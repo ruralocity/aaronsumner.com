@@ -1,5 +1,7 @@
 require 'thor'
-require './lib/book'
+# require './lib/book'
+require './lib/manual_book'
+require 'ostruct'
 
 class Generator < Thor
   include Thor::Actions
@@ -7,8 +9,25 @@ class Generator < Thor
 
   desc "reading", "generate a new reading list item by ASIN"
   def reading
-    asin = ask 'ASIN:'
-    @book = Book.new(asin)
+    # TODO: The Amazon API I've been using is going away, and I'm usually
+    # not eligible to use it. Manually enter book details for now.
+    # asin = ask 'ASIN:'
+    # @book = Book.new(asin)
+    title = ask 'Title:'
+    author = ask 'Author:'
+    editor = ask 'Editor:'
+    publisher = ask 'Publisher:'
+    purchase_url = ask 'Purchase URL:'
+    image_id = ask 'Image ID:'
+    settings = OpenStruct.new(
+      title: title,
+      author: author,
+      editor: editor,
+      publisher: publisher,
+      purchase_url: purchase_url,
+      image_id: image_id,
+    )
+    @book = ManualBook.new(settings)
     template('reading.tt', "source/reading/#{@book.filename}")
   end
 end
