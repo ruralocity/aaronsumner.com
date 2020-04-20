@@ -1,0 +1,19 @@
+---
+title: April 2020 update
+date: 2020-04-20 05:18 UTC
+tags:
+---
+
+I always enjoy my time away from terminals and text editors, especially this time of year. Maybe more so these past several weeks:
+
+- I've been having fun experimenting with a [new smoker](https://amzn.to/2VFbR9H), and cooking in general. I've been [sharing my results on Instagram](https://instagram.com/ruralocity).
+- I'm getting my little garden started. Not quite as ambitious about that as I was a few months ago, but I did build a second raised bed, and should have some good things going in it soon.
+- I'm finally revisiting a project that's been on hold for a couple of years--making my small, gloomy, basement workshop into a more functional space for me to create my own furniture.
+- I'm watching the Pixar films in their release order--having never had kids, there are several I never got around to seeing, and it's neat to see how the technology advances from film to film.
+- And I've found that those hill runs I used to hate aren't quite as bad as they used to be (though I'd still prefer to be running trails, not roads).
+
+I hope you're finding hobbies that get you and your brain away from the rest of the world, too.
+
+That said, I've also been messing around with a new writing project, a little more focused than the one I mentioned a few months ago. (That one may still see the light of day in some format, just probably not the one I was thinking at the time.) This will achieve my goal of writing a programming book without a lot of code I need to keep evergreen--and yeah, unless something changes, it will be a book that I ask people to pay a little money for, and not free blog posts on Everyday Rails. I've got an outline I'm working through, and should know in the next few weeks whether it's going to pan out the way it looks in my head. If it does, look for the long-awaited (by me, anyway) second title in the _Everyday Rails_ series in the coming months.
+
+By the way, speaking of writing. I decided to make my first (only) book, _[Everyday Rails Testing with RSpec](https://leanpub.com/everydayrailsrspec)_, available for free, no questions asked, to anyone who's lost their job during all of this, and need something to either learn a new skill for a new job, or keep their brains stimulated for a little while. I also dropped the minimum price considerably. I wrote [more details about these pricing changes on Everyday Rails](https://everydayrails.com/2020/04/15/rspec-book-price-changes.html). I just ask that if you _can_ afford to pay a few bucks for the book, please do so. It does contribute to my income, and it helps motivate me to write more content. And as a general rule, I believe we should all do what we can to support independent content creators.
