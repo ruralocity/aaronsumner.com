@@ -8,3 +8,6 @@ image: https://images-na.ssl-images-amazon.com/images/I/51f0RC+3FOL._SL75_.jpg
 tags:
 ---
 
+I make no secret about my love of Disney parks. This is a really fun look at
+the early history of the first, and making me want to get to Disneyland all
+the more. Recommended.
