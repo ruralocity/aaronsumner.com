@@ -51,7 +51,7 @@ title: Home
     <h3>Recent posts</h3>
 
     <ul>
-      <% blog('posts').articles[0..9].each do |article| %>
+      <% blog('posts').articles[0..4].each do |article| %>
         <li>
           <a href="<%= article.url %>"><%= article.title %></a>
           <time>(<%= article.date.strftime('%B %e, %Y') %>)</time>
@@ -65,7 +65,7 @@ title: Home
 
     <h3>Now reading</h3>
     <ul>
-      <% blog('reading').articles[0..4].each do |article| %>
+      <% blog('reading').articles[0..2].each do |article| %>
         <li>
           <a href="<%= article.data.purchase_url %>"><%= article.title %></a>
           (<%= author_and_publisher(article.data) %>)
