@@ -1,0 +1,52 @@
+---
+title: A long overdue October 2020 update
+date: 2020-10-31 02:32 UTC
+tags:
+---
+
+![Tiny workshop](/images/content/sand-dollar.jpg)
+
+The world's a lot different today than it was [the last time I wrote here](/2020/04/april-2020.html), and it's probably going to get more different in the coming weeks and months (hopefully in a better, less fascist-y kind of way), so I'd like to get caught up on getting caught up, before things get even more out-of-hand.
+
+First things first, I'm fine; better than fine, even. I've been much luckier the past several months than a lot of people. Sure, my job has changed a lot, but I'm still employed, with new, interesting responsibilities. I haven't gotten sick. My personal life is great. I live someplace where I can leave the house without feeling like I'm putting myself or others in any sort of risk. I live 20 minutes from the Pacific Ocean. I kayaked for the first time. I cooked a lot (including my first packer cut brisket), and [read a lot](/pages/reading.html), and built a lot, and hiked and ran a lot. I found whole, unbroken sand dollars, untouched by human hands until I put my grubby mitts on them.
+
+It's trite, but I've learned to take nothing for granted.
+
+I've also kept myself busy these past six (six? six!) months. Again, I'm lucky and grateful that I haven't been cooped up indoors with nothing but streaming media to keep me occupied.
+
+So, in no particular order:
+
+## Everyday Rails: New look, new focus
+
+In September, as a late [10th birthday](https://everydayrails.com/2020/05/18/everyday-rails-10th-birthday.html) present, I gave [Everyday Rails](https://everydayrails.com) its first redesign in five years. I'm really happy with it--I love the simpler, cleaner look, and I totally dig [Tailwind CSS](https://tailwindcss.com/) as an alternative to the CSS frameworks I'd been using for side projects the past several years. Seriously, I had things looking sharp in a matter of hours, not the days I'd expected.
+
+I've also [written more posts on Everyday Rails](https://everydayrails.com/archives.html) in the past few months than I have in some time. I've come to terms with the fact that much of what I have to say about my line of work these days isn't straight up about Rails. Frankly, I don't have a ton to say about Rails these days; I want to leave it to those who are in the midst of learning it themselves and pushing it to do new, interesting things. Me, I'm thinking and writing more about how to be a good software developer--things like continual learning, deliberate practice, solid communication. So even if you're not working with Rails on an everyday basis (which, by the way, I'm not these days, either), I hope you'll follow along with Everyday Rails. I still have things to say there.
+
+
+## Sound Refound: New everything
+
+I've hosted variations of [Sound Refound](https://soundrefound.com) for at least fifteen years. This summer, I rewrote it from scratch as a new Rails 6 application with an off-the-shelf admin backend and a simple public-facing UI. The new Sound Refound was technically my first experiment with Tailwind, and there are things I'd like to go back and do now that I've worked with it a little more.
+
+I'd been hosting Sound Refound on a virtual private server, and was tired of wearing the system administrator hat to keep it up and secure. I thought Heroku would be a good landing spot for the new project, but I kind of regret that decision. I wound up switching to a separate, paid DNS provider, adding on support for simple file handling with an Amazon S3 bucket, and upgrading my Heroku service tier. So I'd like to move off soon, though I want to do more due diligence than I did before.
+
+Between the pandemic and the fact that I don't exactly live in a live music mecca anymore, I don't see my collection of flyers growing any time soon, but I still love looking back at the ones I do have, and hope you do, too.
+
+
+## Meanwhile, down in the shop
+
+![Tiny workshop](/images/content/weekend-workshop.jpg)
+
+Not going to lie, I take any chance I can to get away from computers, and spent a lot of my free time this past summer overhauling my tiny basement workshop. It's a lot brighter now, thanks to some fresh white paint and bright overhead LEDs. It's also a little more organized, as I've been applying projects from Steve Ramsey's [Weekend Workshop](https://theweekendwoodworker.com/workshop-signup/) course. You may know Steve from his [Woodworking for Mere Mortals](https://www.youtube.com/user/stevinmarin/) channel on YouTube. I've really been enjoying the shop projects, and while there's more I want to do down there, the improvements I've made so far have made me much more productive in that space. They've also given me practice with skills needed to tackle more ambitious projects.
+
+![Nightstands](/images/content/nightstands.jpg)
+
+Take, for example, these nightstands I recently designed and built for my guest bedroom. The core of each nightstand, tucked out of sight, is essentially the same construction as Steve's drill and driver cabinet. I applied my own touches to make it more like furniture I'd have in my house. The legs came from the internet, and the vintage drawer pulls came from [Hippo Hardware and Trading Company](https://www.hippohardware.com) in Portland. I'm still on the hunt for some interesting lamps to put on them, but now, whenever it's feasible to have guests in my house again, they'll have someplace to put their things besides the floor.
+
+
+## Up next
+
+Make bold promises? In this economy? Nah. But I will say, I'm still working intermittently on a new book project (possibly more on that in November), and finally continuing to update my front-end web development skills (see: the aforementioned Tailwind; React; Jest), and talking with others about big picture philosophical software developer stuff. I'm starting a couple of new woodworking projects. I'm back to half marathon training (Star Wars Virtual Half, sometime in early 2021).
+
+This whole monthly update thing started as a device to get me to write more often. I may move away from it and to more focused updates--because, in the end, they're more for me than for anyone else. That said, if you're still reading this, thanks. I appreciate you and your time and attention.
+
+So, talk to you when I talk to you. Good luck out there.
