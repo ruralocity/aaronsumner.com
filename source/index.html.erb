@@ -51,7 +51,7 @@ title: Home
     <h3>Recent posts</h3>
 
     <ul>
-      <% blog('posts').articles[0..4].each do |article| %>
+      <% blog('posts').articles[0..2].each do |article| %>
         <li>
           <a href="<%= article.url %>"><%= article.title %></a>
           <time>(<%= article.date.strftime('%B %e, %Y') %>)</time>
@@ -81,8 +81,6 @@ title: Home
   <div id="bio" class="col-md-6">
     <h3>Biography</h3>
 
-    <img src="/images/mug2020.jpg" width="175" height="175" alt="" class="floater" />
-
     <p>
       I'm Aaron Sumner, of Astoria, Oregon, USA;  by way of Lawrence, Kansas,
       Seattle, Washington, and Jersey County, Illinois.
@@ -91,26 +89,23 @@ title: Home
     <p>
       I've worked on the web since 1994 when I began creating some of the
       very first departmental and organizational websites as an
-      undergraduate at the University of Kansas. Over the years I've
-      worked my way through static HTML to Applescript (yes, Applescript)
-      to Perl to PHP to Ruby. Since 2005 I've worked mostly with Ruby and
-      Rails, with a dose of Javascript and helping of Python. I'm becoming
-      more fluent and productive in React right now.
+      undergraduate at the University of Kansas. I'm currently a Senior
+      Software Engineer at <a href="http://oreilly.com/">O'Reilly Media</a>
+      where I mostly write Ruby and React.
     </p>
 
     <p>
-      I'm a Senior Software Engineer at
-      <a href="http://oreilly.com/">O'Reilly Media</a>.
       Most people who know me know me as a tech author, though; I wrote
       <em><a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing with RSpec</a></em>
       and have blogged at <a href="https://everydayrails.com">Everyday Rails</a>
-      since 2010.
+      since 2010. These days I also think and talk and write a lot about
+      embracing legacy systems, personal development and growth as a software
+      developer, and the non-coding things it takes to be good at what we do.
     </p>
 
     <p>
-      When off the clock and away from the text editor, I like
-      outdoor cooking, baseball (go Cards), college sports (Rock Chalk
-      Jayhawk), woodworking, and running.
+      I take advantage of every second I can away from a computer, too, through
+      cooking, woodworking, running, and cat herding.
     </p>
 
     <p>
