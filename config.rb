@@ -80,22 +80,6 @@ activate :blog do |blog|
   blog.permalink = ":title.html"
 end
 
-configure :development do
-  activate :google_analytics do |ga|
-    ga.tracking_id = false
-  end
-end
-
-configure :build do
-  activate :google_analytics do |ga|
-    ga.tracking_id = "UA-1291847-4"
-    ga.debug = false
-    ga.anonymize_ip = true
-    ga.domain_name = "aaronsumner.com"
-    ga.allow_linker = true
-  end
-end
-
 helpers do
   def author_and_publisher(data)
     [data.author, data.publisher].join('; ')

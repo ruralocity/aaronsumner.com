@@ -22,9 +22,6 @@ gem "nokogiri"
 gem 'activesupport'
 gem 'vacuum'
 
-# Google Analytics
-gem "middleman-google-analytics"
-
 gem "rack-rewrite", "~> 1.4.1"
 
 gem "eventmachine", "~> 1.0.9"
