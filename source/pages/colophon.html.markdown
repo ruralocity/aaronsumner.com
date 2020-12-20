@@ -9,5 +9,3 @@ I use [the Middleman](http://middlemanapp.com/) static site generator to manage 
 [Font Awesome](http://fontawesome.io/) is a huge, free collection of vector-based icons. The social media icons on this site come from the collection.
 
 The font used for the site is Source Sans Pro by [Paul D. Hunt](https://plus.google.com/108888178732927400671/about), via [Google Fonts](http://www.google.com/fonts).
-
-My mugshot is courtesy of [DESIGNOJEK](http://designojek.com/)—a.k.a. David Gnojek, a Lawrence, Kansas-based graphic designer who does great work in both print and online.
