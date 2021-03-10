@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/41bChkOa4zL._SL75_.jpg
 tags:
 ---
 
+I made it partway through the audiobook version, but couldn't help but think this was a rehash of Grant's previous book with different points of emphasis on the same (or very similar) stories.
