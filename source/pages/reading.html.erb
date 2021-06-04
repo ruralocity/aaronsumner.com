@@ -20,7 +20,7 @@ title: Reading List
       <h4>
         <a href="<%= article.data.purchase_url %>"><%= article.title %> (<%= author_and_publisher(article.data) %>)</a>
       </h4>
-      <%= article.summary(500) %>
+      <%= article.summary(1000) %>
       <time>(<%= article.date.strftime('%B %Y') %>)</time>
       </div>
     </li>
