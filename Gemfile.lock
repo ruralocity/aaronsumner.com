@@ -113,7 +113,6 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    ruby18_source_location (0.2)
     sass (3.4.25)
     sprockets (2.12.5)
       hike (~> 1.2)
@@ -148,7 +147,6 @@ DEPENDENCIES
   middleman-blog (~> 3.5.1)
   middleman-livereload (~> 3.1.0)
   rack-rewrite (~> 1.4.1)
-  ruby18_source_location
 
 BUNDLED WITH
    1.17.3
