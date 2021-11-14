@@ -1,5 +1,4 @@
 require 'thor'
-# require './lib/book'
 require './lib/manual_book'
 require 'ostruct'
 
@@ -9,10 +8,6 @@ class Generator < Thor
 
   desc "reading", "generate a new reading list item by ASIN"
   def reading
-    # TODO: The Amazon API I've been using is going away, and I'm usually
-    # not eligible to use it. Manually enter book details for now.
-    # asin = ask 'ASIN:'
-    # @book = Book.new(asin)
     title = ask 'Title:'
     author = ask 'Author:'
     editor = ask 'Editor:'
