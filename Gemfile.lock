@@ -149,7 +149,6 @@ DEPENDENCIES
   middleman-livereload (~> 3.1.0)
   rack-rewrite (~> 1.4.1)
   ruby18_source_location
-  wdm (~> 0.1.0)
 
 BUNDLED WITH
    1.17.3
