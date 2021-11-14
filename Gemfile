@@ -18,8 +18,6 @@ end
 # Blogging
 gem "middleman-blog", "~> 3.5.1"
 gem "builder"
-gem "nokogiri"
-gem 'activesupport'
 gem 'vacuum'
 
 gem "rack-rewrite", "~> 1.4.1"

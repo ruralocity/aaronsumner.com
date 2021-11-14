@@ -168,13 +168,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport
   builder
   eventmachine (~> 1.0.9)
   middleman (= 3.4.1)
   middleman-blog (~> 3.5.1)
   middleman-livereload (~> 3.1.0)
-  nokogiri
   rack-rewrite (~> 1.4.1)
   ruby18_source_location
   vacuum
