@@ -1,0 +1,24 @@
+---
+title: Hiatus
+date: 2021-11-14 18:55 UTC
+tags:
+---
+
+It’s been awhile since I’ve written much; so long that I’ve decided to make it a
+formal hiatus.
+
+For the indefinite future, I am taking a break from side projects, including
+Everyday Rails, public speaking, and my testing book. I think about software
+enough at my day job already, and need to spend some time to focus on health and
+personal matters. I am ok, I just have a lot on my plate that’s more important
+than software right now.
+
+I’m best reachable via [my contact form]. (Friends who have my number, please
+text!) I don’t pay much attention to Twitter or Facebook, so no guarantees
+there. I’m still on Instagram, but feel kind of gross about it and need to take
+breaks from it, too, from time to time.
+
+Anyway, thank you for your understanding. Be well, and see you on the other side
+of this.
+
+[my contact form]:/pages/contact.html
