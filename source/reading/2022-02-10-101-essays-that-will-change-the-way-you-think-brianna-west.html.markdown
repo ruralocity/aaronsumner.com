@@ -8,3 +8,5 @@ image: https://images-na.ssl-images-amazon.com/images/I/41mPZ7VEXgL._SL75_.jpg
 tags:
 ---
 
+I don't think I'm in this book's target audience, but it's got wisdom even us
+old dudes could stand to hear.
