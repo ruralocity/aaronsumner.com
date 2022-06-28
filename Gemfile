@@ -4,9 +4,6 @@ source 'https://rubygems.org'
 
 gem "middleman", "3.4.1"
 
-# Live-reloading plugin
-gem "middleman-livereload", "~> 3.1.0"
-
 # Blogging
 gem "middleman-blog", "~> 3.5.1"
 gem "builder"
