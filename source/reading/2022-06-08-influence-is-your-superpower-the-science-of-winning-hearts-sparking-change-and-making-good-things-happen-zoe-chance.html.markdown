@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51oYjawWXbL._SL75_.jpg
 tags:
 ---
 
+Really enjoyed this book, especially the audio version. Don't let the word _influence_ throw you off; it's not at all about being an _influencer_ in the modern sense. And that's a good thing. Recommended.
