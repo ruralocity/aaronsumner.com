@@ -1,0 +1,34 @@
+---
+title: March 2023 update
+date: 2023-03-05 17:50 UTC
+tags:
+---
+
+Hello.
+
+It's been some time since I've written here. After a long (too long, maybe?)
+break from extracurricular activities and responsibilities, I feel rusty. Words
+don't come as easily as they used to. But I'm trying to write again, here and/or
+on [Everyday Rails](https://everydayrails.com). I'll get there. In an attempt to
+loosen the creaky cogs and hamster wheel that make up my brain, here's a little
+update for anyone interested.
+
+- I'm going on a year in my managerial role at O'Reilly. It's been ok. I still
+  write a ton of code, do a lot of technical planning, split my time and
+  attention across multiple systems, and mentor. I just manage humans now, too.
+  I do miss the ability I used to have to dictate what I was going to work on
+  and when, and to go heads down and knock shit out. But I go to where I'm
+  needed, and this is where I'm told I'm needed. I think I'm making a difference
+  (for the better).
+- The three cats are still here, though Amber is not looking great. She's still
+  spry, though, and my goal is to keep her happy and comfortable as long as she
+  feels like sticking around.
+- And I have a dog again. He came with a human. I love them both, very much. The
+  dog seems to love me, and I think the human finds me generally ok.
+- We are all still in Astoria, but looking for an escape strategy. It's been
+  nearly five years for me. I don't like the direction the town has gone during
+  and post-pandemic. Too big to have some of the small town problems it has, and
+  too small to have some of the big town problems it has, you know?
+
+Hey, 300 words! That seems like a good place to stop for now. I'll try to show
+up here a little more often. See you later.
