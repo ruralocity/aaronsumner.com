@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/51k5N+QPayL._SL75_.jpg
 tags:
 ---
 
+A nice, project-oriented introduction to the Go programming language.
