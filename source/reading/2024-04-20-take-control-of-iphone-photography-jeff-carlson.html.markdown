@@ -8,3 +8,4 @@ image:
 tags:
 ---
 
+Not really what I was looking for, but maybe ok if you're really new to iPhone photography.
