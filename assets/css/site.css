@@ -1,0 +1,107 @@
+/* line 1, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+body {
+  font-family: 'Source Sans Pro', sans-serif; }
+
+/* line 5, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', sans-serif; }
+
+/* line 9, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+a {
+  color: #631111; }
+  /* line 12, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+  a:hover {
+    color: #993333;
+    text-decoration: none; }
+
+/* line 18, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.btn-primary {
+  background-color: #631111;
+  color: #fff;
+  text-decoration: none;
+  border: 0; }
+  /* line 24, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+  .btn-primary:hover {
+    background-color: #993333;
+    color: #fff;
+    text-decoration: none;
+    border: 0; }
+
+/* line 32, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+img {
+  display: block;
+  height: auto;
+  max-width: 100%; }
+
+/* line 38, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+#content {
+  font-size: 16px;
+  line-height: 22px; }
+  /* line 41, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+  #content a {
+    text-decoration: underline; }
+  /* line 45, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+  #content h1 {
+    margin-bottom: 20px; }
+  /* line 49, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+  #content p, #content li {
+    margin-bottom: 20px; }
+
+/* line 54, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+#social {
+  margin-left: -14px; }
+  /* line 56, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+  #social a:hover {
+    background: none; }
+
+/* line 61, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.project {
+  margin-bottom: 50px; }
+  /* line 64, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+  .project a {
+    font-weight: bold; }
+  /* line 68, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+  .project img {
+    float: right;
+    margin: 0 0 5px 5px; }
+
+/* line 74, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.project-featured {
+  font-size: 20px;
+  line-height: 30px; }
+
+/* line 79, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.book {
+  border: 1px solid #eeeeee; }
+
+/* line 83, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.floater {
+  float: right;
+  margin: 0 0 20px 20px; }
+
+/* line 89, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+#bio img {
+  float: right;
+  margin: 0 0 5px 5px; }
+
+/* line 95, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+footer {
+  margin-bottom: 50px; }
+
+/* line 99, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+time {
+  font-style: italic; }
+
+/* line 103, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.amazon-book-cover {
+  float: right;
+  margin: 0 auto 10px 10px; }
+
+/* line 108, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.reading {
+  margin-bottom: 40px; }
+
+/* line 112, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.photo-credit {
+  font-size: 75%;
+  margin-top: -20px; }

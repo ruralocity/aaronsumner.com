@@ -1,0 +1,42 @@
+---
+title: December 2019 update
+date: 2019-12-23 03:34 UTC
+tags:
+---
+
+![Coffenbury Lake](/assets/images/content/coffenbury.jpg)
+
+Last month's update concerned a few people; I am sorry about that. Really, I'm ok; just figuring out what to do next in life. I made some forward progress on that in the past few weeks. Here's a brain dump.
+
+Before I get to that, the above, unedited photo is of Coffenbury Lake at Fort Stevens State Park, on the morning of December 22. First day with a little sun after several days of rain and heavy storms. The trails were cleaned up, but there was still plenty of evidence of the strong winds that blew through here last Thursday. I also saw visible damage to homes around my neighborhood, but nothing for me at my house. I didn't even lose power.
+
+Anyway, I've been running the trails at Fort Stevens pretty much every weekend. I can't believe more people don't know about them, or maybe they've just ceded Fort Stevens to tourists? I don't know. But I pretty much had the trails to myself this morning.
+
+(And I'm not sure what that glowing thing at one o'clock above the sun was. Probably the moon. Maybe an artifact of my phone's camera. Maybe that's no moon, that's a space station, and we're all screwed.)
+
+---
+
+So, I got a new truck. This was a really big deal. In a perfect world I'd probably still be driving my old beater 1998 F-150, a hand-me-down from my grandpa because I think he got tired of me borrowing it all the time (or he just wanted an excuse to buy a newer truck). I had it for 12 years. That's probably about eight years longer than he had it. I drove it across the Rockies last year when I moved from Kansas to Oregon, two wheel drive and all. It had the following features and frills:
+
+1. Cruise control
+2. A CD player with an iPod (then iPhone)-aware USB port (added by me)
+3. That carefree sense you get from driving around in a 20-year-old beater that nobody's going to break into and you don't care about someone dinging with a shopping cart
+4. A reminder I got about my grandpa, every day. He died in 2012.
+
+It was hard to get rid of it, but it was time--it wasn't practical as an only vehicle, and I can't justify having multiple cars anymore (otherwise I would've augmented it with a new Subaru).
+
+![New truck!](/assets/images/content/ranger.jpg)
+
+The Ranger is technically smaller than my old F-150, but not by much (trucks in general grew a lot in the last twenty years, I've learned). The version with the longer bed (versus a full-size cab) is apparently hard to come by, otherwise I would've gotten a different color and not the off-road package. (Apologies in advance to anyone who may have to ride in its tiny back seat someday.) And it's probably more decked out than I have any right to buy, but it's not like I buy a new vehicle every few years. YOLO.
+
+---
+
+Last month, I talked a little bit about my new writing project. It's still in the works. I think I've got enough content for my first "season" (my word for it) in my head; I just need to finish writing it down. Also need to figure out where to put it. It's not Rails-specific, so it doesn't fit on Everyday Rails. And it doesn't feel like a good fit for this site, where I rarely edit myself and just write about whatever I feel like writing about. But I'm hoping to have this going February-ish.
+
+Regarding "seasons"--I'm cribbing this from something some podcasts I respect do, and that I'd like to apply to my writing. It's important to show up consistently as an independent writer (or podcaster, for that matter), but you also gotta protect yourself from burnout. One of my regrets about Everyday Rails is that I kind of fired all my guns at once out of the gate, and couldn't sustain that pace.
+
+So I'm aiming for a "season" (I keep putting that in quotes) that's two or three posts a week, over ten or so weeks, and then a little break. Expect three or four seasons per year. And, like a great television show that knows when to stop, expect me to call it quits when it's time to call it quits. (Or if it gets cancelled after a season, at least I put something new out there, right?)
+
+---
+
+Before I go, I'm going to ask again for you to consider using my [Amazon affiliate link](https://amzn.to/35QDPT4) the next time you need to make a (small) purchase there. It helps me maintain my [reading list](/pages/reading.html) without having to manually enter data, or resort to a screen scraper. I appreciate your support.
