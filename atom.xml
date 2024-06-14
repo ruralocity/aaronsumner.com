@@ -1,0 +1,27 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Aaron Sumner</title>
+  <link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self"/>
+  <link href="{{ site.url }}"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}</id>
+  <author>
+    <name>Aaron Sumner</name>
+  </author>
+
+  {% for post in site.posts limit:6 %}
+    <entry>
+      <title>{{ post.title | xml_escape }}</title>
+      <link href="{{ post.url | prepend: site.baseurl | prepend: site.url }}"/>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <id>{{ post.url | prepend: site.baseurl | prepend: site.url }}</id>
+      <content type="html">{{ post.content | xml_escape }}</content>
+      <author>
+        <name>Aaron Sumner</name>
+      </author>
+    </entry>
+  {% endfor %}
+</feed>
