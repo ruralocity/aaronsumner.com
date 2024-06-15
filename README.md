@@ -2,10 +2,15 @@ Source for my personal website, [aaronsumner.com](https://aaronsumner.com).
 
 ## History
 
-- July 2008: Site started as self-hosted WordPress
-- January 2010: Converted site from WordPress to Jekyll
-- November 2013: Converted site from Jekyll to Middleman
-- June 2024: Converted site back to Jekyll from Middleman
+- July 2008: Site started as self-hosted WordPress. Good idea at the time.
+- January 2010: Converted site from WordPress to Jekyll and moved to git.
+- November 2013: Converted site from Jekyll to Middleman. I was enamored by
+  Middleman's support for multiple blogs on a single site.
+- June 2024: Converted site back to Jekyll from Middleman. I was way behind
+  on security patches, the work to move to a newer Middleman was arguably
+  heavier than moving back to Jekyll, and Jekyll's new-to-me support for
+  using "collections" for splitting up writing posts vs. reading lists
+  posts was good enough.
 
 ## For my reference
 
