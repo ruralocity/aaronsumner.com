@@ -27,7 +27,7 @@ task :post, [:title] do |t, args|
 
   open(filename, "w") do |post|
     post.puts "---"
-    post.puts "layout: post"
+    post.puts "layout: page"
     post.puts "title: \"#{title}\""
     post.puts "---"
     post.puts ""
