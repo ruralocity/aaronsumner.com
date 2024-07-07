@@ -1,0 +1,25 @@
+---
+layout: page
+title: July 2024 update
+---
+
+Hey, it's been awhile, and much has happened since I last wrote or shared much of an update!
+
+## Home
+
+First off, we left Oregon and the west coast last summer, and now call St. Louis, Missouri our home. It's a long story. We purchased a 110-plus-year-old brick home in one of the city's historic neighborhoods. I think we both outgrew Astoria in particular, and felt priced out of anywhere else on the west coast we'd consider. I so miss the mountains. But we were just back out there for a few days to tend to some business, and while Astoria and Ilwaco tried to charm me back, I was ready to get home by the end of the week.
+
+I don't have much space for a shop in the new house. Although it's got a large basement, most of it isn't usable shop space due to low ceilings and pipes. I groused about this for some time, but have decided to make lemonade from lemons. So my goal for the rest of this summer is to start getting a new space together--probably not for much furniture building, but enough to get some much-needed projects done around the house. I joked that I was going to start a YouTube channel to document this, and had myself half-convinced I'd actually do that for a few days, but have since backed off. Seems like extra work.
+
+It's been nice to be in a city. Airport? Twenty minutes away. Baseball? Ten minutes away. Both versus two hours, minimum. And we're both finally getting some deferred healthcare addressed; things that weren't even possible in our rural coastal community. St. Louis gets a bad rap, but as I've said for some time, it's acknowledged its problems for some time. I hope we can be part of the solution, if and when we finally get settled.
+
+## Career
+
+I'm still at O'Reilly, eleven years tomorrow! And in the engineering managerial position I've been in for the past few years. I'm trending toward writing less code and spending more time on big picture thinking, and mentoring.
+
+And last, but definitely not least, I'm working on the first update to [Everyday Rails Testing with RSpec] in years! It's taken longer than I'd wanted, mainly because I've wound up putting much more fresh thought and content into it than I originally planned. It's also a free update for anyone who's ever bought or been given a copy through Leanpub, ever.
+
+You can [read more about the update on Everyday Rails], or, if you've never checked it out, hop on over to Leanpub and grab a copy today.
+
+[Everyday Rails Testing with RSpec]:https://leanpub.com/everydayrailsrspec
+[read more about the update on Everyday Rails]:https://everydayrails.com/tag/rspec-book
