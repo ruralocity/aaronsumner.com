@@ -6,17 +6,16 @@ title: Home
 <div id="projects">
   <div class="row">
     <div class="project project-featured col-md-6">
-      <a href="https://leanpub.com/everydayrailsrspec"><img src="/assets/images/rspec_book.jpg" class="book" alt="Everyday Rails Testing with RSpec" /></a>
+      <a href="https://leanpub.com/everydayrailsrspec"><img src="/assets/images/rspec-book-2024-xl.jpg" class="book" style="width: 100px" alt="Everyday Rails Testing with RSpec" /></a>
       <a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing
       with RSpec</a> is my first book! Learn how to test your
       Rails applications the way I did and <strong>test with confidence</strong>, by focusing on core technologies and
       simple, readable tests that pass. <a
-      href="https://leanpub.com/everydayrailsrspec">Learn more</a>. Updates
-      coming in 2024!
+      href="https://leanpub.com/everydayrailsrspec">Learn more</a>.
     </div>
     <div class="project project-featured col-md-6">
-      <a href="http://everydayrails.com/"><img src="/assets/images/everyday_rails.png" alt="Everyday Rails" /></a>
-      <a href="http://everydayrails.com/">Everyday Rails</a> is a blog for
+      <a href="https://everydayrails.com/"><img src="/assets/images/everyday_rails.png" alt="Everyday Rails" /></a>
+      <a href="https://everydayrails.com/">Everyday Rails</a> is a blog for
       people who need to build stuff with Rails and get on to their next
       project. Sometimes it's still about Ruby and Rails, though these days I
       tend to think and write about broader topics there. I'm trying to post
@@ -26,7 +25,7 @@ title: Home
 
   <div class="row">
     <div class="project col-md-4">
-      <a href="http://soundrefound.com/">Sound Refound</a> is an online gallery
+      <a href="https://soundrefound.com/">Sound Refound</a> is an online gallery
       of promotional flyers for concerts. I've collected these over the years,
       primarily in the Lawrence, Kansas, and Seattle, Washington areas.
     </div>
