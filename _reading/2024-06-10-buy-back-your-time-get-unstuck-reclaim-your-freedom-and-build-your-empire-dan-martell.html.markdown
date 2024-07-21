@@ -8,4 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/719pWKuKMwL._SL75_.jpg
 tags:
 ---
 
-Mixed feelings on this one overall. Curious how well it'll age as generative AI advances (for better or worse). That said, I like how the author chips in a little unscripted bonus content at the each chapter of the audio book; nice touch that takes advantage of the format.
+Mixed feelings on this one overall. Curious how well it'll age as generative AI advances (for better or worse). That said, I like how the author chips in a little unscripted bonus content at the each chapter of the audio book; nice touch that takes advantage of the format. (Edit: I slogged my way through most of the rest of this one but gave up on it in the end.)
