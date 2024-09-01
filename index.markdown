@@ -7,23 +7,32 @@ title: Home
   <div class="row">
     <div class="project project-featured col-md-6">
       <a href="https://leanpub.com/everydayrailsrspec"><img src="/assets/images/rspec-book-2024-xl.jpg" class="book" style="width: 100px" alt="Everyday Rails Testing with RSpec" /></a>
+      Ready to be productive with test-driven development in Rails? Check out my book
       <a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing
-      with RSpec</a> is my first book! Learn how to test your
+      with RSpec</a>! Learn how to test your
       Rails applications the way I did and <strong>test with confidence</strong>, by focusing on core technologies and
       simple, readable tests that pass. <a
       href="https://leanpub.com/everydayrailsrspec">Learn more</a>.
     </div>
     <div class="project project-featured col-md-6">
-      <a href="https://everydayrails.com/"><img src="/assets/images/everyday_rails.png" alt="Everyday Rails" /></a>
-      <a href="https://everydayrails.com/">Everyday Rails</a> is a blog for
-      people who need to build stuff with Rails and get on to their next
-      project. Sometimes it's still about Ruby and Rails, though these days I
-      tend to think and write about broader topics there. I'm trying to post
-      here about once a month.
+      <a href="http://lowoverheadindustries.com/"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
+      <a href="http://lowoverheadindustries.com/">Low Overhead Industries</a>
+      is my semi-dedicated-but-not-entirely-serious approach to woodworking
+      within constraints, and/or my attempt to
+      subsidize ongoing projects. Follow along as I build a simple, functional workshop
+      with limited space and budget, or just buy something to
+      <a href="http://lowoverheadindustries.com/">support my woodworking habit</a>!
     </div>
   </div>
 
   <div class="row">
+    <div class="project col-md-4">
+    <a href="https://everydayrails.com/"><img src="/assets/images/everyday_rails.png" alt="Everyday Rails" style="width:100px" /></a>
+      <a href="https://everydayrails.com/">Everyday Rails</a> is a blog for
+      people who need to build stuff with Rails and get on to their next
+      project. Sometimes it's still about Ruby and Rails, though these days I
+      tend to think and write about broader topics there.
+    </div>
     <div class="project col-md-4">
       <a href="https://soundrefound.com/">Sound Refound</a> is an online gallery
       of promotional flyers for concerts. I've collected these over the years,
@@ -35,15 +44,6 @@ title: Home
       is a collection of snippets to speed up and simplify writing tests in Visual Studio Code,
       as taught in <a href="https://leanpub.com/everydayrailsrspec">my Rails testing book</a>.
       I use these snippets every day to speed up my test-driven development!
-    </div>
-    <div class="project col-md-4">
-      <strong>Next projects coming soon.</strong>
-      Honestly, I don't know right now. But you should probably
-      <a href="http://eepurl.com/nRW0z">subscribe to my newsletter</a>
-      to see what happens, or follow me on
-      <a href="https://mastodon.social/@ruralocity">Mastodon</a> or
-      <a href="https://www.linkedin.com/in/asumner/">LinkedIn</a>.
-      Thank you!
     </div>
   </div>
 </div>
