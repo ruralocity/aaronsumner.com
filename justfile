@@ -51,8 +51,8 @@ clean:
   publisher = $stdin.gets.strip
   puts "Purchase URL:"
   purchase_url = $stdin.gets.strip
-  puts "Image ID:"
-  image_id = $stdin.gets.strip
+  puts "Image URL:"
+  image_id = $stdin.gets.strip.split("/").last.split(".").first
 
   image_url = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
 
