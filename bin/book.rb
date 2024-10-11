@@ -1,19 +1,24 @@
+require "bundler/inline"
+
+gemfile do
+  source "https://rubygems.org"
+  gem "prompts"
+end
+
 require "date"
+require "prompts"
 
-puts "Book title:"
-title = $stdin.gets.strip
-puts "Author:"
-author = $stdin.gets.strip
-puts "Editor:"
-editor = $stdin.gets.strip
-puts "Publisher:"
-publisher = $stdin.gets.strip
-puts "Purchase URL:"
-purchase_url = $stdin.gets.strip
-puts "Image URL:"
-image_id = $stdin.gets.strip.split("/").last.split(".").first
+title = Prompts::TextPrompt.ask(label: "Title:", required: true)
+author = Prompts::TextPrompt.ask(label: "Author:")
+editor = Prompts::TextPrompt.ask(label: "Editor:")
+publisher = Prompts::TextPrompt.ask(label: "Publisher:", required: true)
+purchase_url = Prompts::TextPrompt.ask(label: "Purchase URL:", required: true)
+image_id = Prompts::TextPrompt.ask(label: "Image URL:")
 
-image_url = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
+if image_id
+  image_id.split("/").last.split(".").first
+  image_url = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
+end
 
 filename_title = title.downcase.strip.gsub(" ", "-").gsub(/[^\w-]/, "")
 filename_author = (author || editor).downcase.strip.gsub(" ", "-").gsub(/[^\w-]/, "")
