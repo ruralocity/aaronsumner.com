@@ -15,13 +15,13 @@ title: Home
       href="https://leanpub.com/everydayrailsrspec">Learn more</a>.
     </div>
     <div class="project project-featured col-md-6">
-      <a href="http://lowoverheadindustries.com/"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
-      <a href="http://lowoverheadindustries.com/">Low Overhead Industries</a>
+      <a href="https://lowoverheadwood.etsy.com/"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
+      <a href="https://lowoverheadwood.etsy.com/">Low Overhead Industries</a>
       is my semi-dedicated-but-not-entirely-serious approach to woodworking
       within constraints, and/or my attempt to
       subsidize ongoing projects. Follow along as I build a simple, functional workshop
       with limited space and budget, or just buy something to
-      <a href="http://lowoverheadindustries.com/">support my woodworking habit</a>!
+      <a href="https://lowoverheadwood.etsy.com/">support my woodworking habit</a>!
     </div>
   </div>
 
