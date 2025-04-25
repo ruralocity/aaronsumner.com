@@ -5,6 +5,6 @@ author: "Neko Case"
 publisher: "Grand Central Publishing"
 date: 2025-04-24
 tags:
-image: "https://images-na.ssl-images-amazon.com/images/I/81pZbEXwZ+L._SL75_.jpg"
+image: "https://images-na.ssl-images-amazon.com/images/I/81UOqhhPu0L._SL75_.jpg"
 ---
 
