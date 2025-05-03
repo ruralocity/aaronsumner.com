@@ -97,7 +97,7 @@ title: Home
     </p>
 
     <p>
-      Sometimes I write software in my role as an Associate Software Engineering
+      I still write a lot of code in my role as a Software Engineering
       Manager at
       <a href="https://www.oreilly.com/">O’Reilly Media</a>. Some of the other
       times I write about writing software as an independent technical author at
