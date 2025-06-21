@@ -10,40 +10,35 @@ title: Home
       Ready to be productive with test-driven development in Rails? Check out my book
       <a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing
       with RSpec</a>! Learn how to test your
-      Rails applications the way I did and <strong>test with confidence</strong>, by focusing on core technologies and
-      simple, readable tests that pass. <a
-      href="https://leanpub.com/everydayrailsrspec">Learn more</a>.
+      Rails applications the way I did and <strong>test with confidence</strong>, focusing on core technologies and
+      simple, readable tests that pass.
     </div>
     <div class="project project-featured col-md-6">
-      <a href="https://lowoverheadwood.etsy.com/"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
-      <a href="https://lowoverheadwood.etsy.com/">Low Overhead Industries</a>
-      is my semi-dedicated-but-not-entirely-serious approach to woodworking
-      within constraints, and/or my attempt to
-      subsidize ongoing projects. Follow along as I build a simple, functional workshop
-      with limited space and budget, or just buy something to
-      <a href="https://lowoverheadwood.etsy.com/">support my woodworking habit</a>!
+      <a href="https://bandageman.com/"><img src="/assets/images/bandageman.png" alt="Bandageman Studios" style="width:100px" /></a>
+      <a href="https://bandageman.com/">Bandageman Studios</a>
+      is my extremely serious video game empire. Or maybe it's just an excuse for me to learn video game development through silly little games about obscure Pacific Northwest cryptids, and/or my dog.
     </div>
   </div>
 
   <div class="row">
     <div class="project col-md-4">
+      <a href="https://lowoverheadwood.etsy.com/"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
+<a href="https://lowoverheadwood.etsy.com/">Low Overhead Industries</a>
+is my woodworking side project, currently focused on fun
+trinkets created from ordinary scrap wood.
+    </div>
+    <div class="project col-md-4">
     <a href="https://everydayrails.com/"><img src="/assets/images/everyday_rails.png" alt="Everyday Rails" style="width:100px" /></a>
-      <a href="https://everydayrails.com/">Everyday Rails</a> is a blog for
-      people who need to build stuff with Rails and get on to their next
-      project. Sometimes it's still about Ruby and Rails, though these days I
-      tend to think and write about broader topics there.
+      I've blogged at
+      <a href="https://everydayrails.com/">Everyday Rails</a>
+      since 2010, sharing tips for getting things done with
+      Ruby on Rails and on to your next
+      project.
     </div>
     <div class="project col-md-4">
       <a href="https://soundrefound.com/">Sound Refound</a> is an online gallery
       of promotional flyers for concerts. I've collected these over the years,
       primarily in the Lawrence, Kansas, and Seattle, Washington areas.
-    </div>
-    <div class="project col-md-4">
-      <a
-         href="https://marketplace.visualstudio.com/items?itemName=everydayrails.everyday-rails-rspec-snippets">Everyday Rails RSpec Snippets</a>
-      is a collection of snippets to speed up and simplify writing tests in Visual Studio Code,
-      as taught in <a href="https://leanpub.com/everydayrailsrspec">my Rails testing book</a>.
-      I use these snippets every day to speed up my test-driven development!
     </div>
   </div>
 </div>
