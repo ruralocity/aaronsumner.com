@@ -10,15 +10,19 @@ layout: page
 </p>
 
 {% assign reading_list = site.reading | reverse %}
-{% for post in reading_list %}
-  <div class="reading">
-    {% if post.image %}
-      <a href="{{ post.purchase_url }}"><img alt="{{ post.title}} book cover" class="book amazon-book-cover" src="{{ post.image }}" /></a>
-    {% endif %}
-    <h4>
-      <a href="{{ post.purchase_url }}">{{ post.title }} ({{ post.author }})</a>
-    </h4>
-    {{ post.content | strip_html | truncatewords: 100 }}
-    <time>({{ post.date | date: "%B %Y" }})</time>
-  </div>
+{% assign reading_by_year = reading_list | group_by_exp: "post", "post.date | date: '%Y'" %}
+{% for year_group in reading_by_year %}
+  <h2 style="margin-top: 40px">{{ year_group.name }}</h2>
+  {% for post in year_group.items %}
+    <div class="reading">
+      {% if post.image %}
+        <a href="{{ post.purchase_url }}"><img alt="{{ post.title}} book cover" class="book amazon-book-cover" src="{{ post.image }}" /></a>
+      {% endif %}
+      <h4>
+        <a href="{{ post.purchase_url }}">{{ post.title }} ({{ post.author }})</a>
+      </h4>
+      {{ post.content | strip_html | truncatewords: 100 }}
+      <time>({{ post.date | date: "%B %Y" }})</time>
+    </div>
+  {% endfor %}
 {% endfor %}
