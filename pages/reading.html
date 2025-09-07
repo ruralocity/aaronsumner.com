@@ -9,20 +9,16 @@ layout: page
   small cut. Or you can just do what I do and check your local library!
 </p>
 
-<ul>
-  {% assign reading_list = site.reading | reverse %}
-  {% for post in reading_list %}
-    <li>
-      <div class="reading">
-        {% if post.image %}
-          <a href="{{ post.purchase_url }}"><img alt="" class="book amazon-book-cover" src="{{ post.image }}" /></a>
-        {% endif %}
-        <h4>
-          <a href="{{ post.purchase_url }}">{{ post.title }} ({{ post.author }})</a>
-        </h4>
-        {{ post.content | strip_html | truncatewords: 100 }}
-        <time>({{ post.date | date: "%B %Y" }})</time>
-      </div>
-    </li>
-  {% endfor %}
-</ul>
+{% assign reading_list = site.reading | reverse %}
+{% for post in reading_list %}
+  <div class="reading">
+    {% if post.image %}
+      <a href="{{ post.purchase_url }}"><img alt="{{ post.title}} book cover" class="book amazon-book-cover" src="{{ post.image }}" /></a>
+    {% endif %}
+    <h4>
+      <a href="{{ post.purchase_url }}">{{ post.title }} ({{ post.author }})</a>
+    </h4>
+    {{ post.content | strip_html | truncatewords: 100 }}
+    <time>({{ post.date | date: "%B %Y" }})</time>
+  </div>
+{% endfor %}
