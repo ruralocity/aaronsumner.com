@@ -111,9 +111,9 @@ time {
 /* Larger font size for non-homepage pages */
 .content {
   font-size: 20px;
-  line-height: 28px; }
+  line-height: 32px; }
   .content p, .content li {
     font-size: 20px;
-    line-height: 28px; }
+    line-height: 32px; }
   .content img {
     width: 100%; }
