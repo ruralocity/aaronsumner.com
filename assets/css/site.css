@@ -95,7 +95,9 @@ time {
 /* line 103, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .amazon-book-cover {
   float: right;
-  margin: 0 auto 10px 10px; }
+  margin: 0 auto 10px 10px;
+  width: auto !important;
+  max-width: 150px; }
 
 /* line 108, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .reading {
