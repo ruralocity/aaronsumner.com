@@ -113,3 +113,5 @@ time {
   .content p, .content li {
     font-size: 20px;
     line-height: 28px; }
+  .content img {
+    width: 100%; }
