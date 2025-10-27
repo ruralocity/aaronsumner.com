@@ -6,12 +6,11 @@ title: Home
 <div id="projects">
   <div class="row">
     <div class="project project-featured col-md-6">
-      <a href="https://leanpub.com/everydayrailsrspec"><img src="/assets/images/rspec-book-2024-xl.jpg" class="book" style="width: 100px" alt="Everyday Rails Testing with RSpec" /></a>
-      Ready to be productive with test-driven development in Rails? Check out my book
-      <a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing
-      with RSpec</a>! Learn how to test your
-      Rails applications the way I did and <strong>test with confidence</strong>, focusing on core technologies and
-      simple, readable tests that pass.
+        <a href="https://leftofthe.dev/"><img src="/assets/images/left-of-the-dev.png" alt="Everyday Rails" style="width:100px" /></a>
+        I've blogged at
+        <a href="https://leftofthe.dev/">Left of the Dev</a> (formerly Everyday Rails)
+        since 2010. It's about whatever's grabbing my attention right now as a software developer,
+        with a healthy blend of pragmatic and fun.
     </div>
     <div class="project project-featured col-md-6">
       <a href="https://bandageman.com/"><img src="/assets/images/bandageman.png" alt="Bandageman Studios" style="width:100px" /></a>
@@ -22,18 +21,18 @@ title: Home
 
   <div class="row">
     <div class="project col-md-4">
+        <a href="https://leanpub.com/everydayrailsrspec"><img src="/assets/images/rspec-book-2024-xl.jpg" class="book" style="width: 100px" alt="Everyday Rails Testing with RSpec" /></a>
+        Get productive with test-driven development in Rails with
+        <a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing
+        with RSpec</a>! Learn how to <strong>test with confidence</strong> through core fundamentals and
+        simple, readable tests that pass.
+    </div>
+
+    <div class="project col-md-4">
       <a href="https://lowoverheadwood.etsy.com/"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
 <a href="https://lowoverheadwood.etsy.com/">Low Overhead Industries</a>
 is my woodworking side project, currently focused on fun
-trinkets created from ordinary scrap wood.
-    </div>
-    <div class="project col-md-4">
-    <a href="https://everydayrails.com/"><img src="/assets/images/everyday_rails.png" alt="Everyday Rails" style="width:100px" /></a>
-      I've blogged at
-      <a href="https://everydayrails.com/">Everyday Rails</a>
-      since 2010, sharing tips for getting things done with
-      Ruby on Rails and on to your next
-      project.
+trinkets created from ordinary scrap wood. Just a lightly-populated Etsy shop for now, hopefully more in 2026.
     </div>
     <div class="project col-md-4">
       <a href="https://soundrefound.com/">Sound Refound</a> is an online gallery
@@ -96,7 +95,7 @@ trinkets created from ordinary scrap wood.
       Manager at
       <a href="https://www.oreilly.com/">O’Reilly Media</a>. Some of the other
       times I write about writing software as an independent technical author at
-      <a href="https://everydayrails.com/">Everyday Rails</a>.
+      <a href="https://leftofthe.dev/">Left of the Dev</a>.
     </p>
 
     <p>
