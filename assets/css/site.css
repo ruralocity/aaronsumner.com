@@ -8,11 +8,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 9, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 a {
-  color: #631111; }
+  color: #631111;
+  transition: background-color 0.2s ease; }
   /* line 12, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
   a:hover {
     color: #993333;
-    text-decoration: none; }
+    text-decoration: none;
+    background-color: rgba(99, 17, 17, 0.1); }
 
 /* line 18, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .btn-primary {
@@ -111,9 +113,25 @@ time {
 /* Larger font size for non-homepage pages */
 .content {
   font-size: 20px;
-  line-height: 32px; }
+  line-height: 32px;
+  max-width: 850px; }
   .content p, .content li {
     font-size: 20px;
     line-height: 32px; }
   .content img {
     width: 100%; }
+  .content h2 {
+    font-size: 32px;
+    margin-top: 50px;
+    padding-top: 10px; }
+  .content h3 {
+    font-size: 26px;
+    margin-top: 45px;
+    padding-top: 8px; }
+  .content h4 {
+    font-size: 22px;
+    margin-top: 40px;
+    padding-top: 8px; }
+  .content h5 {
+    margin-top: 35px;
+    padding-top: 5px; }
