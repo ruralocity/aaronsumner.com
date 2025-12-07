@@ -2,7 +2,7 @@
 # Migration from everydayrails.com to leftofthe.dev
 
 [build.environment]
-  RUBY_VERSION = "3.4.7"
+  RUBY_VERSION = "3.4.3"
   NODE_ENV = "production"
 
 [build]
