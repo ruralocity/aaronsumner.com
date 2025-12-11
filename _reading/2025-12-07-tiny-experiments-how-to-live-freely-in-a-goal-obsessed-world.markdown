@@ -8,3 +8,5 @@ image: https://images-na.ssl-images-amazon.com/images/I/61rUfWyyfoL._SL75_.jpg
 tags:
 ---
 
+I really enjoyed this entry into the productivity-oriented self-help pantheon--a
+nice mix of science, mindfulness, and creativity. Recommended.
