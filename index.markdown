@@ -29,10 +29,10 @@ title: Home
     </div>
 
     <div class="project col-md-4">
-      <a href="https://lowoverheadwood.etsy.com/"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
-<a href="https://lowoverheadwood.etsy.com/">Low Overhead Industries</a>
+      <a href="https://ko-fi.com/lowoverhead"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
+<a href="https://ko-fi.com/lowoverhead">Low Overhead Industries</a>
 is my woodworking side project, currently focused on fun
-trinkets created from ordinary scrap wood. Just a lightly-populated Etsy shop for now, hopefully more in 2026.
+trinkets created from ordinary scrap wood. Just a lightly-populated online shop for now, hopefully more in 2026.
     </div>
     <div class="project col-md-4">
       <a href="https://soundrefound.com/">Sound Refound</a> is an online gallery
