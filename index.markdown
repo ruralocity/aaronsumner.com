@@ -19,7 +19,7 @@ title: Home
     </div>
   </div>
 
-  <div class="row">
+<div class="row">
     <div class="project col-md-4">
         <a href="https://leanpub.com/everydayrailsrspec"><img src="/assets/images/rspec-book-2024-xl.jpg" class="book" style="width: 100px" alt="Everyday Rails Testing with RSpec" /></a>
         Get productive with test-driven development in Rails with
@@ -39,6 +39,12 @@ trinkets created from ordinary scrap wood. Just a lightly-populated Etsy shop fo
       of promotional flyers for concerts. I've collected these over the years,
       primarily in the Lawrence, Kansas, and Seattle, Washington areas.
     </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-12 project-featured">
+    👋 <strong>I do not subscribe to mainstream social media platforms,</strong> so as an independent author and artist, I really appreciate your support! If I've shared anything here you find amusing or interesting, please share it in kind with your friends, family, and colleagues. You can follow my projects on <a href="https://mastodon.social/@ruralocity">Mastodon</a> or <a href="https://bsky.app/profile/ruralocity.bsky.social">Bluesky</a>. 🤗
   </div>
 </div>
 
