@@ -49,8 +49,17 @@ def scrape_amazon_book_data(url)
       end
     end
 
-    user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36"
-    doc = Nokogiri::HTML(URI.open(url, "User-Agent" => user_agent))
+    user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
+    doc = Nokogiri::HTML(URI.open(url,
+      "User-Agent" => user_agent,
+      "Accept" => "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language" => "en-US,en;q=0.5"
+    ))
+
+    if doc.css("#productTitle").empty? && doc.text =~ /Type the characters you see in this image|Enter the characters you see below/i
+      puts "WARNING: Amazon returned a CAPTCHA / bot-check page. No data could be scraped. Try again in a moment, or open the URL in a browser."
+      return book_data
+    end
 
     title_element = doc.css("#productTitle").first
     book_data[:title] = title_element ? title_element.text.strip : nil
@@ -58,12 +67,23 @@ def scrape_amazon_book_data(url)
     author_element = doc.css("#bylineInfo .author a").first
     book_data[:author] = author_element ? author_element.text.strip : nil
 
+    doc.css("#bylineInfo .author").each do |contributor|
+      contribution = contributor.css(".contribution").text
+      if contribution =~ /Editor/i
+        name_element = contributor.css("a").first
+        if name_element
+          book_data[:editor] = name_element.text.strip
+          break
+        end
+      end
+    end
+
     details = doc.css("#detailBullets_feature_div li, #productDetailsTable .content li")
     details.each do |detail|
       text = detail.text.strip
       if text.include?("Publisher") || text.include?("Published by")
         publisher_text = text.split(":").last.strip
-        book_data[:publisher] = publisher_text.split("(").first.strip
+        book_data[:publisher] = publisher_text.split("(").first.gsub(/[‎‏]/, '').gsub(/\s+/, ' ').strip
       end
     end
 
@@ -83,7 +103,7 @@ def scrape_amazon_book_data(url)
 
     if image_data && !image_data.empty? && image_data.first["mainUrl"]
       main_image_url = image_data.first["mainUrl"]
-      if main_image_url.include?("images-na.ssl-images-amazon.com") || main_image_url.include?("images-amazon.com")
+      if main_image_url.include?("images-na.ssl-images-amazon.com") || main_image_url.include?("images-amazon.com") || main_image_url.include?("m.media-amazon.com")
         image_id = main_image_url.split("/").last.split("_").first.split(".").first
         book_data[:image_id] = image_id
         book_data[:image_url] = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
@@ -102,7 +122,7 @@ def scrape_amazon_book_data(url)
           end
         end
 
-        if image_url && (image_url.include?("images-na.ssl-images-amazon.com") || image_url.include?("images-amazon.com"))
+        if image_url && (image_url.include?("images-na.ssl-images-amazon.com") || image_url.include?("images-amazon.com") || image_url.include?("m.media-amazon.com"))
           image_id = image_url.split("/").last.split("_").first.split(".").first
           book_data[:image_id] = image_id
           book_data[:image_url] = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
@@ -113,7 +133,7 @@ def scrape_amazon_book_data(url)
     if !book_data[:image_id]
       doc.css("img").each do |img|
         src = img['src']
-        if src && (src.include?("images-na.ssl-images-amazon.com") || src.include?("images-amazon.com")) &&
+        if src && (src.include?("images-na.ssl-images-amazon.com") || src.include?("images-amazon.com") || src.include?("m.media-amazon.com")) &&
            (src.include?("/I/") || src.include?("/P/"))
           image_id = src.split("/").last.split("_").first.split(".").first
           if image_id && image_id.length > 8  # Likely a valid Amazon image ID
@@ -153,7 +173,7 @@ author = Prompts::TextPrompt.ask(
 
 editor = Prompts::TextPrompt.ask(
   label: "Editor:",
-  default: frontmatter["editor"]
+  default: book_data[:editor] || frontmatter["editor"]
 )
 
 publisher = Prompts::TextPrompt.ask(
