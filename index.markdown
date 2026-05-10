@@ -13,19 +13,19 @@ title: Home
         with a healthy blend of pragmatic and fun.
     </div>
     <div class="project project-featured col-md-6">
-      <a href="https://bandageman.com/"><img src="/assets/images/bandageman.png" alt="Bandageman Studios" style="width:100px" /></a>
-      <a href="https://bandageman.com/">Bandageman Studios</a>
-      is my extremely serious video game empire. Or maybe it's just an excuse for me to learn video game development through silly little games about obscure Pacific Northwest cryptids, and/or my dog.
-    </div>
-  </div>
-
-<div class="row">
-    <div class="project col-md-4">
         <a href="https://leanpub.com/everydayrailsrspec"><img src="/assets/images/rspec-book-2024-xl.jpg" class="book" style="width: 100px" alt="Everyday Rails Testing with RSpec" /></a>
         Get productive with test-driven development in Rails with
         <a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing
         with RSpec</a>! Learn how to <strong>test with confidence</strong> through core fundamentals and
         simple, readable tests that pass.
+    </div>
+  </div>
+
+<div class="row">
+    <div class="project col-md-4">
+        <a href="https://bandageman.com/"><img src="/assets/images/bandageman.png" alt="Bandageman Studios" style="width:100px" /></a>
+        <a href="https://bandageman.com/">Bandageman Studios</a>
+        is my extremely serious video game empire. Or maybe it's just an excuse for me to learn video game development through silly little games about obscure Pacific Northwest cryptids, and/or my dog.
     </div>
 
     <div class="project col-md-4">
@@ -36,15 +36,10 @@ trinkets created from ordinary scrap wood. Just a lightly-populated online shop 
     </div>
     <div class="project col-md-4">
       <a href="https://soundrefound.com/">Sound Refound</a> is an online gallery
-      of promotional flyers for concerts. I've collected these over the years,
+      of promotional flyers for concerts—you know, the ones we used to see stapled
+      to electric posts, fences, and anywhere bills could be posted. I've collected these over the years,
       primarily in the Lawrence, Kansas, and Seattle, Washington areas.
     </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-12 project-featured">
-    👋 <strong>I do not subscribe to mainstream social media platforms,</strong> so as an independent author and artist, I really appreciate your support! If I've shared anything here you find amusing or interesting, please share it in kind with your friends, family, and colleagues. You can follow my projects on <a href="https://mastodon.social/@ruralocity">Mastodon</a> or <a href="https://bsky.app/profile/ruralocity.bsky.social">Bluesky</a>. 🤗
   </div>
 </div>
 
