@@ -4,5 +4,5 @@ author: Ken Honda
 editor:
 publisher: Hay House LLC
 purchase_url: https://amzn.to/4cScLG8
-image: "https://images-na.ssl-images-amazon.com/images/I/71iTKcR4yPL._SL75_.jpg"
+image: "https://images-na.ssl-images-amazon.com/images/I/71iTKcR4yPL._SL300_.jpg"
 ---

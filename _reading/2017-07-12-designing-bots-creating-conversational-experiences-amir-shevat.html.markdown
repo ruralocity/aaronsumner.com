@@ -4,7 +4,7 @@ purchase_url: https://www.safaribooksonline.com/library/view/designing-bots-1st/
 author: "Amir Shevat"
 publisher: "O'Reilly Media"
 date: 2017-07-12
-image: https://images-na.ssl-images-amazon.com/images/I/51mIUBAX1AL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51mIUBAX1AL._SL300_.jpg
 tags:
 ---
 

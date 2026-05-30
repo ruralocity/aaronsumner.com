@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Why-Buddhism-True-Philosophy-Enlightenment/
 author: "Robert Wright"
 publisher: "Simon & Schuster"
 date: 2017-08-22
-image: https://images-na.ssl-images-amazon.com/images/I/41fUQsuuGIL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41fUQsuuGIL._SL300_.jpg
 tags:
 ---
 

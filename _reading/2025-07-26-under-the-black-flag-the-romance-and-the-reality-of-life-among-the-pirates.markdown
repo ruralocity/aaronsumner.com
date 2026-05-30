@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Under-Black-Flag-Romance-Reality/dp/0812977
 author: "David Cordingly"
 publisher: "‎                                                Random House Trade Paperbacks"
 date: 2025-07-26
-image: https://images-na.ssl-images-amazon.com/images/I/71FoJoQ+OXL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71FoJoQ+OXL._SL300_.jpg
 tags:
 ---
 

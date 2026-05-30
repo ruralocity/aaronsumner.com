@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/4bX1gNk
 author: "Dan Martell"
 publisher: "Portfolio"
 date: 2024-06-10
-image: https://images-na.ssl-images-amazon.com/images/I/719pWKuKMwL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/719pWKuKMwL._SL300_.jpg
 tags:
 ---
 

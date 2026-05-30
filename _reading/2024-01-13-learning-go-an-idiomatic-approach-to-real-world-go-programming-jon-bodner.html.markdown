@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3SJfY39
 author: "Jon Bodner"
 publisher: "O'Reilly Media"
 date: 2024-01-13
-image: https://images-na.ssl-images-amazon.com/images/I/81QaVrv6p4L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/81QaVrv6p4L._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3ShnYWI
 author: "Ricardo Geraldi"
 publisher: "Pragmatic Bookshelf"
 date: 2022-07-31
-image: https://images-na.ssl-images-amazon.com/images/I/51k5N+QPayL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51k5N+QPayL._SL300_.jpg
 tags:
 ---
 

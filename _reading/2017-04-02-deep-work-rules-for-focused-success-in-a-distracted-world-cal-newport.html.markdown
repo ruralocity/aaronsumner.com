@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/145
 author: "Cal Newport"
 publisher: "Grand Central Publishing"
 date: 2017-04-02
-image: https://images-na.ssl-images-amazon.com/images/I/51HsuPnTbrL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51HsuPnTbrL._SL300_.jpg
 tags:
 ---
 

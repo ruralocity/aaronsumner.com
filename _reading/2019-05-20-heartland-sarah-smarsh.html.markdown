@@ -4,6 +4,6 @@ purchase_url: https://amzn.to/2YJtLYP
 author: "Sarah Smarsh"
 publisher: "Scribner"
 date: 2019-05-20
-image: https://images-na.ssl-images-amazon.com/images/I/51Z%2BNGxs4SL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Z%2BNGxs4SL._SL300_.jpg
 tags:
 ---

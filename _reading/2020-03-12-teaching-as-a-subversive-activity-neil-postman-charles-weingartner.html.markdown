@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/38FGeRO
 author: "Neil Postman and Charles Weingartner"
 publisher: "Delta; First Delta Printing edition"
 date: 2020-03-12
-image: https://images-na.ssl-images-amazon.com/images/I/51a%2BVuxODPL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51a%2BVuxODPL._SL300_.jpg
 tags:
 ---
 

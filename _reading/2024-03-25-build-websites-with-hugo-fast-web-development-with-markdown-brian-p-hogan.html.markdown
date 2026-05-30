@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3TIHHAi
 author: "Brian P. Hogan"
 publisher: "Pragmatic Bookshelf; 1st edition"
 date: 2024-03-25
-image: https://images-na.ssl-images-amazon.com/images/I/81P7fDCM2yL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/81P7fDCM2yL._SL300_.jpg
 tags:
 ---
 

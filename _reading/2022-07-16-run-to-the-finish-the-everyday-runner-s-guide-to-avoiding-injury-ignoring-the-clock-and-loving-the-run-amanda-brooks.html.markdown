@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3IJN6kE
 author: "Amanda Brooks"
 publisher: "Hachette Go"
 date: 2022-07-16
-image: https://images-na.ssl-images-amazon.com/images/I/41p1P4P6--L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41p1P4P6--L._SL300_.jpg
 tags:
 ---
 

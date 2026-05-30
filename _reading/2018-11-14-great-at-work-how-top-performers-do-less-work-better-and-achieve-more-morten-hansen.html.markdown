@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Great-Work-Performers-Better-Achieve/dp/147
 author: "Morten Hansen"
 publisher: "Simon & Schuster"
 date: 2018-11-14
-image: https://images-na.ssl-images-amazon.com/images/I/513hGmlWxDL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/513hGmlWxDL._SL300_.jpg
 tags:
 ---
 

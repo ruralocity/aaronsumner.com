@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Smart-Start-Garden-Planner-Step-/dp/0692832
 author: "Megan Cain"
 publisher: "The Creative Vegetable Gardener"
 date: 2018-01-13
-image: https://images-na.ssl-images-amazon.com/images/I/51tQuaNYQsL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51tQuaNYQsL._SL300_.jpg
 tags:
 ---
 

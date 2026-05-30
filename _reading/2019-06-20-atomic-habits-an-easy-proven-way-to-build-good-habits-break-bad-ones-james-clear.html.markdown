@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211
 author: "James Clear"
 publisher: "Avery"
 date: 2019-06-20
-image: https://images-na.ssl-images-amazon.com/images/I/51VTwxiCKEL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51VTwxiCKEL._SL300_.jpg
 tags:
 ---
 

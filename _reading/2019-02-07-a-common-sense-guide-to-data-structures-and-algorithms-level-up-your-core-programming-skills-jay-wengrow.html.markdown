@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Common-Sense-Guide-Data-Structures-Algorith
 author: "Jay Wengrow"
 publisher: "Pragmatic Bookshelf"
 date: 2019-02-07
-image: https://images-na.ssl-images-amazon.com/images/I/41ifrhvheUL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41ifrhvheUL._SL300_.jpg
 tags:
 ---
 

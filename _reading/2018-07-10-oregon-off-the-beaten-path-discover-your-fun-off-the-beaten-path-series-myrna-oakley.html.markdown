@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Oregon-Off-Beaten-Path%C2%AE-Discover/dp/14
 author: "Myrna Oakley"
 publisher: "Globe Pequot Press"
 date: 2018-07-10
-image: https://images-na.ssl-images-amazon.com/images/I/51adujJjhgL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51adujJjhgL._SL300_.jpg
 tags:
 ---
 

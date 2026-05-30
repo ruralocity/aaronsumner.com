@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3F5X0gs
 author: "Noa Menhaim"
 publisher: "Watkins Publishing"
 date: 2022-10-26
-image: https://images-na.ssl-images-amazon.com/images/I/51Wp0A4kYKL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Wp0A4kYKL._SL300_.jpg
 tags:
 ---
 

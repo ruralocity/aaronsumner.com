@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Your-Idea-Starts-Here-Mind-Expanding/dp/161
 author: "Carolyn Eckert"
 publisher: "Storey Publishing, LLC"
 date: 2018-06-22
-image: https://images-na.ssl-images-amazon.com/images/I/51VkZVUZhCL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51VkZVUZhCL._SL300_.jpg
 tags:
 ---
 

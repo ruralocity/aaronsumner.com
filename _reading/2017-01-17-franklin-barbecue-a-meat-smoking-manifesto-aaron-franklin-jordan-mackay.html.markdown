@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXjnbe
 author: "Aaron Franklin, Jordan Mackay"
 publisher: "Ten Speed Press"
 date: 2017-01-17
-image: https://images-na.ssl-images-amazon.com/images/I/61Aytsfq0IL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61Aytsfq0IL._SL300_.jpg
 tags:
 ---
 

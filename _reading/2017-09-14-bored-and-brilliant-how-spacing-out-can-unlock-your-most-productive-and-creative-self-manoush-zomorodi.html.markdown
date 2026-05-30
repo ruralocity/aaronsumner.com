@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Bored-Brilliant-Spacing-Productive-Creative
 author: "Manoush Zomorodi"
 publisher: "St. Martin's Press"
 date: 2017-09-14
-image: https://images-na.ssl-images-amazon.com/images/I/519sJeZEbOL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/519sJeZEbOL._SL300_.jpg
 tags:
 ---
 

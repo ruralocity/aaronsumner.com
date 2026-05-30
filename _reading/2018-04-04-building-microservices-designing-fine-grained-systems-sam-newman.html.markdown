@@ -4,7 +4,7 @@ purchase_url: https://www.safaribooksonline.com/library/view/building-microservi
 author: "Sam Newman"
 publisher: "O'Reilly Media"
 date: 2018-04-04
-image: https://images-na.ssl-images-amazon.com/images/I/51m85J4Zi9L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51m85J4Zi9L._SL300_.jpg
 tags:
 ---
 

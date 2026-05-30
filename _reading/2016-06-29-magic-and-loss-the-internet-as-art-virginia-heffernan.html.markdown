@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXpigI
 author: "Virginia Heffernan"
 publisher: "Simon & Schuster"
 date: 2016-06-29
-image: https://images-na.ssl-images-amazon.com/images/I/617qCtvzlqL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/617qCtvzlqL._SL300_.jpg
 tags:
 ---
 

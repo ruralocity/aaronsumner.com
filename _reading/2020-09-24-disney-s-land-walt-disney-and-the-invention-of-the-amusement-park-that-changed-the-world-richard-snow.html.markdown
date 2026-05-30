@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/302y9oG
 author: "Richard Snow"
 publisher: "Scribner"
 date: 2020-09-24
-image: https://images-na.ssl-images-amazon.com/images/I/51f0RC+3FOL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51f0RC+3FOL._SL300_.jpg
 tags:
 ---
 

@@ -4,5 +4,5 @@ author: "Blake Snyder"
 editor: ""
 publisher: "Michael Wiese Productions"
 purchase_url: "https://amzn.to/4dKYc6V"
-image: "https://images-na.ssl-images-amazon.com/images/I/71TgTYFF+xL._SL75_.jpg"
+image: "https://images-na.ssl-images-amazon.com/images/I/71TgTYFF+xL._SL300_.jpg"
 ---

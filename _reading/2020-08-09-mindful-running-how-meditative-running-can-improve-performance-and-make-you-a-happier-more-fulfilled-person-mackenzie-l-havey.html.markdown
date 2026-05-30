@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2XJufQl
 author: "Mackenzie L. Havey"
 publisher: "Bloomsbury Sport"
 date: 2020-08-09
-image: https://images-na.ssl-images-amazon.com/images/I/51hMu3kOhxL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51hMu3kOhxL._SL300_.jpg
 tags:
 ---
 

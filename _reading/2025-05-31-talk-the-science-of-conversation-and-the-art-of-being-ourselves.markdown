@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Talk-Science-Conversation-Being-Ourselves/d
 author: "Alison Wood Brooks"
 publisher: "‎                                                Crown"
 date: 2025-05-31
-image: https://images-na.ssl-images-amazon.com/images/I/71ZyalFDvJL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71ZyalFDvJL._SL300_.jpg
 tags:
 ---
 

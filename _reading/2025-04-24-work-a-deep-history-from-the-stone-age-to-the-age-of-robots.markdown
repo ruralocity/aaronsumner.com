@@ -4,6 +4,6 @@ purchase_url: https://www.amazon.com/Work-Deep-History-Stone-Robots-ebook/dp/B08
 author: "James Suzman"
 publisher: "‎                                    Penguin Books"
 date: 2025-04-24
-image: https://images-na.ssl-images-amazon.com/images/I/71GcvBk1dOL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71GcvBk1dOL._SL300_.jpg
 tags:
 ---

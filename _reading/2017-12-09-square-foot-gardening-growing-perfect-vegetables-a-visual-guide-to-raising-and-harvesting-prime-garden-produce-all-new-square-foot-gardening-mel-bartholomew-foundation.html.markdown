@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Square-Foot-Gardening-Vegetables-Harvesting
 author: "Mel Bartholomew Foundation"
 publisher: "Cool Springs Press"
 date: 2017-12-09
-image: https://images-na.ssl-images-amazon.com/images/I/516RPB3ls7L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/516RPB3ls7L._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://www.safaribooksonline.com/library/view/the-year-without/97
 author: "Scott Berkun"
 publisher: "Jossey-Bass"
 date: 2017-01-19
-image: https://images-na.ssl-images-amazon.com/images/I/51owey2z8ML._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51owey2z8ML._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/47qdD34
 author: "Mary Roach"
 publisher: "W. W. Norton & Company"
 date: 2025-10-26
-image: https://images-na.ssl-images-amazon.com/images/I/71thuQZd-FL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71thuQZd-FL._SL300_.jpg
 tags:
 ---
 

@@ -4,5 +4,5 @@ author: "Penn Holderness & Kim Holderness"
 editor:
 publisher: Harper Horizon
 purchase_url: https://amzn.to/3zSgEfA
-image: https://images-na.ssl-images-amazon.com/images/I/71M0ujbv04L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71M0ujbv04L._SL300_.jpg
 ---

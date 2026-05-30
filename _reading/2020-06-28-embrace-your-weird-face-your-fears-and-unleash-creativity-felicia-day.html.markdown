@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2ZjJAXP
 author: "Felicia Day"
 publisher: "Gallery Books"
 date: 2020-06-28
-image: https://images-na.ssl-images-amazon.com/images/I/514V-o7KHqL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/514V-o7KHqL._SL300_.jpg
 tags:
 ---
 

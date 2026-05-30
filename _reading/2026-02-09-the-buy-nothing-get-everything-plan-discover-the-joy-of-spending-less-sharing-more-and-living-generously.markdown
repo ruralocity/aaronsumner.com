@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/49pYukd
 author: "Liesl Clark"
 publisher: "Atria Books"
 date: 2026-02-09
-image: https://images-na.ssl-images-amazon.com/images/I/71jUnM7utwL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71jUnM7utwL._SL300_.jpg
 tags:
 ---
 

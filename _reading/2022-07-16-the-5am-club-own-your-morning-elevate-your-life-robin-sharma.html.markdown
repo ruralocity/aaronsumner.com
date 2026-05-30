@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3zlFHVT
 author: "Robin Sharma"
 publisher: "HarperCollins Publishers"
 date: 2022-07-16
-image: https://images-na.ssl-images-amazon.com/images/I/41PfrH8qb3L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41PfrH8qb3L._SL300_.jpg
 tags:
 ---
 

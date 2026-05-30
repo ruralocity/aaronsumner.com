@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Autobiography-Benjamin-Franklin-Thrift-Edit
 author: "Benjamin Franklin"
 publisher: "Dover Publications"
 date: 2018-01-21
-image: https://images-na.ssl-images-amazon.com/images/I/51hb9VX0NpL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51hb9VX0NpL._SL300_.jpg
 tags:
 ---
 

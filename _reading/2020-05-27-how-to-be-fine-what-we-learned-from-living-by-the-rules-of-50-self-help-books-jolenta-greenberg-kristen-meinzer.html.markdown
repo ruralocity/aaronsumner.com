@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3ex45GN
 author: "Jolenta Greenberg & Kristen Meinzer"
 publisher: "William Morrow"
 date: 2020-05-27
-image: https://images-na.ssl-images-amazon.com/images/I/41hWU-zMglL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41hWU-zMglL._SL300_.jpg
 tags:
 ---
 

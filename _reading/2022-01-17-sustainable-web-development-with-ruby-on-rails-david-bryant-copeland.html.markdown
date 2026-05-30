@@ -4,6 +4,6 @@ purchase_url: https://sustainable-rails.com
 author: "David Bryant Copeland"
 publisher: "self-published"
 date: 2022-01-17
-image: https://images-na.ssl-images-amazon.com/images/I/41iJSj8MzAL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41iJSj8MzAL._SL300_.jpg
 tags:
 ---

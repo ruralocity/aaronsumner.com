@@ -106,7 +106,7 @@ def scrape_amazon_book_data(url)
       if main_image_url.include?("images-na.ssl-images-amazon.com") || main_image_url.include?("images-amazon.com") || main_image_url.include?("m.media-amazon.com")
         image_id = main_image_url.split("/").last.split("_").first.split(".").first
         book_data[:image_id] = image_id
-        book_data[:image_url] = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
+        book_data[:image_url] = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL300_.jpg"
       end
     else
       image_element = doc.css("#imgBlkFront, #landingImage, #main-image").first
@@ -125,7 +125,7 @@ def scrape_amazon_book_data(url)
         if image_url && (image_url.include?("images-na.ssl-images-amazon.com") || image_url.include?("images-amazon.com") || image_url.include?("m.media-amazon.com"))
           image_id = image_url.split("/").last.split("_").first.split(".").first
           book_data[:image_id] = image_id
-          book_data[:image_url] = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
+          book_data[:image_url] = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL300_.jpg"
         end
       end
     end
@@ -138,7 +138,7 @@ def scrape_amazon_book_data(url)
           image_id = src.split("/").last.split("_").first.split(".").first
           if image_id && image_id.length > 8  # Likely a valid Amazon image ID
             book_data[:image_id] = image_id
-            book_data[:image_url] = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
+            book_data[:image_url] = "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL300_.jpg"
             break
           end
         end
@@ -195,14 +195,14 @@ if !image_url && frontmatter["image"] && frontmatter["image"].include?("images-n
     label: "Amazon Image ID (e.g. 51zG4F1G0BL):",
     default: frontmatter["image"].split("/").last.split("_").first
   )
-  image_url = image_id.empty? ? nil : "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
+  image_url = image_id.empty? ? nil : "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL300_.jpg"
 else
   if book_data[:image_id]
     image_id = Prompts::TextPrompt.ask(
       label: "Amazon Image ID (e.g. 51zG4F1G0BL):",
       default: book_data[:image_id]
     )
-    image_url = image_id.empty? ? nil : "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL75_.jpg"
+    image_url = image_id.empty? ? nil : "https://images-na.ssl-images-amazon.com/images/I/#{image_id}._SL300_.jpg"
   end
 end
 

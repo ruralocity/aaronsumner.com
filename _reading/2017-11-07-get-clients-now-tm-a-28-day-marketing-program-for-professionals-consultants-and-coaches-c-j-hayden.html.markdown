@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Get-Clients-Now-Professionals-Consultants/d
 author: "C. J. Hayden"
 publisher: "AMACOM"
 date: 2017-11-07
-image: https://images-na.ssl-images-amazon.com/images/I/51LXmL8FNEL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51LXmL8FNEL._SL300_.jpg
 tags:
 ---
 

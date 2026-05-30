@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Wisdom-Finance-Discovering-Humanity-Return/
 author: "Mihir Desai"
 publisher: "Houghton Mifflin Harcourt"
 date: 2017-07-29
-image: https://images-na.ssl-images-amazon.com/images/I/41RjcVecl8L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41RjcVecl8L._SL300_.jpg
 tags:
 ---
 

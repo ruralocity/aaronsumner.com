@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Shore-Explore-Pacific-Northwest-Coast/dp/16
 author: "Nancy Blakey"
 publisher: "Sasquatch Books"
 date: 2018-07-10
-image: https://images-na.ssl-images-amazon.com/images/I/61BpjmNlj3L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61BpjmNlj3L._SL300_.jpg
 tags:
 ---
 

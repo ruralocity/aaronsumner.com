@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3AFKFxb
 author: "Tiago Forte"
 publisher: "Atria Books"
 date: 2022-08-22
-image: https://images-na.ssl-images-amazon.com/images/I/41oPg29yspL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41oPg29yspL._SL300_.jpg
 tags:
 ---
 

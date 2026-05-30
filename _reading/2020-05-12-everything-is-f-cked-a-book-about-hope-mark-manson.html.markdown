@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3ct4461
 author: "Mark Manson"
 publisher: "Harper"
 date: 2020-05-12
-image: https://images-na.ssl-images-amazon.com/images/I/416T7uchqcL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/416T7uchqcL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Company-One-Staying-Small-Business/dp/13289
 author: "Paul Jarvis"
 publisher: "Houghton Mifflin Harcourt"
 date: 2019-02-07
-image: https://images-na.ssl-images-amazon.com/images/I/51PwA-Z9V6L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51PwA-Z9V6L._SL300_.jpg
 tags:
 ---
 

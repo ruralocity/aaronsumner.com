@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Doughnut-Economics-Seven-21st-Century-Econo
 author: "Kate Raworth"
 publisher: "Chelsea Green Publishing"
 date: 2017-04-26
-image: https://images-na.ssl-images-amazon.com/images/I/51uS1nsEVUL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51uS1nsEVUL._SL300_.jpg
 tags:
 ---
 

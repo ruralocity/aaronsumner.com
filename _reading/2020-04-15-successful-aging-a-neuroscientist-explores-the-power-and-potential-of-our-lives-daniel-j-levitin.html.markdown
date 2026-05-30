@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3cosNbk
 author: "Daniel J. Levitin"
 publisher: "Dutton"
 date: 2020-04-15
-image: https://images-na.ssl-images-amazon.com/images/I/41mhVqLAFjL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41mhVqLAFjL._SL300_.jpg
 tags:
 ---
 

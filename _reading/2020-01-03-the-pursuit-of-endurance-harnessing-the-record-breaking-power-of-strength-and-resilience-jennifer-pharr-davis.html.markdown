@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Pursuit-Endurance-Harnessing-Record-Breakin
 author: "Jennifer Pharr Davis"
 publisher: "Penguin Books"
 date: 2020-01-03
-image: https://images-na.ssl-images-amazon.com/images/I/51Kt%2Bc-ei6L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Kt%2Bc-ei6L._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234?Su
 author: "Brian P. Moran, Michael Lennington"
 publisher: "Wiley"
 date: 2017-04-26
-image: https://images-na.ssl-images-amazon.com/images/I/51hvFjxxw3L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51hvFjxxw3L._SL300_.jpg
 tags:
 ---
 

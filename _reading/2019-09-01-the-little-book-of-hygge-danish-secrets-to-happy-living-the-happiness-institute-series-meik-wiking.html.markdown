@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2YnrUgA
 author: "Meik Wiking"
 publisher: "William Morrow"
 date: 2019-09-01
-image: https://images-na.ssl-images-amazon.com/images/I/51YQpxZWUGL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51YQpxZWUGL._SL300_.jpg
 tags:
 ---
 

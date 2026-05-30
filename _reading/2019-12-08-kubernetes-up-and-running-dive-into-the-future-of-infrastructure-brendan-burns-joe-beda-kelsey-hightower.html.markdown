@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructu
 author: "Brendan Burns, Joe Beda, Kelsey Hightower"
 publisher: "O'Reilly Media"
 date: 2019-12-08
-image: https://images-na.ssl-images-amazon.com/images/I/41TAUrPojWL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41TAUrPojWL._SL300_.jpg
 tags:
 ---
 

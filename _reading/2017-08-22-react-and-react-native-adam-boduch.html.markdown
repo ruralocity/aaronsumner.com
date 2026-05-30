@@ -4,7 +4,7 @@ purchase_url: https://www.safaribooksonline.com/library/view/react-and-react/978
 author: "Adam Boduch"
 publisher: "Packt Publishing"
 date: 2017-08-22
-image: https://images-na.ssl-images-amazon.com/images/I/512lKFtUmGL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/512lKFtUmGL._SL300_.jpg
 tags:
 ---
 

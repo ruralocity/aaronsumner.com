@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Driving-across-Kansas-Guide-I-70/dp/0700624
 author: "Ted Cable, Wayne Maley"
 publisher: "University Press of Kansas"
 date: 2017-06-06
-image: https://images-na.ssl-images-amazon.com/images/I/51ZKGaIfwuL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51ZKGaIfwuL._SL300_.jpg
 tags:
 ---
 

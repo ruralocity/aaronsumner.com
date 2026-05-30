@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/4b2CqKu
 author: "MJ DeMarco"
 publisher: "Viperion Publishing; 3rd edition"
 date: 2024-06-10
-image: https://images-na.ssl-images-amazon.com/images/I/71oRKEGG+uL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71oRKEGG+uL._SL300_.jpg
 tags:
 ---
 

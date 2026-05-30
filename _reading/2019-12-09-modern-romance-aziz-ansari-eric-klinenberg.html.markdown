@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Modern-Romance-Aziz-Ansari/dp/0143109251?Su
 author: "Aziz Ansari, Eric Klinenberg"
 publisher: "Penguin Books"
 date: 2019-12-09
-image: https://images-na.ssl-images-amazon.com/images/I/41NQ2xgAz2L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41NQ2xgAz2L._SL300_.jpg
 tags:
 ---
 

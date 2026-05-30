@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Dear-Writer-Practical-Advice-Creative/dp/19
 author: "Maggie Smith"
 publisher: "‎                                                Washington Square Press"
 date: 2025-06-30
-image: https://images-na.ssl-images-amazon.com/images/I/710ges3EEcL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/710ges3EEcL._SL300_.jpg
 tags:
 ---
 

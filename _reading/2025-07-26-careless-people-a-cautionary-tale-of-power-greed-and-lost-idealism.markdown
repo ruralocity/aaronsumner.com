@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Careless-People-Cautionary-Power-Idealism/d
 author: "Sarah Wynn-Williams"
 publisher: "‎                                                Flatiron Books"
 date: 2025-07-26
-image: https://images-na.ssl-images-amazon.com/images/I/61qV0ieP64L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61qV0ieP64L._SL300_.jpg
 tags:
 ---
 

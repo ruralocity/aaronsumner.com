@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/38WS64f
 author: "Katie Jackson & Ellen Blackmar"
 publisher: "Timber Press"
 date: 2021-09-11
-image: https://images-na.ssl-images-amazon.com/images/I/61IsYmCGkXL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61IsYmCGkXL._SL300_.jpg
 tags:
 ---
 

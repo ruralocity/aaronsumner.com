@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/4iTLsym
 author: "Bent Flyvbjerg & Dan Gardner"
 publisher: "Crown Currency"
 date: 2025-03-29
-image: https://images-na.ssl-images-amazon.com/images/I/81R2kJoLgCL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/81R2kJoLgCL._SL300_.jpg
 tags:
 ---
 

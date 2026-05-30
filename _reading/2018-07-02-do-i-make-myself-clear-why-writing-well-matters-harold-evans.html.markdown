@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Do-Make-Myself-Clear-Writing/dp/0316277177?
 author: "Harold Evans"
 publisher: "Little, Brown and Company"
 date: 2018-07-02
-image: https://images-na.ssl-images-amazon.com/images/I/41ajWxOF4sL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41ajWxOF4sL._SL300_.jpg
 tags:
 ---
 

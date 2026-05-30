@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Blueprint-Business-Entrepreneurs-Taking-Com
 author: "Michael Alden"
 publisher: "Wiley"
 date: 2017-12-09
-image: https://images-na.ssl-images-amazon.com/images/I/51A-A2MFPDL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51A-A2MFPDL._SL300_.jpg
 tags:
 ---
 

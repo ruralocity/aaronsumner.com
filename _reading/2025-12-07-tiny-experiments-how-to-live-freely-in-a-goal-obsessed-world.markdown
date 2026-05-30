@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/4axBwsL
 author: "Anne-Laure Le Cunff"
 publisher: "Avery"
 date: 2025-12-07
-image: https://images-na.ssl-images-amazon.com/images/I/61rUfWyyfoL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61rUfWyyfoL._SL300_.jpg
 tags:
 ---
 

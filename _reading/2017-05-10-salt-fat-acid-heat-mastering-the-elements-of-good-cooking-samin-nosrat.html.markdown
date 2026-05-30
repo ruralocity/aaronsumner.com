@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering/dp/1476753830?
 author: "Samin Nosrat"
 publisher: "Simon & Schuster"
 date: 2017-05-10
-image: https://images-na.ssl-images-amazon.com/images/I/51dToE1quFL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51dToE1quFL._SL300_.jpg
 tags:
 ---
 

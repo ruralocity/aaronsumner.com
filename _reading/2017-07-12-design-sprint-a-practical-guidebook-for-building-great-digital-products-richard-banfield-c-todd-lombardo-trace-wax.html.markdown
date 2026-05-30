@@ -4,7 +4,7 @@ purchase_url: https://www.safaribooksonline.com/library/view/design-sprint/97814
 author: "Richard Banfield, C. Todd Lombardo, Trace Wax"
 publisher: "O'Reilly Media"
 date: 2017-07-12
-image: https://images-na.ssl-images-amazon.com/images/I/51rr3EbaKTL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51rr3EbaKTL._SL300_.jpg
 tags:
 ---
 

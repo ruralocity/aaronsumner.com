@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Think-Grow-Rich-Publication-Foundation/dp/1
 author: "Napoleon Hill"
 publisher: "Sound Wisdom"
 date: 2018-01-21
-image: https://images-na.ssl-images-amazon.com/images/I/515RB2xTHUL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/515RB2xTHUL._SL300_.jpg
 tags:
 ---
 

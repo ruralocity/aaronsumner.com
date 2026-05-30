@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2BcGg5f
 author: "David Thomas, Andrew Hunt"
 publisher: "Addison-Wesley Professional"
 date: 2019-09-20
-image: https://images-na.ssl-images-amazon.com/images/I/51W1sBPO7tL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51W1sBPO7tL._SL300_.jpg
 tags:
 ---
 

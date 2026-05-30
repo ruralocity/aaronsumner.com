@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Certain-Point-View-Star-Wars/dp/0345511476?
 author: "Renée Ahdieh, Meg Cabot, John Jackson Miller, Nnedi Okorafor, Sabaa Tahir"
 publisher: "Del Rey"
 date: 2017-11-27
-image: https://images-na.ssl-images-amazon.com/images/I/51MmulkPUYL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51MmulkPUYL._SL300_.jpg
 tags:
 ---
 

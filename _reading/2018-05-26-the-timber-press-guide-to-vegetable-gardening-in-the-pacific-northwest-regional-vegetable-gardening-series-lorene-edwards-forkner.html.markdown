@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Vegetable-Gardening-Pacific-Northwest-Regio
 author: "Lorene Edwards Forkner"
 publisher: "Timber Press"
 date: 2018-05-26
-image: https://images-na.ssl-images-amazon.com/images/I/51ngvLu6qUL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51ngvLu6qUL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/
 author: "Richard H. Thaler, Cass R. Sunstein"
 publisher: "Penguin Books"
 date: 2017-12-31
-image: https://images-na.ssl-images-amazon.com/images/I/51tFzd5lb8L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51tFzd5lb8L._SL300_.jpg
 tags:
 ---
 

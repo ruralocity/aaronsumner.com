@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXsbhj
 author: "Dan Ackerman"
 publisher: "PublicAffairs"
 date: 2016-10-09
-image: https://images-na.ssl-images-amazon.com/images/I/418Z%2BodJ%2B%2BL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/418Z%2BodJ%2B%2BL._SL300_.jpg
 tags:
 ---
 

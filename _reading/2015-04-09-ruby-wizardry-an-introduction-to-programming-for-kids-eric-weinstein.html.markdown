@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXrCUU
 author: "Eric Weinstein"
 publisher: "No Starch Press"
 date: 2015-04-09
-image: https://images-na.ssl-images-amazon.com/images/I/51nNYux2kWL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51nNYux2kWL._SL300_.jpg
 tags:
 ---
 

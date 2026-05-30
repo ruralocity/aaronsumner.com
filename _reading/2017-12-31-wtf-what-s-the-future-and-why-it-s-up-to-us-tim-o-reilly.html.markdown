@@ -4,7 +4,7 @@ purchase_url: https://www.safaribooksonline.com/library/view/wtf-whats-the/97800
 author: "Tim O'Reilly"
 publisher: "HarperBusiness"
 date: 2017-12-31
-image: https://images-na.ssl-images-amazon.com/images/I/51lQyAiA64L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51lQyAiA64L._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Competing-Against-Luck-Innovation-Customer/
 author: "Clayton M. Christensen, Karen Dillon, Taddy Hall, David S. Duncan"
 publisher: "HarperBusiness"
 date: 2017-02-05
-image: https://images-na.ssl-images-amazon.com/images/I/41DwM2R8uRL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41DwM2R8uRL._SL300_.jpg
 tags:
 ---
 

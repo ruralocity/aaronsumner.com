@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3XnahJN
 author: "Liz Pelly"
 publisher: "Atria/One Signal Publishers"
 date: 2025-11-26
-image: https://images-na.ssl-images-amazon.com/images/I/71uQPEvcpHL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71uQPEvcpHL._SL300_.jpg
 tags:
 ---
 

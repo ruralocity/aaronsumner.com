@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXhcV8
 author: "Dorie Clark"
 publisher: "Portfolio"
 date: 2015-10-29
-image: https://images-na.ssl-images-amazon.com/images/I/51nD7BGzDoL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51nD7BGzDoL._SL300_.jpg
 tags:
 ---
 

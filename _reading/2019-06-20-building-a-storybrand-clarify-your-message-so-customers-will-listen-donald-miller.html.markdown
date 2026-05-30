@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Building-StoryBrand-Clarify-Message-Custome
 author: "Donald Miller"
 publisher: "HarperCollins Leadership"
 date: 2019-06-20
-image: https://images-na.ssl-images-amazon.com/images/I/41gwu0NcCrL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41gwu0NcCrL._SL300_.jpg
 tags:
 ---
 

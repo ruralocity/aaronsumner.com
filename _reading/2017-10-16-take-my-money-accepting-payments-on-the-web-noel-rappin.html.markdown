@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Take-My-Money-Accepting-Payments/dp/1680501
 author: "Noel Rappin"
 publisher: "Pragmatic Bookshelf"
 date: 2017-10-16
-image: https://images-na.ssl-images-amazon.com/images/I/51Mwjh65AOL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Mwjh65AOL._SL300_.jpg
 tags:
 ---
 

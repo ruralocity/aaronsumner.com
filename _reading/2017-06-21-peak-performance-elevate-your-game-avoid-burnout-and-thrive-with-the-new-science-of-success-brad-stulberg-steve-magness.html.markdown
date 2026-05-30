@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Peak-Performance-Elevate-Burnout-Science/dp
 author: "Brad Stulberg, Steve Magness"
 publisher: "Rodale Books"
 date: 2017-06-21
-image: https://images-na.ssl-images-amazon.com/images/I/41peNvWGh8L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41peNvWGh8L._SL300_.jpg
 tags:
 ---
 

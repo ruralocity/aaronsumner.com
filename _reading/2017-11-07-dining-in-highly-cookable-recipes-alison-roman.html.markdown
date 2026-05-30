@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Dining-Cookable-Recipes-Alison-Roman/dp/045
 author: "Alison Roman"
 publisher: "Clarkson Potter"
 date: 2017-11-07
-image: https://images-na.ssl-images-amazon.com/images/I/51uFUyN8hxL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51uFUyN8hxL._SL300_.jpg
 tags:
 ---
 

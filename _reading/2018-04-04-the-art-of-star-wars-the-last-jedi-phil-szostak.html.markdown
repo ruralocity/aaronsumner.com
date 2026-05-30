@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Art-Star-Wars-Last-Jedi/dp/1419727052?Subsc
 author: "Phil Szostak"
 publisher: "Harry N. Abrams"
 date: 2018-04-04
-image: https://images-na.ssl-images-amazon.com/images/I/51S-EXVthlL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51S-EXVthlL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/4uG99Q1
 author: "Cory Doctorow"
 publisher: "MCD"
 date: 2026-03-26
-image: https://images-na.ssl-images-amazon.com/images/I/71vzuPJecKL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71vzuPJecKL._SL300_.jpg
 tags:
 ---
 

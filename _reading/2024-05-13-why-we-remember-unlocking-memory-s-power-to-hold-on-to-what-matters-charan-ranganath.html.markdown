@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/4bBj0gE
 author: "Charan Ranganath"
 publisher: "Doubleday"
 date: 2024-05-13
-image: https://images-na.ssl-images-amazon.com/images/I/711cAfvPRyL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/711cAfvPRyL._SL300_.jpg
 tags:
 ---
 

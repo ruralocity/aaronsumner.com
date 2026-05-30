@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/33McmSD
 author: "Ellen Hendriksen"
 publisher: "St. Martin's Press"
 date: 2019-08-15
-image: https://images-na.ssl-images-amazon.com/images/I/41jw4DNjgeL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41jw4DNjgeL._SL300_.jpg
 tags:
 ---
 

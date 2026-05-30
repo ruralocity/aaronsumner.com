@@ -4,7 +4,7 @@ purchase_url: http://amzn.to/2jXnSCD
 author: "Nick Offerman"
 publisher: "Dutton"
 date: 2017-01-03
-image: https://images-na.ssl-images-amazon.com/images/I/61bPUuNgkuL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61bPUuNgkuL._SL300_.jpg
 tags:
 ---
 

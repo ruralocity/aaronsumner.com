@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Learn-Better-Mastering-Business-Anything/dp
 author: "Ulrich Boser"
 publisher: "Rodale Books"
 date: 2017-03-19
-image: https://images-na.ssl-images-amazon.com/images/I/51uMYJ07oBL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51uMYJ07oBL._SL300_.jpg
 tags:
 ---
 

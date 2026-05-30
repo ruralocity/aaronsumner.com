@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3E9ePYE
 author: "Katy Milkman"
 publisher: "Portfolio"
 date: 2021-10-22
-image: https://images-na.ssl-images-amazon.com/images/I/41wVbJtbprL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41wVbJtbprL._SL300_.jpg
 tags:
 ---
 

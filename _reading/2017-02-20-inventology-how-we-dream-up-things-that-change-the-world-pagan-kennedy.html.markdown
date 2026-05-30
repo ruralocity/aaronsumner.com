@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Inventology-Dream-Things-Change-World/dp/05
 author: "Pagan Kennedy"
 publisher: "Eamon Dolan/Mariner Books"
 date: 2017-02-20
-image: https://images-na.ssl-images-amazon.com/images/I/41sTRc4gBcL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41sTRc4gBcL._SL300_.jpg
 tags:
 ---
 

@@ -4,5 +4,5 @@ author: "Elijah Wald"
 editor: ""
 publisher: "Dey Street Books; Reprint edition"
 purchase_url: "https://amzn.to/42HxY3j"
-image: "https://images-na.ssl-images-amazon.com/images/I/81eNjW-RPhL._SL75_.jpg"
+image: "https://images-na.ssl-images-amazon.com/images/I/81eNjW-RPhL._SL300_.jpg"
 ---

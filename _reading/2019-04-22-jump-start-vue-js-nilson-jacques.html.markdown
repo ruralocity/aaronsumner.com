@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Jump-Start-Vue-js-Nilson-Jacques/dp/1925836
 author: "Nilson Jacques"
 publisher: "SitePoint"
 date: 2019-04-22
-image: https://images-na.ssl-images-amazon.com/images/I/41NCiA5R7FL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41NCiA5R7FL._SL300_.jpg
 tags:
 ---
 

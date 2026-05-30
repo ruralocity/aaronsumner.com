@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3KgrQ7S
 author: "Noah Kagan & Tahl Raz"
 publisher: "Portfolio"
 date: 2024-05-24
-image: https://images-na.ssl-images-amazon.com/images/I/71NG-xWO6JL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71NG-xWO6JL._SL300_.jpg
 tags:
 ---
 

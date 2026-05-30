@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3imsvqD
 author: "Oliver Burkeman"
 publisher: "Farrar, Straus and Giroux"
 date: 2021-09-29
-image: https://images-na.ssl-images-amazon.com/images/I/41uw2Gp4x4L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41uw2Gp4x4L._SL300_.jpg
 tags:
 ---
 

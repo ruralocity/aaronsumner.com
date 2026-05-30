@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequali
 author: "Cathy O'Neil"
 publisher: "Broadway Books"
 date: 2017-09-17
-image: https://images-na.ssl-images-amazon.com/images/I/51pxbIv3v9L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51pxbIv3v9L._SL300_.jpg
 tags:
 ---
 

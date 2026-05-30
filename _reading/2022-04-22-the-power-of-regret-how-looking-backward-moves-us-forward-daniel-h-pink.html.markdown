@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/38fkj9s
 author: "Daniel H. Pink"
 publisher: "Riverhead Books"
 date: 2022-04-22
-image: https://images-na.ssl-images-amazon.com/images/I/419RLJ+zXGL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/419RLJ+zXGL._SL300_.jpg
 tags:
 ---
 

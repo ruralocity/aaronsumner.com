@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2OEqtly
 author: "Rob Isenberg"
 publisher: "Pragmatic Bookshelf"
 date: 2019-04-02
-image: https://images-na.ssl-images-amazon.com/images/I/41s4oEcpiyL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41s4oEcpiyL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2PWv5bv
 author: "Reed Hastings & Erin Meyer"
 publisher: "Penguin Press"
 date: 2021-03-13
-image: https://images-na.ssl-images-amazon.com/images/I/51sHbkWQbwL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51sHbkWQbwL._SL300_.jpg
 tags:
 ---
 

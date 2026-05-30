@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3U8S3HJ
 author: "Tanya Reilly"
 publisher: "O'Reilly Media"
 date: 2022-11-26
-image: https://images-na.ssl-images-amazon.com/images/I/41WdQrPJgQL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41WdQrPJgQL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Meditation-Fidgety-Skeptics-Happier-How-/dp
 author: "Dan Harris, Jeffrey Warren, Carlye Adler"
 publisher: "Spiegel & Grau"
 date: 2018-02-18
-image: https://images-na.ssl-images-amazon.com/images/I/41Hm-2B1yhL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41Hm-2B1yhL._SL300_.jpg
 tags:
 ---
 

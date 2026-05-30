@@ -4,5 +4,5 @@ author: "Leidy Klotz"
 editor:
 publisher: Flatiron Books
 purchase_url: https://amzn.to/3y6JdW4
-image: https://images-na.ssl-images-amazon.com/images/I/71mMwYWYLYL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71mMwYWYLYL._SL300_.jpg
 ---

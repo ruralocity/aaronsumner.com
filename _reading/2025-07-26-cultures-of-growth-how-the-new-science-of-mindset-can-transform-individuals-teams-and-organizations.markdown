@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Cultures-Growth-Transform-Individuals-Organ
 author: "Mary C. Murphy Ph.D."
 publisher: "‎                                                Simon & Schuster"
 date: 2025-07-26
-image: https://images-na.ssl-images-amazon.com/images/I/81geFPd-qML._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/81geFPd-qML._SL300_.jpg
 tags:
 ---
 

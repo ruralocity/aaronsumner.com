@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3KnzMYm
 author: "Malaika Jabali"
 publisher: "‎                                                        Algonquin Books"
 date: 2025-11-26
-image: https://images-na.ssl-images-amazon.com/images/I/71mwQooeP4L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71mwQooeP4L._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2I91Oqw
 author: "Ed Catmull with Amy Wallace"
 publisher: "Random House"
 date: 2020-12-03
-image: https://images-na.ssl-images-amazon.com/images/I/41xzn-l9yPL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41xzn-l9yPL._SL300_.jpg
 tags:
 ---
 

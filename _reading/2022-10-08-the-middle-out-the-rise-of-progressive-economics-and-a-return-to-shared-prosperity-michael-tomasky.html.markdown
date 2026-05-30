@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3SRsSdc
 author: "Michael Tomasky"
 publisher: "Doubleday"
 date: 2022-10-08
-image: https://images-na.ssl-images-amazon.com/images/I/51+71BQS6dL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51+71BQS6dL._SL300_.jpg
 tags:
 ---
 

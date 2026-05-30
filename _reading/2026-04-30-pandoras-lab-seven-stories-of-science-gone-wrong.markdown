@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/4tVL87A
 author: "Paul A.  Offit"
 publisher: "National Geographic Digital"
 date: 2026-04-30
-image: https://images-na.ssl-images-amazon.com/images/I/81xY1+RBWBL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/81xY1+RBWBL._SL300_.jpg
 tags:
 ---
 

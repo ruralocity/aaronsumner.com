@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Footnotes-How-Running-Makes-Human/dp/125012
 author: "Vybarr Cregan-Reid"
 publisher: "St. Martin's Press"
 date: 2017-07-12
-image: https://images-na.ssl-images-amazon.com/images/I/51uJrwViZOL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51uJrwViZOL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Cunk-Everything-Encyclopedia-Philomena/dp/1
 author: "Philomena Cunk"
 publisher: "‎                                                Grand Central Publishing"
 date: 2025-06-30
-image: https://images-na.ssl-images-amazon.com/images/I/81fjBDRYkzL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/81fjBDRYkzL._SL300_.jpg
 tags:
 ---
 

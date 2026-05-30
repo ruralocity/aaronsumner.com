@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3Renn89
 author: "Seth Goldenberg"
 publisher: "Crown"
 date: 2023-01-28
-image: https://images-na.ssl-images-amazon.com/images/I/41GKsz2DBhL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41GKsz2DBhL._SL300_.jpg
 tags:
 ---
 

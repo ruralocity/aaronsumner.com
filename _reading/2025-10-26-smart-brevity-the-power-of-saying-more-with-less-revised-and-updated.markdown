@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3L9k2IH
 author: "Jim VandeHei, Mike Allen, & Roy Schwartz"
 publisher: "Workman Publishing Company"
 date: 2025-10-26
-image: https://m.media-amazon.com/images/I/71+xbL2IPhL._SL75_.jpg
+image: https://m.media-amazon.com/images/I/71+xbL2IPhL._SL300_.jpg
 tags:
 ---
 

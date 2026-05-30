@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Backyard-Bounty-Year-round-Gardening-Transm
 author: "Linda Gilkeson"
 publisher: "New Society Publishers"
 date: 2018-10-17
-image: https://images-na.ssl-images-amazon.com/images/I/61h8HldA9AL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61h8HldA9AL._SL300_.jpg
 tags:
 ---
 

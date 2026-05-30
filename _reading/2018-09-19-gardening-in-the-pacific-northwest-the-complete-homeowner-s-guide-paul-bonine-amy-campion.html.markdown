@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Gardening-Pacific-Northwest-Complete-Homeow
 author: "Paul Bonine, Amy Campion"
 publisher: "Timber Press"
 date: 2018-09-19
-image: https://images-na.ssl-images-amazon.com/images/I/51dwwA7PDXL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51dwwA7PDXL._SL300_.jpg
 tags:
 ---
 

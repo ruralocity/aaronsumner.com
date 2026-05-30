@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2WJMdS0
 author: "Laura Vanderkam"
 publisher: "Portfolio"
 date: 2020-12-26
-image: https://images-na.ssl-images-amazon.com/images/I/51Q2no6FEGL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Q2no6FEGL._SL300_.jpg
 tags:
 ---
 

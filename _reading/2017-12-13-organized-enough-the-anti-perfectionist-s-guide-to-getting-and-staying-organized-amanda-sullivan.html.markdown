@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Organized-Enough-Anti-Perfectionists-Gettin
 author: "Amanda Sullivan"
 publisher: "Da Capo Lifelong Books"
 date: 2017-12-13
-image: https://images-na.ssl-images-amazon.com/images/I/41Ol-KVNBQL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41Ol-KVNBQL._SL300_.jpg
 tags:
 ---
 

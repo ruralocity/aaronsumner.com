@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Born-Run-Bruce-Springsteen/dp/150114152X?Su
 author: "Bruce Springsteen"
 publisher: "Simon & Schuster"
 date: 2019-06-28
-image: https://images-na.ssl-images-amazon.com/images/I/51d%2BBRcsBAL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51d%2BBRcsBAL._SL300_.jpg
 tags:
 ---
 

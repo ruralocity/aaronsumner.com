@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3MtcewW
 author: "Bob Odenkirk"
 publisher: "Random House"
 date: 2022-04-22
-image: https://images-na.ssl-images-amazon.com/images/I/41fe058f5UL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41fe058f5UL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3HHcvwF
 author: "Brad Stulberg"
 publisher: "Portfolio"
 date: 2023-01-28
-image: https://images-na.ssl-images-amazon.com/images/I/41DsU3A4aVL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41DsU3A4aVL._SL300_.jpg
 tags:
 ---
 

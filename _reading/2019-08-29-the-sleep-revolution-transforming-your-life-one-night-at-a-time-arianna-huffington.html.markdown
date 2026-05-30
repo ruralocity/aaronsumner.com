@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2ZxaUE9
 author: "Arianna Huffington"
 publisher: "Harmony"
 date: 2019-08-29
-image: https://images-na.ssl-images-amazon.com/images/I/41hUnLMy5wL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41hUnLMy5wL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/How-Big-Things-Get-Done/dp/0593239512/ref=t
 author: "Bent Flyvbjerg and Dan Gardner"
 publisher: "‎                                                Crown Currency"
 date: 2025-05-31
-image: https://images-na.ssl-images-amazon.com/images/I/81R2kJoLgCL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/81R2kJoLgCL._SL300_.jpg
 tags:
 ---
 

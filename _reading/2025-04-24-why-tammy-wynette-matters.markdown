@@ -5,6 +5,6 @@ author: "Steacy Easton"
 publisher: "University of Texas Press"
 date: 2025-04-24
 tags:
-image: "https://images-na.ssl-images-amazon.com/images/I/816ixGWHlkL._SL75_.jpg"
+image: "https://images-na.ssl-images-amazon.com/images/I/816ixGWHlkL._SL300_.jpg"
 ---
 

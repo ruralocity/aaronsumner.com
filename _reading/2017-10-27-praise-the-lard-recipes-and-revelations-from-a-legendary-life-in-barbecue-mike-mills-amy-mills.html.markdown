@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Praise-Lard-Revelations-Legendary-Barbecue/
 author: "Mike Mills, Amy Mills"
 publisher: "Rux Martin/Houghton Mifflin Harcourt"
 date: 2017-10-27
-image: https://images-na.ssl-images-amazon.com/images/I/51c5%2B1n9gnL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51c5%2B1n9gnL._SL300_.jpg
 tags:
 ---
 

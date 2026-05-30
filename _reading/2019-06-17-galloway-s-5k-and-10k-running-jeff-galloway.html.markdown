@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Galloways-10K-Running-Jeff-Galloway/dp/1841
 author: "Jeff Galloway"
 publisher: "Meyer & Meyer Fachverlag und Buchhandel GmbH"
 date: 2019-06-17
-image: https://images-na.ssl-images-amazon.com/images/I/51sHFRKumML._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51sHFRKumML._SL300_.jpg
 tags:
 ---
 

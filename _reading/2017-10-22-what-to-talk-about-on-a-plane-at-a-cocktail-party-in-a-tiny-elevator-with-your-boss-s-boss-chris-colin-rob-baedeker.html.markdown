@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/What-Talk-About-Cocktail-Elevator/dp/145211
 author: "Chris Colin, Rob Baedeker"
 publisher: "Chronicle Books"
 date: 2017-10-22
-image: https://images-na.ssl-images-amazon.com/images/I/51cxk4cB2BL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51cxk4cB2BL._SL300_.jpg
 tags:
 ---
 

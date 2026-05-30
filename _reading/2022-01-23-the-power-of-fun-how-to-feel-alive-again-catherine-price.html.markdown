@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3FVbDjC
 author: "Catherine Price"
 publisher: "The Dial Press"
 date: 2022-01-23
-image: https://images-na.ssl-images-amazon.com/images/I/51KPABMZOoL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51KPABMZOoL._SL300_.jpg
 tags:
 ---
 

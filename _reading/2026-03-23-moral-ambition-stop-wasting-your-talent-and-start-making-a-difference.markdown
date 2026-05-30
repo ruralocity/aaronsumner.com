@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/42Yj0ES
 author: "Rutger Bregman"
 publisher: "Little, Brown and Company"
 date: 2026-03-23
-image: https://images-na.ssl-images-amazon.com/images/I/71LiSD8VWFL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71LiSD8VWFL._SL300_.jpg
 tags:
 ---
 

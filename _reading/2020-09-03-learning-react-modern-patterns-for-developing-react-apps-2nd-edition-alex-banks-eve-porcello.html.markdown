@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/31SwTWG
 author: "Alex Banks & Eve Porcello"
 publisher: "O'Reilly Media"
 date: 2020-09-03
-image: https://images-na.ssl-images-amazon.com/images/I/51Kwaw5nInL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Kwaw5nInL._SL300_.jpg
 tags:
 ---
 

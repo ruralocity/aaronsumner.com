@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/4dA1Z8j
 author: "Julia Sloan"
 publisher: "Routledge"
 date: 2024-05-13
-image: https://images-na.ssl-images-amazon.com/images/I/41zEt1NDnCL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41zEt1NDnCL._SL300_.jpg
 tags:
 ---
 

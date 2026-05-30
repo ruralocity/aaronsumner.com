@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3FQ9dVo
 author: "Arnie Kozak"
 publisher: "Adams Media"
 date: 2022-12-21
-image: https://images-na.ssl-images-amazon.com/images/I/51hOjxQ7i1L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51hOjxQ7i1L._SL300_.jpg
 tags:
 ---
 

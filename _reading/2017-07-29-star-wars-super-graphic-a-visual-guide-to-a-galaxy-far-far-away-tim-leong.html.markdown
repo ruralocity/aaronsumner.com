@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Star-Wars-Super-Graphic-Visual/dp/145216120
 author: "Tim Leong"
 publisher: "Chronicle Books"
 date: 2017-07-29
-image: https://images-na.ssl-images-amazon.com/images/I/51ze%2Byb39eL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51ze%2Byb39eL._SL300_.jpg
 tags:
 ---
 

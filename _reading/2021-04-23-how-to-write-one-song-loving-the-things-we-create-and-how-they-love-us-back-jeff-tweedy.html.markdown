@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3vkSbIp
 author: "Jeff Tweedy"
 publisher: "Dutton"
 date: 2021-04-23
-image: https://images-na.ssl-images-amazon.com/images/I/41LN02y-lQL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41LN02y-lQL._SL300_.jpg
 tags:
 ---
 

@@ -103,7 +103,11 @@ time {
 
 /* line 108, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .reading {
+  display: flow-root;
   margin-bottom: 60px; }
+  .content .reading h4 {
+    margin-top: 0;
+    padding-top: 0; }
 
 /* line 112, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .photo-credit {

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3LosBed
 author: "Camille Fournier"
 publisher: "O'Reilly Media"
 date: 2022-02-10
-image: https://images-na.ssl-images-amazon.com/images/I/51L+F83aDPL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51L+F83aDPL._SL300_.jpg
 tags:
 ---
 

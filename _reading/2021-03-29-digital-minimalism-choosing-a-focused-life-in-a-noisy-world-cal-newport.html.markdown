@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2PhDmXE
 author: "Cal Newport"
 publisher: "Portfolio"
 date: 2021-03-29
-image: https://images-na.ssl-images-amazon.com/images/I/51vlyflU8xL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51vlyflU8xL._SL300_.jpg
 tags:
 ---
 

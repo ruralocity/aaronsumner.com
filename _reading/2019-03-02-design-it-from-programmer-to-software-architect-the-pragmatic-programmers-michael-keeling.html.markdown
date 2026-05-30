@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Design-Programmer-Architect-Pragmatic-Progr
 author: "Michael Keeling"
 publisher: "Pragmatic Bookshelf"
 date: 2019-03-02
-image: https://images-na.ssl-images-amazon.com/images/I/41srOUdjYhL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41srOUdjYhL._SL300_.jpg
 tags:
 ---
 

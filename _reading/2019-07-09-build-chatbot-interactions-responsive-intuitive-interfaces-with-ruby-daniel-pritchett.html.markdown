@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Build-Chatbot-Interactions-Responsive-Inter
 author: "Daniel Pritchett"
 publisher: "Pragmatic Bookshelf"
 date: 2019-07-09
-image: https://images-na.ssl-images-amazon.com/images/I/41y1wpvvl8L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41y1wpvvl8L._SL300_.jpg
 tags:
 ---
 

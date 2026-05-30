@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2G31mZx
 author: "Bruce Johnson"
 publisher: "Wiley"
 date: 2020-09-24
-image: https://images-na.ssl-images-amazon.com/images/I/51Je7J+HS2L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51Je7J+HS2L._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3soY9t2
 author: "Johann Hari"
 publisher: "Crown"
 date: 2022-02-26
-image: https://images-na.ssl-images-amazon.com/images/I/41kZVe7jeaL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41kZVe7jeaL._SL300_.jpg
 tags:
 ---
 

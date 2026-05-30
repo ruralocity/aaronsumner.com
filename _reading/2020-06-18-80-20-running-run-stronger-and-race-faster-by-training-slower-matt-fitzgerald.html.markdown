@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/30WiVD9
 author: "Matt Fitzgerald"
 publisher: "Berkley"
 date: 2020-06-18
-image: https://images-na.ssl-images-amazon.com/images/I/517wVK65UiL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/517wVK65UiL._SL300_.jpg
 tags:
 ---
 

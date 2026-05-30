@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/4iyrN6a
 author: "Yvon Chouinard"
 publisher: "Penguin Books; Updated 2nd edition"
 date: 2025-03-01
-image: https://images-na.ssl-images-amazon.com/images/I/71bFk-Uax8L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71bFk-Uax8L._SL300_.jpg
 tags:
 ---
 

@@ -4,6 +4,6 @@ purchase_url: https://amzn.to/2OzWbCb
 author: "Russ Harris"
 publisher: "Trumpeter"
 date: 2019-11-10
-image: https://images-na.ssl-images-amazon.com/images/I/41qddEFlsTL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41qddEFlsTL._SL300_.jpg
 tags:
 ---

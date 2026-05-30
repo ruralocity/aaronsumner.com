@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/What-Love-Without-Going-Broke-ebook/dp/B0D2
 author: "Jen Smith & Jill Sirianni"
 publisher: "‎                                    Harvest"
 date: 2025-04-24
-image: https://images-na.ssl-images-amazon.com/images/I/71Mcw2jlgyL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71Mcw2jlgyL._SL300_.jpg
 tags:
 ---
 

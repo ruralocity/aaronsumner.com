@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Northwest-Coastal-Explorer-Animals-Pacific/
 author: "Robert Steelquist"
 publisher: "Timber Press"
 date: 2018-09-01
-image: https://images-na.ssl-images-amazon.com/images/I/61hZEVK9ZFL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61hZEVK9ZFL._SL300_.jpg
 tags:
 ---
 

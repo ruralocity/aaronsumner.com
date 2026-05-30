@@ -5,6 +5,6 @@ author: "Max Tegmark"
 publisher: "Vintage"
 date: 2025-04-24
 tags:
-image: "https://images-na.ssl-images-amazon.com/images/I/91WdkwWjH4L._SL75_.jpg"
+image: "https://images-na.ssl-images-amazon.com/images/I/91WdkwWjH4L._SL300_.jpg"
 ---
 

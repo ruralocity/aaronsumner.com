@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Kickstarter-Handbook-Real-Life-Crowdfunding
 author: "Don Steinberg"
 publisher: "Quirk Books"
 date: 2018-10-17
-image: https://images-na.ssl-images-amazon.com/images/I/51F0baCiJbL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51F0baCiJbL._SL300_.jpg
 tags:
 ---
 

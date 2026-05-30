@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Knowing-Score-Sports-Teach-Philosophy/dp/04
 author: "David Papineau"
 publisher: "Basic Books"
 date: 2017-09-10
-image: https://images-na.ssl-images-amazon.com/images/I/51vzVT2-4iL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51vzVT2-4iL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2q787l0
 author: "Seth Godin"
 publisher: "Portfolio"
 date: 2019-09-15
-image: https://images-na.ssl-images-amazon.com/images/I/71vseaezFCL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71vseaezFCL._SL300_.jpg
 tags:
 ---
 

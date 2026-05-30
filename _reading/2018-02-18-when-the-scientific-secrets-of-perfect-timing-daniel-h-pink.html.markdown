@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/When-Scientific-Secrets-Perfect-Timing/dp/0
 author: "Daniel H. Pink"
 publisher: "Riverhead Books"
 date: 2018-02-18
-image: https://images-na.ssl-images-amazon.com/images/I/41Z0sxEkUBL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41Z0sxEkUBL._SL300_.jpg
 tags:
 ---
 

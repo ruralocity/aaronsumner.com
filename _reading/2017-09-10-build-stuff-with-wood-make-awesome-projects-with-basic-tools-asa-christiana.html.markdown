@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Build-Stuff-Wood-Awesome-Projects/dp/163186
 author: "Asa Christiana"
 publisher: "Taunton Press"
 date: 2017-09-10
-image: https://images-na.ssl-images-amazon.com/images/I/51JgD-chVcL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51JgD-chVcL._SL300_.jpg
 tags:
 ---
 

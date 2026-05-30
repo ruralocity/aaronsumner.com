@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Art-Digital-Marketing-Definitive-Measurable
 author: "Ian Dodson"
 publisher: "Wiley"
 date: 2019-01-24
-image: https://images-na.ssl-images-amazon.com/images/I/51ZYPWnx2LL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51ZYPWnx2LL._SL300_.jpg
 tags:
 ---
 

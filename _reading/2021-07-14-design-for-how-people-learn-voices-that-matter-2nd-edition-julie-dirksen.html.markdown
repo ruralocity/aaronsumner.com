@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2VErwtn
 author: "Julie Dirksen"
 publisher: "New Riders"
 date: 2021-07-14
-image: https://images-na.ssl-images-amazon.com/images/I/41fZqmlr4jL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41fZqmlr4jL._SL300_.jpg
 tags:
 ---
 

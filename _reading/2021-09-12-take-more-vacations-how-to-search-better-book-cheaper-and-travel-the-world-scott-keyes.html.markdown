@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/392cYqU
 author: "Scott Keyes"
 publisher: "Harper Wave"
 date: 2021-09-12
-image: https://images-na.ssl-images-amazon.com/images/I/51LpDLmlCSL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51LpDLmlCSL._SL300_.jpg
 tags:
 ---
 

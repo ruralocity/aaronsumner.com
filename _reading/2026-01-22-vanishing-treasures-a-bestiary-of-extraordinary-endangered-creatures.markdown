@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/48SXSUd
 author: "Katherine Rundell"
 publisher: "Doubleday"
 date: 2026-01-22
-image: https://images-na.ssl-images-amazon.com/images/I/81ACZl8GakL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/81ACZl8GakL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3Y4HxDF
 author: "Steve Magness"
 publisher: "HarperOne"
 date: 2023-02-26
-image: https://images-na.ssl-images-amazon.com/images/I/41N+aBO5ouL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41N+aBO5ouL._SL300_.jpg
 tags:
 ---
 

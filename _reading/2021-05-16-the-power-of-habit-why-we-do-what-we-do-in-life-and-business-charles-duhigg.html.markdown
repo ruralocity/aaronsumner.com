@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/33NITc7
 author: "Charles Duhigg"
 publisher: "Random House Trade Paperbacks"
 date: 2021-05-16
-image: https://images-na.ssl-images-amazon.com/images/I/51UKFWWvqHL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51UKFWWvqHL._SL300_.jpg
 tags:
 ---
 

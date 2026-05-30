@@ -4,5 +4,5 @@ author: "Sy Montgomery"
 editor: ""
 publisher: "Mariner Books"
 purchase_url: "https://amzn.to/3TlCLlp"
-image: "https://images-na.ssl-images-amazon.com/images/I/91NRz5OZeKL._SL75_.jpg"
+image: "https://images-na.ssl-images-amazon.com/images/I/91NRz5OZeKL._SL300_.jpg"
 ---

@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Runners-World-Complete-Book-Running/dp/1605
 author: ""
 publisher: "Rodale Books"
 date: 2017-11-07
-image: https://images-na.ssl-images-amazon.com/images/I/51F7SUm2mtL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51F7SUm2mtL._SL300_.jpg
 tags:
 ---
 

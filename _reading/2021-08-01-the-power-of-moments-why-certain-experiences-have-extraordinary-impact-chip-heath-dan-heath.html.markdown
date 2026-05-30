@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3lkVOMO
 author: "Chip Heath & Dan Heath"
 publisher: "Simon & Schuster"
 date: 2021-08-01
-image: https://images-na.ssl-images-amazon.com/images/I/515uJEkAu-L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/515uJEkAu-L._SL300_.jpg
 tags:
 ---
 

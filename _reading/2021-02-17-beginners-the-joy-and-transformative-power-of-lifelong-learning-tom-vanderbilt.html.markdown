@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2M6QQnC
 author: "Tom Vanderbilt"
 publisher: "Knopf"
 date: 2021-02-17
-image: https://images-na.ssl-images-amazon.com/images/I/41c0ZPrRNPL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/41c0ZPrRNPL._SL300_.jpg
 tags:
 ---
 

@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/3cPIsmX
 author: "Dale Carnegie"
 publisher: "Pocket Books"
 date: 2021-04-05
-image: https://images-na.ssl-images-amazon.com/images/I/51X7dEUFgoL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51X7dEUFgoL._SL300_.jpg
 tags:
 ---
 

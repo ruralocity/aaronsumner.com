@@ -5,7 +5,7 @@ author: "Paul McCartney"
 editor: "Ted Widmer"
 publisher: "Liveright"
 date: 2026-01-23
-image: https://images-na.ssl-images-amazon.com/images/I/71-lqi0yR3L._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/71-lqi0yR3L._SL300_.jpg
 tags:
 ---
 

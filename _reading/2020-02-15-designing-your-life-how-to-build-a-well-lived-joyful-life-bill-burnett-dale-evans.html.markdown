@@ -4,7 +4,7 @@ purchase_url: https://amzn.to/2HubdVE
 author: "Bill Burnett, Dave Evans"
 publisher: "Knopf"
 date: 2020-02-15
-image: https://images-na.ssl-images-amazon.com/images/I/415jHUYmlRL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/415jHUYmlRL._SL300_.jpg
 tags:
 ---
 

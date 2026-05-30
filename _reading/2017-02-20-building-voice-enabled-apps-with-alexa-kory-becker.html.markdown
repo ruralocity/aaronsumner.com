@@ -4,7 +4,7 @@ purchase_url: https://www.safaribooksonline.com/library/view/building-voice-enab
 author: "Kory Becker"
 publisher: "Bleeding Edge Press"
 date: 2017-02-20
-image: https://images-na.ssl-images-amazon.com/images/I/51e-C13ZKyL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51e-C13ZKyL._SL300_.jpg
 tags:
 ---
 

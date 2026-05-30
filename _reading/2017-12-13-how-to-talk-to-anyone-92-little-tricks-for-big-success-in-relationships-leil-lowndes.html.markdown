@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/How-Talk-Anyone-Success-Relationships/dp/00
 author: "Leil Lowndes"
 publisher: "McGraw-Hill Education"
 date: 2017-12-13
-image: https://images-na.ssl-images-amazon.com/images/I/51l3jMA9XqL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/51l3jMA9XqL._SL300_.jpg
 tags:
 ---
 

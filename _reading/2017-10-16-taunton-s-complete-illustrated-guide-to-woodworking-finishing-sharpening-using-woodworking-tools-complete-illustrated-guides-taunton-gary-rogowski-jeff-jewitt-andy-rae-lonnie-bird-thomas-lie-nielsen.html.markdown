@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Tauntons-Complete-Illustrated-Guide-Woodwor
 author: "Gary Rogowski, Jeff Jewitt, Andy Rae, Lonnie Bird, Thomas Lie-Nielsen"
 publisher: "Taunton Press"
 date: 2017-10-16
-image: https://images-na.ssl-images-amazon.com/images/I/61cepeS8OrL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/61cepeS8OrL._SL300_.jpg
 tags:
 ---
 

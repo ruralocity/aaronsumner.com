@@ -4,7 +4,7 @@ purchase_url: https://www.amazon.com/Yes-Please-Amy-Poehler-2015-06-18/dp/B01K0P
 author: "Amy Poehler"
 publisher: "Picador"
 date: 2019-12-22
-image: https://images-na.ssl-images-amazon.com/images/I/513BA-YssiL._SL75_.jpg
+image: https://images-na.ssl-images-amazon.com/images/I/513BA-YssiL._SL300_.jpg
 tags:
 ---
 
