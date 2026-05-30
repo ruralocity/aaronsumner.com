@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/71vzuPJecKL._SL300_.jpg
 tags:
 ---
 
+I mean, "enshittification" is so overused at this point. But another one of those books that, if just a few more people read, might help chip away at the status quo.

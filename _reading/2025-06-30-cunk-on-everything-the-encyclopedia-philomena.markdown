@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/81fjBDRYkzL._SL300_.jpg
 tags:
 ---
 
+The audiobook version of this is just the best.

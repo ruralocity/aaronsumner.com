@@ -8,4 +8,5 @@ image: https://images-na.ssl-images-amazon.com/images/I/71LiSD8VWFL._SL300_.jpg
 tags:
 ---
 
-A little smug, I think a lot more people should read this than likely will.
+A little smug, but I think a lot more people should read this than likely will.
+ Worth checking out.
