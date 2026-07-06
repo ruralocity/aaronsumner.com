@@ -8,3 +8,6 @@ image: https://images-na.ssl-images-amazon.com/images/I/71n96bG5V2L._SL300_.jpg
 tags:
 ---
 
+Perhaps a little glass-half-full, but overall a solid instruction manual for
+people who are interested in learning and leveraging AI more but aren't sure
+where to start.
