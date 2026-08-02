@@ -82,6 +82,16 @@ body {
   .container {
     max-width: 730px; } }
 
+@media (min-width: 992px) {
+  .container {
+    max-width: 900px; } }
+
+/* Inline SVG icons sized to match Bootstrap Icons */
+.cc-icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -.125em; }
+
 /* line 1, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 body {
   font-family: 'Source Sans Pro', sans-serif; }
