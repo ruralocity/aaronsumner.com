@@ -1,6 +1,6 @@
 ---
 title: Colophon
-layout: default
+layout: page
 ---
 
 I'm using [Jekyll](https://jekyllrb.com) to manage all content on this site. It's not hip, but it's simple and does the job.

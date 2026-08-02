@@ -95,7 +95,7 @@ trinkets created from ordinary scrap wood. Just a lightly-populated online shop 
       I still write a lot of code in my role as a Software Engineering
       Manager at
       <a href="https://www.oreilly.com/">O’Reilly Media</a>. Some of the other
-      times I write about writing software as an independent technical author at
+      times <a href="/pages/books.html">I write about writing software as an independent technical author</a> at
       <a href="https://leftofthe.dev/">Left of the Dev</a>.
     </p>
 
