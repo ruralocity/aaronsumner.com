@@ -79,13 +79,21 @@ Affected: `col-md-12` (header), `col-md-6` (featured projects, recent posts / bi
 
 **e. Icons** — `pages/contact.html.markdown`
 
-Replace each `<i class="fa fa-* fa-2x">` with an inline `<svg>` using the equivalent Bootstrap Icons path, sized to match `fa-2x` (~2em). Five icons, all in the `#social` list: GitHub, Instagram, Flickr, LinkedIn, RSS. Preserve each icon's `title` as an accessible name (`<title>` element inside the SVG, or `aria-label` on the link).
+Replace each `<i class="fa fa-* fa-2x">` with an inline `<svg>` sized to match `fa-2x` (32px) and filled with `currentColor`, so icons keep inheriting the maroon link color. Five icons, all in the `#social` list on the contact page.
+
+Four come from Bootstrap Icons 1.13.1: `github`, `instagram`, `linkedin`, `rss-fill`. Bootstrap Icons ships no Flickr glyph — the Flickr mark is two dots, drawn directly as two `<circle>` elements. This matches how `fa-flickr` renders today (monochrome, inheriting text color).
+
+Bootstrap 3 used the "square" variants (`fa-github-square`, `fa-linkedin-square`, `fa-rss-square`). Bootstrap Icons' `linkedin` and `rss-fill` are square; its `github` is the bare Octocat mark rather than a squared badge. That difference falls under accepted drift.
+
+Accessibility: move the name from the icon's `title` attribute to `aria-label` on the enclosing `<a>`, and mark each `<svg>` `aria-hidden="true" focusable="false"`. Today's `title` on an `<i>` produces a tooltip but no reliable accessible name for the link.
 
 ### 3. `site.css` changes
 
 Three additions below, plus the `@font-face` blocks in §4. No compatibility layer, no pinning of Bootstrap 5 defaults back to Bootstrap 3 values.
 
-**a. Link underlines.** Bootstrap 5 sets `--bs-link-decoration: underline` at `:root` and applies it to every `a`; Bootstrap 3 did not underline links. Set `--bs-link-decoration: none` at `:root` in `site.css`. The existing `#content a { text-decoration: underline }` keeps body-copy links underlined. Without this, header and footer nav links gain underlines they do not have today.
+**a. Link underlines.** Bootstrap 5's reboot hardcodes `a { text-decoration: underline }`; Bootstrap 3 did not underline links. Add `text-decoration: none` to the existing `a` rule in `site.css` — it loads after Bootstrap at equal specificity, so it wins. The existing `#content a { text-decoration: underline }` keeps body-copy links underlined. Without this, header and footer nav links gain underlines they do not have today.
+
+Note: do **not** try to solve this with `--bs-link-decoration`. That variable is declared at `:root` in 5.3.8 but referenced nowhere in the stylesheet — setting it has no effect.
 
 **b. Narrow container.** Absorb the live rules from `bootstrap-narrow.css`:
 
@@ -96,10 +104,9 @@ body { padding-top: 20px; padding-bottom: 20px; }
 
 The remaining rules in that file target `.jumbotron`, `.marketing`, `.header`, `.footer`, and `.container-narrow` — none of those classes appear in any markup (the layout uses bare `<header>` and `<footer>` elements). They are dropped.
 
-**c. Maroon theme via custom properties.** Convert the existing `a` and `.btn-primary` overrides to Bootstrap 5 custom properties so hover, focus, and active states inherit correctly instead of fighting Bootstrap's variable-driven button rules:
+**c. Maroon buttons via custom properties.** The existing `a` color rules need no change — a plain `color` declaration in `site.css` overrides Bootstrap's `rgba(var(--bs-link-color-rgb), …)` at equal specificity because `site.css` loads second.
 
-- `--bs-link-color` / `--bs-link-hover-color` for `#631111` / `#993333`
-- `--bs-btn-bg`, `--bs-btn-hover-bg`, `--bs-btn-color`, `--bs-btn-hover-color`, `--bs-btn-border-width` scoped to `.btn-primary`
+`.btn-primary` is different. Bootstrap 5 drives every button state from `--bs-btn-*` variables, including a focus ring built from `--bs-btn-focus-shadow-rgb` — which stays Bootstrap blue if only `background-color` is overridden. Replace the two plain `.btn-primary` blocks in `site.css` with a single variable block scoped to `.btn-primary`: `--bs-btn-color`, `--bs-btn-bg`, `--bs-btn-border-color`, `--bs-btn-hover-color`, `--bs-btn-hover-bg`, `--bs-btn-hover-border-color`, `--bs-btn-active-bg`, `--bs-btn-active-border-color`, `--bs-btn-focus-shadow-rgb`.
 
 The `a:hover` background tint (`rgba(99, 17, 17, 0.1)`) stays as a plain rule.
 
