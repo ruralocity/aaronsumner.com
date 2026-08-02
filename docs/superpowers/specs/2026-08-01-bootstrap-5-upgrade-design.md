@@ -17,7 +17,7 @@
 | Decision | Choice | Rationale |
 |---|---|---|
 | Delivery | Vendored `bootstrap.min.css` 5.3.8, no build step | Matches existing workflow. Bootstrap 5.3 exposes `--bs-*` custom properties, so theming needs no Sass. Future upgrades replace one file. |
-| Icons | Inline SVG, delete Font Awesome | Five icons do not justify a 2016 webfont plus 1339 lines of CSS. No new dependency. |
+| Icons | Bootstrap Icons 1.13.1 webfont, vendored | Drop-in replacement for Font Awesome — same `<i class="...">` shape, so the swap is mechanical. Hand-authoring SVG paths proved fiddly for no gain, and a real icon set opens the door to using icons elsewhere on the site. |
 | Fonts | Self-host Source Sans Pro, drop the Google Fonts link | Removes a live per-visitor request to Google (privacy, third-party availability, extra DNS + TLS on a render-blocking resource). Cross-site font caching stopped working when browsers partitioned the HTTP cache, so the CDN gains nothing. |
 | Fidelity | "Close enough" | Accept small heading/spacing drift from Bootstrap 5 defaults. Do not add compatibility CSS that fights the framework. Fix anything that reads as broken. |
 | Verification | Automated before/after screenshots | Catches regressions on pages easy to forget. |
@@ -41,12 +41,15 @@ Verified: no markup or CSS in `_layouts`, `pages`, `index.markdown`, `404.html.m
 **Add:**
 
 - `assets/css/bootstrap.min.css` — Bootstrap 5.3.8 dist, unmodified
+- `assets/css/bootstrap-icons.min.css` — Bootstrap Icons 1.13.1 dist, unmodified
+- `assets/css/fonts/bootstrap-icons.woff2` — the icon webfont. It lives under `assets/css/` because the vendored stylesheet references it as a relative `fonts/…` URL; keeping the vendor layout means the stylesheet needs no edits. The `.woff` fallback is not shipped — every browser that runs this site supports woff2.
 - `assets/fonts/` — 8 Source Sans Pro woff2 files (see §4)
 
-**Result** — `_layouts/default.html` `<head>` carries two stylesheet links, both same-origin:
+**Result** — `_layouts/default.html` `<head>` carries three stylesheet links, all same-origin:
 
 ```html
 <link href="/assets/css/bootstrap.min.css" rel="stylesheet" />
+<link href="/assets/css/bootstrap-icons.min.css" rel="stylesheet" />
 <link href="/assets/css/site.css" rel="stylesheet" />
 ```
 
@@ -79,13 +82,21 @@ Affected: `col-md-12` (header), `col-md-6` (featured projects, recent posts / bi
 
 **e. Icons** — `pages/contact.html.markdown`
 
-Replace each `<i class="fa fa-* fa-2x">` with an inline `<svg>` sized to match `fa-2x` (32px) and filled with `currentColor`, so icons keep inheriting the maroon link color. Five icons, all in the `#social` list on the contact page.
+Replace each `<i class="fa fa-* fa-2x">` with the Bootstrap Icons equivalent, `<i class="bi bi-*">`. Five icons, all in the `#social` list on the contact page. Because these are font glyphs, they keep inheriting the maroon link color the same way the Font Awesome ones did.
 
-Four come from Bootstrap Icons 1.13.1: `github`, `instagram`, `linkedin`, `rss-fill`. Bootstrap Icons ships no Flickr glyph — the Flickr mark is two dots, drawn directly as two `<circle>` elements. This matches how `fa-flickr` renders today (monochrome, inheriting text color).
+| Today | Becomes |
+|---|---|
+| `fa-github-square` | `bi-github` |
+| `fa-instagram` | `bi-instagram` |
+| `fa-flickr` | `bi-camera` |
+| `fa-linkedin-square` | `bi-linkedin` |
+| `fa-rss-square` | `bi-rss` |
 
-Bootstrap 3 used the "square" variants (`fa-github-square`, `fa-linkedin-square`, `fa-rss-square`). Bootstrap Icons' `linkedin` and `rss-fill` are square; its `github` is the bare Octocat mark rather than a squared badge. That difference falls under accepted drift.
+Bootstrap Icons ships no Flickr glyph, so Flickr gets a generic camera. Bootstrap 3 also used "square" badge variants for GitHub, LinkedIn, and RSS; Bootstrap Icons' equivalents are bare marks, so the row reads as five outlined glyphs rather than five solid maroon squares. Both differences fall under accepted drift.
 
-Accessibility: move the name from the icon's `title` attribute to `aria-label` on the enclosing `<a>`, and mark each `<svg>` `aria-hidden="true" focusable="false"`. Today's `title` on an `<i>` produces a tooltip but no reliable accessible name for the link.
+`site.css` sets `#social .bi { font-size: 2.5rem }`. Bootstrap Icons glyphs fill roughly 0.62em, so 2.5rem lands near the 32px footprint the old `fa-2x` badges had.
+
+Accessibility: move the name from the icon's `title` attribute to `aria-label` on the enclosing `<a>`, and mark each `<i>` `aria-hidden="true"`. Today's `title` on an `<i>` produces a tooltip but no reliable accessible name for the link.
 
 ### 3. `site.css` changes
 
@@ -145,6 +156,7 @@ Consequences of Bootstrap 5 defaults that will not be corrected:
 - Base `line-height` is 1.5 vs Bootstrap 3's 1.428. `#content` and `.content` already pin their own, so this affects header and footer only.
 - Form controls get Bootstrap 5's larger padding and rounder corners.
 - Nav pill padding and hover treatment differ modestly.
+- The social icon row changes shape: Bootstrap Icons draws bare marks where Font Awesome drew solid maroon badges, and Flickr becomes a generic camera (see §2e).
 - Font loading flashes differently on a cold cache. Google's v1 CSS API omits `font-display`, giving the browser default of block-then-swap (invisible text up to 3s); self-hosting with `font-display: swap` shows fallback text immediately, then reflows. Faster to readable, more visible reflow. Self-hosting is also a shorter fetch — no `googleapis.com` stylesheet round trip before the `gstatic.com` font request.
 
 Anything that reads as *broken* — overlapping elements, unstyled controls, lost layout, illegible contrast — gets fixed. A few pixels of heading drift does not.

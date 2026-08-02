@@ -27,11 +27,31 @@ If you have a question about something from _Everyday Rails Testing with RSpec_,
 ### Social media
 
 <div id="social">
-  <ul class="nav nav-pills nav-justify">
-    <li><a href="https://github.com/ruralocity"><i class="fa fa-github-square fa-2x" title="GitHub"></i></a></li>
-    <li><a href="https://instagram.com/ruralocity"><i class="fa fa-instagram fa-2x" title="Instagram"></i></a></li>
-    <li><a href="https://flickr.com/photos/rockchalk"><i class="fa fa-flickr fa-2x" title="Flickr"></i></a></li>
-    <li><a href="https://linkedin.com/in/asumner"><i class="fa fa-linkedin-square fa-2x" title="LinkedIn"></i></a></li>
-    <li><a href="/atom.xml"><i class="fa fa-rss-square fa-2x" title="RSS"></i></a></li>
+  <ul class="nav nav-pills">
+    <li class="nav-item">
+      <a class="nav-link" href="https://github.com/ruralocity" aria-label="GitHub">
+        <i class="bi bi-github" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://instagram.com/ruralocity" aria-label="Instagram">
+        <i class="bi bi-instagram" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://flickr.com/photos/rockchalk" aria-label="Flickr">
+        <i class="bi bi-camera" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://linkedin.com/in/asumner" aria-label="LinkedIn">
+        <i class="bi bi-linkedin" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/atom.xml" aria-label="RSS">
+        <i class="bi bi-rss" aria-hidden="true"></i>
+      </a>
+    </li>
   </ul>
 </div>

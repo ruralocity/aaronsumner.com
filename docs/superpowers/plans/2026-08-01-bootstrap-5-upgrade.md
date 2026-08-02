@@ -287,13 +287,17 @@ git commit -m "Self-host Source Sans Pro instead of loading from Google Fonts"
 
 ---
 
-## Task 3: Replace Font Awesome Icons With Inline SVG
+## Task 3: Replace Font Awesome Icons With Bootstrap Icons
 
-Independent of Bootstrap. All five icons live in one block on the contact page.
+Independent of Bootstrap core. All five icons live in one block on the contact page.
+Bootstrap Icons is a webfont with the same `<i class="...">` usage shape as Font
+Awesome, so this is a mechanical class swap plus a vendored stylesheet and font file.
 
 **Files:**
+- Add: `assets/css/bootstrap-icons.min.css`, `assets/css/fonts/bootstrap-icons.woff2`
 - Modify: `pages/contact.html.markdown` (the `#social` block)
-- Modify: `_layouts/default.html` (remove the Font Awesome stylesheet link)
+- Modify: `_layouts/default.html` (swap the Font Awesome link for the Bootstrap Icons link)
+- Modify: `assets/css/site.css` (size the icons)
 - Delete: `assets/css/font-awesome.css`, `assets/css/font-awesome.min.css`
 
 - [ ] **Step 1: Write the failing check**
@@ -304,7 +308,28 @@ grep -c 'class="fa ' pages/contact.html.markdown
 ```
 Expected now: `5`
 
-- [ ] **Step 2: Replace the `#social` block**
+- [ ] **Step 2: Vendor the Bootstrap Icons dist**
+
+```bash
+cd /tmp
+curl -sLO https://github.com/twbs/icons/releases/download/v1.13.1/bootstrap-icons-1.13.1.zip
+unzip -qo bootstrap-icons-1.13.1.zip -d bi
+cd -
+mkdir -p assets/css/fonts
+cp /tmp/bi/bootstrap-icons-1.13.1/bootstrap-icons.min.css assets/css/bootstrap-icons.min.css
+cp /tmp/bi/bootstrap-icons-1.13.1/fonts/bootstrap-icons.woff2 assets/css/fonts/bootstrap-icons.woff2
+```
+
+The stylesheet is vendored unmodified. It references the font as a relative
+`fonts/bootstrap-icons.woff2` URL, which is why the font goes under `assets/css/`
+rather than `assets/fonts/` — keeping the vendor layout means no edits to the
+vendored file. The `.woff` fallback is deliberately not copied; every browser that
+supports this site supports woff2, and the fallback URL is never requested when the
+woff2 loads.
+
+Expected sizes: `bootstrap-icons.min.css` 87008 bytes, `bootstrap-icons.woff2` 134044 bytes.
+
+- [ ] **Step 3: Replace the `#social` block**
 
 In `pages/contact.html.markdown`, replace the entire block from `<div id="social">` through its closing `</div>` with:
 
@@ -313,66 +338,103 @@ In `pages/contact.html.markdown`, replace the entire block from `<div id="social
   <ul class="nav nav-pills">
     <li class="nav-item">
       <a class="nav-link" href="https://github.com/ruralocity" aria-label="GitHub">
-        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/></svg>
+        <i class="bi bi-github" aria-hidden="true"></i>
       </a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="https://instagram.com/ruralocity" aria-label="Instagram">
-        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"/></svg>
+        <i class="bi bi-instagram" aria-hidden="true"></i>
       </a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="https://flickr.com/photos/rockchalk" aria-label="Flickr">
-        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><circle cx="4.6" cy="8" r="3.2"/><circle cx="11.4" cy="8" r="3.2"/></svg>
+        <i class="bi bi-camera" aria-hidden="true"></i>
       </a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="https://linkedin.com/in/asumner" aria-label="LinkedIn">
-        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/></svg>
+        <i class="bi bi-linkedin" aria-hidden="true"></i>
       </a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="/atom.xml" aria-label="RSS">
-        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true" focusable="false"><path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm1.5 2.5c5.523 0 10 4.477 10 10a1 1 0 1 1-2 0 8 8 0 0 0-8-8 1 1 0 0 1 0-2m0 4a6 6 0 0 1 6 6 1 1 0 1 1-2 0 4 4 0 0 0-4-4 1 1 0 0 1 0-2m.5 7a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3"/></svg>
+        <i class="bi bi-rss" aria-hidden="true"></i>
       </a>
     </li>
   </ul>
 </div>
 ```
 
+Bootstrap Icons ships no Flickr glyph (verified: `grep -c '\.bi-flickr::before'` on the
+vendored stylesheet returns `0`), so Flickr uses the generic `bi-camera`.
+
 Note this markup already carries the `nav-item` / `nav-link` classes Bootstrap 5 needs. Under Bootstrap 3 those classes are inert, so the page renders the same today. Task 5 does not need to revisit this block.
 
-- [ ] **Step 3: Remove the Font Awesome stylesheet link**
+- [ ] **Step 4: Swap the stylesheet link**
 
-In `_layouts/default.html`, delete this line entirely:
+In `_layouts/default.html`, delete this line:
 
 ```html
     <link href="/assets/css/font-awesome.css" rel="stylesheet" />
 ```
 
-- [ ] **Step 4: Delete the Font Awesome CSS**
+and add this one directly above the `site.css` link, so `site.css` still wins on cascade ties:
+
+```html
+    <link href="/assets/css/bootstrap-icons.min.css" rel="stylesheet" />
+```
+
+- [ ] **Step 5: Size the icons in `site.css`**
+
+Font Awesome's `fa-2x` badges rendered as 32px squares. Bootstrap Icons has no size
+class, and its glyphs fill only about 0.62em (measured: 19px tall at `2rem`, 40px at
+`4rem`), so `2.5rem` is what lands near the old footprint. Add this inside the existing
+`#social` group in `assets/css/site.css`, right after the `#social a:hover` rule:
+
+```css
+  /* Bootstrap Icons glyphs fill about 0.62em, so 2.5rem lands near the 32px
+     footprint the old Font Awesome fa-2x badges had. */
+  #social .bi {
+    font-size: 2.5rem; }
+```
+
+The glyphs inherit their maroon color from the existing `a { color: #631111 }` rule, exactly as the Font Awesome ones did.
+
+- [ ] **Step 6: Delete the Font Awesome CSS**
 
 ```bash
 git rm assets/css/font-awesome.css assets/css/font-awesome.min.css
 ```
 
-- [ ] **Step 5: Run the check — it should now pass**
+- [ ] **Step 7: Run the check — it should now pass**
 
 Run:
 ```bash
 grep -c 'class="fa ' pages/contact.html.markdown; grep -c 'font-awesome' _layouts/default.html; ls assets/css/
 ```
-Expected: `0`, then `0`, then a listing with no `font-awesome` entries.
+Expected: `0`, then `0`, then a listing with `bootstrap-icons.min.css` and no `font-awesome` entries.
 
-- [ ] **Step 6: Verify visually**
-
-Run `bundle exec jekyll build`, then reload `http://localhost:4001/pages/contact.html` and screenshot it. All five icons must render in maroon at roughly their previous size. Check the browser network log shows no request for `fontawesome-webfont.*`.
-
-- [ ] **Step 7: Commit**
+- [ ] **Step 8: Verify visually**
 
 ```bash
-git add pages/contact.html.markdown _layouts/default.html
-git commit -m "Replace Font Awesome icons with inline SVG"
+bundle exec jekyll build
+curl -s -o /dev/null -w '%{http_code}\n' http://localhost:4001/assets/css/bootstrap-icons.min.css
+curl -s -o /dev/null -w '%{http_code}\n' http://localhost:4001/assets/css/fonts/bootstrap-icons.woff2
+grep -o 'bi bi-[a-z]*' _site/pages/contact.html.html
+```
+Expected: `200`, `200`, then the five classes `bi-github`, `bi-instagram`, `bi-camera`, `bi-linkedin`, `bi-rss`.
+
+Then screenshot `http://localhost:4001/pages/contact.html`. All five icons must render
+in maroon at roughly their previous size. They will look different from the baseline —
+bare marks instead of solid maroon squares, and a camera for Flickr. That is expected
+and accepted; see the spec's drift section.
+
+- [ ] **Step 9: Commit**
+
+```bash
+git add pages/contact.html.markdown _layouts/default.html assets/css/site.css \
+        assets/css/bootstrap-icons.min.css assets/css/fonts/bootstrap-icons.woff2
+git commit -m "Replace Font Awesome with Bootstrap Icons"
 ```
 
 ---
@@ -729,7 +791,7 @@ On `http://localhost:4001/`, the `<time>` elements next to recent post titles mu
 
 Run:
 ```bash
-grep -o 'name="[a-z]*"\|netlify\|action="[^"]*"' _site/pages/contact.html
+grep -o 'name="[a-z]*"\|netlify\|action="[^"]*"' _site/pages/contact.html.html
 ```
 Expected output includes `name="contact"`, `netlify`, `action="/pages/thanks.html"`, `name="name"`, `name="email"`, `name="message"`.
 

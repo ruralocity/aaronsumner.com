@@ -130,6 +130,10 @@ img {
   /* line 56, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
   #social a:hover {
     background: none; }
+  /* Bootstrap Icons glyphs fill about 0.62em, so 2.5rem lands near the 32px
+     footprint the old Font Awesome fa-2x badges had. */
+  #social .bi {
+    font-size: 2.5rem; }
 
 /* line 61, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .project {
