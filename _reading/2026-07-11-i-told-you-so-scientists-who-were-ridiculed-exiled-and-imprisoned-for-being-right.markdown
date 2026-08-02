@@ -8,3 +8,4 @@ image: https://images-na.ssl-images-amazon.com/images/I/71d2xfP7qvL._SL300_.jpg
 tags:
 ---
 
+I should make a list of books that people who think science is perfect should read. A sad reminder of the politics and egos that get in the way of human progress. Recommended.
