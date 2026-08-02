@@ -73,6 +73,15 @@
   unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
 
+/* Absorbed from bootstrap-narrow.css */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px; } }
+
 /* line 1, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 body {
   font-family: 'Source Sans Pro', sans-serif; }
@@ -84,6 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 /* line 9, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 a {
   color: #631111;
+  text-decoration: none;
   transition: background-color 0.2s ease; }
   /* line 12, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
   a:hover {
@@ -93,16 +103,17 @@ a {
 
 /* line 18, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .btn-primary {
-  background-color: #631111;
-  color: #fff;
-  text-decoration: none;
-  border: 0; }
-  /* line 24, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
-  .btn-primary:hover {
-    background-color: #993333;
-    color: #fff;
-    text-decoration: none;
-    border: 0; }
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #631111;
+  --bs-btn-border-color: #631111;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #993333;
+  --bs-btn-hover-border-color: #993333;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #993333;
+  --bs-btn-active-border-color: #993333;
+  --bs-btn-focus-shadow-rgb: 99, 17, 17;
+  text-decoration: none; }
 
 /* line 32, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 img {
