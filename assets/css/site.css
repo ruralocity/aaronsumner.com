@@ -210,6 +210,10 @@ img {
   float: right;
   margin: 0 0 5px 5px; }
 
+/* Contain .floater images so they can't spill into the footer */
+#content {
+  display: flow-root; }
+
 /* line 95, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 footer {
   margin-bottom: 50px; }
