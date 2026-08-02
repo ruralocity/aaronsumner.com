@@ -1,3 +1,87 @@
+/* Source Sans Pro, self-hosted. Subset URLs and unicode-ranges taken from
+   Google Fonts' own CSS output; font-display: swap added. */
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-pro-400-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-pro-400-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-pro-400-italic-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-pro-400-italic-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-pro-600-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-pro-600-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-pro-600-italic-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-pro-600-italic-latin-ext.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+/* Absorbed from bootstrap-narrow.css */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px; }
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px; } }
+
 /* line 1, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 body {
   font-family: 'Source Sans Pro', sans-serif; }
@@ -9,6 +93,7 @@ h1, h2, h3, h4, h5, h6 {
 /* line 9, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 a {
   color: #631111;
+  text-decoration: none;
   transition: background-color 0.2s ease; }
   /* line 12, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
   a:hover {
@@ -16,18 +101,36 @@ a {
     text-decoration: none;
     background-color: rgba(99, 17, 17, 0.1); }
 
+/* Bootstrap 5 colors .nav-link from its own variables rather than inheriting,
+   and .nav-link outranks the plain `a` rule above on specificity. Set the
+   variables where Bootstrap declares them, on .nav. */
+.nav {
+  --bs-nav-link-color: #631111;
+  --bs-nav-link-hover-color: #993333; }
+
+/* Bootstrap 5 hardcodes a blue focus ring in these two rules instead of routing
+   it through a --bs-* variable, and sets outline: 0 — so this glow is the only
+   keyboard-focus indicator these controls have. Restated in maroon to match the
+   submit button, which gets there via --bs-btn-focus-shadow-rgb. */
+.form-control:focus {
+  border-color: #993333;
+  box-shadow: 0 0 0 0.25rem rgba(99, 17, 17, 0.25); }
+
+.nav-link:focus-visible {
+  box-shadow: 0 0 0 0.25rem rgba(99, 17, 17, 0.25); }
+
 /* line 18, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .btn-primary {
-  background-color: #631111;
-  color: #fff;
-  text-decoration: none;
-  border: 0; }
-  /* line 24, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
-  .btn-primary:hover {
-    background-color: #993333;
-    color: #fff;
-    text-decoration: none;
-    border: 0; }
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #631111;
+  --bs-btn-border-color: #631111;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #993333;
+  --bs-btn-hover-border-color: #993333;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #993333;
+  --bs-btn-active-border-color: #993333;
+  --bs-btn-focus-shadow-rgb: 99, 17, 17; }
 
 /* line 32, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 img {
@@ -55,6 +158,14 @@ img {
   /* line 56, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
   #social a:hover {
     background: none; }
+  /* Bootstrap Icons glyphs fill about 0.62em, so 2.5rem lands near the 32px
+     footprint the old Font Awesome fa-2x badges had. */
+  #social .bi {
+    font-size: 2.5rem; }
+  /* Six icons at Bootstrap's default 1rem nav-link padding run past the
+     container at 390px. */
+  #social .nav-link {
+    --bs-nav-link-padding-x: 0.5rem; }
 
 /* line 61, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .project {

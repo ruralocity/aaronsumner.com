@@ -5,14 +5,14 @@ title: Home
 
 <div id="projects">
   <div class="row">
-    <div class="project project-featured col-md-6">
+    <div class="project project-featured col-lg-6">
         <a href="https://leftofthe.dev/"><img src="/assets/images/left-of-the-dev.png" alt="Everyday Rails" style="width:100px" /></a>
         I've blogged at
         <a href="https://leftofthe.dev/">Left of the Dev</a> (formerly Everyday Rails)
         since 2010. It's about whatever's grabbing my attention right now as a software developer,
         with a healthy blend of pragmatic and fun.
     </div>
-    <div class="project project-featured col-md-6">
+    <div class="project project-featured col-lg-6">
         <a href="https://leanpub.com/everydayrailsrspec"><img src="/assets/images/rspec-book-2024-xl.jpg" class="book" style="width: 100px" alt="Everyday Rails Testing with RSpec" /></a>
         Get productive with test-driven development in Rails with
         <a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing
@@ -22,19 +22,19 @@ title: Home
   </div>
 
 <div class="row">
-    <div class="project col-md-4">
+    <div class="project col-lg-4">
         <a href="https://bandageman.com/"><img src="/assets/images/bandageman.png" alt="Bandageman Studios" style="width:100px" /></a>
         <a href="https://bandageman.com/">Bandageman Studios</a>
         is my extremely serious video game empire. Or maybe it's just an excuse for me to learn video game development through silly little games about obscure Pacific Northwest cryptids, and/or my dog.
     </div>
 
-    <div class="project col-md-4">
+    <div class="project col-lg-4">
       <a href="https://ko-fi.com/lowoverhead"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
 <a href="https://ko-fi.com/lowoverhead">Low Overhead Industries</a>
 is my woodworking side project, currently focused on fun
 trinkets created from ordinary scrap wood. Just a lightly-populated online shop for now, hopefully more in 2026.
     </div>
-    <div class="project col-md-4">
+    <div class="project col-lg-4">
       <a href="https://soundrefound.com/">Sound Refound</a> is an online gallery
       of promotional flyers for concerts—you know, the ones we used to see stapled
       to electric posts, fences, and anywhere bills could be posted. I've collected these over the years,
@@ -46,7 +46,7 @@ trinkets created from ordinary scrap wood. Just a lightly-populated online shop 
 <hr />
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-lg-6">
     <h3>Recent posts</h3>
 
     <ul>
@@ -79,7 +79,7 @@ trinkets created from ordinary scrap wood. Just a lightly-populated online shop 
     </p>
   </div>
 
-  <div id="bio" class="col-md-6">
+  <div id="bio" class="col-lg-6">
     <h3>Biography</h3>
 
     <img src="/assets/images/mug2022.jpg" width="175" height="175" alt="photo of the author" class="floater" />
