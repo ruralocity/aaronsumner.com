@@ -162,6 +162,10 @@ img {
      footprint the old Font Awesome fa-2x badges had. */
   #social .bi {
     font-size: 2.5rem; }
+  /* Six icons at Bootstrap's default 1rem nav-link padding run past the
+     container at 390px. */
+  #social .nav-link {
+    --bs-nav-link-padding-x: 0.5rem; }
 
 /* line 61, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .project {

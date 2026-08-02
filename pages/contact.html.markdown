@@ -39,8 +39,13 @@ If you have a question about something from _Everyday Rails Testing with RSpec_,
       </a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="https://flickr.com/photos/rockchalk" aria-label="Flickr">
-        <i class="bi bi-camera" aria-hidden="true"></i>
+      <a class="nav-link" href="https://mastodon.social/@ruralocity" rel="me" aria-label="Mastodon">
+        <i class="bi bi-mastodon" aria-hidden="true"></i>
+      </a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://bsky.app/profile/ruralocity.bsky.social" aria-label="Bluesky">
+        <i class="bi bi-bluesky" aria-hidden="true"></i>
       </a>
     </li>
     <li class="nav-item">
