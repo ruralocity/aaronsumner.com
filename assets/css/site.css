@@ -101,6 +101,13 @@ a {
     text-decoration: none;
     background-color: rgba(99, 17, 17, 0.1); }
 
+/* Bootstrap 5 colors .nav-link from its own variables rather than inheriting,
+   and .nav-link outranks the plain `a` rule above on specificity. Set the
+   variables where Bootstrap declares them, on .nav. */
+.nav {
+  --bs-nav-link-color: #631111;
+  --bs-nav-link-hover-color: #993333; }
+
 /* line 18, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .btn-primary {
   --bs-btn-color: #fff;
@@ -112,8 +119,7 @@ a {
   --bs-btn-active-color: #fff;
   --bs-btn-active-bg: #993333;
   --bs-btn-active-border-color: #993333;
-  --bs-btn-focus-shadow-rgb: 99, 17, 17;
-  text-decoration: none; }
+  --bs-btn-focus-shadow-rgb: 99, 17, 17; }
 
 /* line 32, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 img {

@@ -398,7 +398,7 @@ class, and its glyphs fill only about 0.62em (measured: 19px tall at `2rem`, 40p
     font-size: 2.5rem; }
 ```
 
-The glyphs inherit their maroon color from the existing `a { color: #631111 }` rule, exactly as the Font Awesome ones did.
+Under Bootstrap 3 the glyphs inherit their maroon color from the existing `a { color: #631111 }` rule, exactly as the Font Awesome ones did. Bootstrap 5 breaks that inheritance — see Task 5, which sets `--bs-nav-link-color` to restore it.
 
 - [ ] **Step 6: Delete the Font Awesome CSS**
 
@@ -686,6 +686,31 @@ with a single variable block:
   --bs-btn-active-border-color: #993333;
   --bs-btn-focus-shadow-rgb: 99, 17, 17;
   text-decoration: none; }
+```
+
+- [ ] **Step 11b: Restore maroon nav links**
+
+`.nav-link` does not inherit its color. Bootstrap 5 sets `color: var(--bs-nav-link-color)`,
+which defaults to `var(--bs-link-color)` (`#0d6efd`), and `.nav-link` outranks a bare `a`
+selector on specificity — so the `a { color: #631111 }` rule does not reach the footer nav
+or the social icon row. Both render Bootstrap blue without this.
+
+Verified in the dist:
+```
+.nav{--bs-nav-link-color:var(--bs-link-color);--bs-nav-link-hover-color:var(--bs-link-hover-color);...}
+.nav-link{...color:var(--bs-nav-link-color);...}
+```
+
+Bootstrap declares these on `.nav`, so set them there — equal specificity, and `site.css`
+loads second. Add to `assets/css/site.css`, immediately before the `.btn-primary` block:
+
+```css
+/* Bootstrap 5 colors .nav-link from its own variables rather than inheriting,
+   and .nav-link outranks the plain `a` rule above on specificity. Set the
+   variables where Bootstrap declares them, on .nav. */
+.nav {
+  --bs-nav-link-color: #631111;
+  --bs-nav-link-hover-color: #993333; }
 ```
 
 - [ ] **Step 12: Build and check for regressions**

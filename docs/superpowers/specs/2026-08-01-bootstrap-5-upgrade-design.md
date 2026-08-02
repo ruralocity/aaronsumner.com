@@ -100,7 +100,7 @@ Accessibility: move the name from the icon's `title` attribute to `aria-label` o
 
 ### 3. `site.css` changes
 
-Three additions below, plus the `@font-face` blocks in §4. No compatibility layer, no pinning of Bootstrap 5 defaults back to Bootstrap 3 values.
+Four additions below, plus the `@font-face` blocks in §4. No compatibility layer, no pinning of Bootstrap 5 defaults back to Bootstrap 3 values.
 
 **a. Link underlines.** Bootstrap 5's reboot hardcodes `a { text-decoration: underline }`; Bootstrap 3 did not underline links. Add `text-decoration: none` to the existing `a` rule in `site.css` — it loads after Bootstrap at equal specificity, so it wins. The existing `#content a { text-decoration: underline }` keeps body-copy links underlined. Without this, header and footer nav links gain underlines they do not have today.
 
@@ -115,9 +115,17 @@ body { padding-top: 20px; padding-bottom: 20px; }
 
 The remaining rules in that file target `.jumbotron`, `.marketing`, `.header`, `.footer`, and `.container-narrow` — none of those classes appear in any markup (the layout uses bare `<header>` and `<footer>` elements). They are dropped.
 
-**c. Maroon buttons via custom properties.** The existing `a` color rules need no change — a plain `color` declaration in `site.css` overrides Bootstrap's `rgba(var(--bs-link-color-rgb), …)` at equal specificity because `site.css` loads second.
+**c. Maroon buttons via custom properties.** Ordinary links need no change — a plain `color` declaration in `site.css` overrides Bootstrap's `rgba(var(--bs-link-color-rgb), …)` at equal specificity because `site.css` loads second.
 
-`.btn-primary` is different. Bootstrap 5 drives every button state from `--bs-btn-*` variables, including a focus ring built from `--bs-btn-focus-shadow-rgb` — which stays Bootstrap blue if only `background-color` is overridden. Replace the two plain `.btn-primary` blocks in `site.css` with a single variable block scoped to `.btn-primary`: `--bs-btn-color`, `--bs-btn-bg`, `--bs-btn-border-color`, `--bs-btn-hover-color`, `--bs-btn-hover-bg`, `--bs-btn-hover-border-color`, `--bs-btn-active-bg`, `--bs-btn-active-border-color`, `--bs-btn-focus-shadow-rgb`.
+`.btn-primary` is different. Bootstrap 5 drives every button state from `--bs-btn-*` variables, including a focus ring built from `--bs-btn-focus-shadow-rgb` — which stays Bootstrap blue if only `background-color` is overridden. Replace the two plain `.btn-primary` blocks in `site.css` with a single variable block scoped to `.btn-primary`: `--bs-btn-color`, `--bs-btn-bg`, `--bs-btn-border-color`, `--bs-btn-hover-color`, `--bs-btn-hover-bg`, `--bs-btn-hover-border-color`, `--bs-btn-active-color`, `--bs-btn-active-bg`, `--bs-btn-active-border-color`, `--bs-btn-focus-shadow-rgb`. Nothing but variables belongs in that block — Bootstrap 5 does not underline `.btn`, so no `text-decoration` reset is needed.
+
+**d. Maroon nav links.** `.nav-link` does not inherit its color — Bootstrap 5 sets `color: var(--bs-nav-link-color)`, which defaults to `var(--bs-link-color)` (`#0d6efd`), and `.nav-link` outranks a bare `a` selector on specificity. So the plain `a { color: #631111 }` rule does *not* reach the footer nav or the social icon row; both render Bootstrap blue without this. Set the variables where Bootstrap declares them, on `.nav`:
+
+```css
+.nav {
+  --bs-nav-link-color: #631111;
+  --bs-nav-link-hover-color: #993333; }
+```
 
 The `a:hover` background tint (`rgba(99, 17, 17, 0.1)`) stays as a plain rule.
 
