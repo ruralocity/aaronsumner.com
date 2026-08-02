@@ -1,7 +1,7 @@
 # Bootstrap 3.0.2 → 5.3.8 Upgrade
 
 **Date:** 2026-08-01
-**Goal:** Move to current Bootstrap with as little visual change as possible, so future work can use modern Bootstrap utilities.
+**Goal:** Move to current Bootstrap with as little visual change as possible, so future work can use modern Bootstrap utilities. Along the way, drop the site's remaining third-party asset dependencies — every stylesheet, font, and icon ends up same-origin.
 
 ## Current State
 
@@ -18,6 +18,7 @@
 |---|---|---|
 | Delivery | Vendored `bootstrap.min.css` 5.3.8, no build step | Matches existing workflow. Bootstrap 5.3 exposes `--bs-*` custom properties, so theming needs no Sass. Future upgrades replace one file. |
 | Icons | Inline SVG, delete Font Awesome | Five icons do not justify a 2016 webfont plus 1339 lines of CSS. No new dependency. |
+| Fonts | Self-host Source Sans Pro, drop the Google Fonts link | Removes a live per-visitor request to Google (privacy, third-party availability, extra DNS + TLS on a render-blocking resource). Cross-site font caching stopped working when browsers partitioned the HTTP cache, so the CDN gains nothing. |
 | Fidelity | "Close enough" | Accept small heading/spacing drift from Bootstrap 5 defaults. Do not add compatibility CSS that fights the framework. Fix anything that reads as broken. |
 | Verification | Automated before/after screenshots | Catches regressions on pages easy to forget. |
 | JavaScript | None | No JS components in use. Ship CSS only. |
@@ -30,24 +31,26 @@
 
 - `assets/css/bootstrap.css` (3.0.2)
 - `assets/css/bootstrap-theme.css` — linked nowhere
-- `assets/css/bootstrap-narrow.css` — three live rules move to `site.css` (see §3)
+- `assets/css/bootstrap-narrow.css` — its two live rules move to `site.css` (see §3)
 - `assets/css/all.css` — Middleman scaffold leftover, linked nowhere
 - `assets/css/font-awesome.css`, `assets/css/font-awesome.min.css`
-- `assets/fonts/` (entire directory: glyphicons, Font Awesome webfonts, `cc-icons`)
+- every existing file in `assets/fonts/` (glyphicons, Font Awesome webfonts, `cc-icons`) — the directory itself stays, repopulated with the Source Sans Pro woff2 files below
 
 Verified: no markup or CSS in `_layouts`, `pages`, `index.markdown`, `404.html.markdown`, `_posts`, `_reading`, or `site.css` references `all.css`, `bootstrap-theme`, `cc-icons`, or any `glyphicon` class.
 
 **Add:**
 
 - `assets/css/bootstrap.min.css` — Bootstrap 5.3.8 dist, unmodified
+- `assets/fonts/` — 8 Source Sans Pro woff2 files (see §4)
 
-**Result** — `_layouts/default.html` `<head>` carries three stylesheet links:
+**Result** — `_layouts/default.html` `<head>` carries two stylesheet links, both same-origin:
 
 ```html
 <link href="/assets/css/bootstrap.min.css" rel="stylesheet" />
-<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,400italic,600italic" rel="stylesheet" />
 <link href="/assets/css/site.css" rel="stylesheet" />
 ```
+
+The `//fonts.googleapis.com` link is removed.
 
 ### 2. Markup changes
 
@@ -80,7 +83,7 @@ Replace each `<i class="fa fa-* fa-2x">` with an inline `<svg>` using the equiva
 
 ### 3. `site.css` changes
 
-Three additions. No compatibility layer, no pinning of Bootstrap 5 defaults back to Bootstrap 3 values.
+Three additions below, plus the `@font-face` blocks in §4. No compatibility layer, no pinning of Bootstrap 5 defaults back to Bootstrap 3 values.
 
 **a. Link underlines.** Bootstrap 5 sets `--bs-link-decoration: underline` at `:root` and applies it to every `a`; Bootstrap 3 did not underline links. Set `--bs-link-decoration: none` at `:root` in `site.css`. The existing `#content a { text-decoration: underline }` keeps body-copy links underlined. Without this, header and footer nav links gain underlines they do not have today.
 
@@ -102,7 +105,32 @@ The `a:hover` background tint (`rgba(99, 17, 17, 0.1)`) stays as a plain rule.
 
 Everything else in `site.css` is untouched: Source Sans Pro on body and headings, `.content` typography, `#content`, `.project`, `.project-featured`, `.book`, `.floater`, `.reading`, `.amazon-book-cover`, `.photo-credit`, `#bio`, `#social`, `footer`, `time`, `.mt-100`, and the global `img` rule.
 
-### 4. Accepted visual drift
+### 4. Self-hosted Source Sans Pro
+
+Replaces the `//fonts.googleapis.com` stylesheet link with local `@font-face` rules in `site.css`.
+
+**Files.** Fetch Google's stylesheet with a modern browser User-Agent (so it serves woff2), then download the `latin` and `latin-ext` woff2 for each of the four styles already in use — 400 roman, 400 italic, 600 roman, 600 italic. Eight files total, saved to `assets/fonts/` as `source-sans-pro-{weight}{-italic}-{subset}.woff2`.
+
+Latin-ext is included even though no current content needs it (verified: zero latin-ext codepoints across `_posts`, `_reading`, `pages`, `index.markdown`). Because each `@font-face` carries a `unicode-range`, browsers never download the latin-ext files unless a page actually contains those characters — so it costs 4 files in git and nothing at runtime, and a future accented author name in the reading list won't silently fall back to the system sans.
+
+**CSS.** Eight `@font-face` blocks at the top of `site.css`, copied from Google's own output with the `src` rewritten to `/assets/fonts/…` and `unicode-range` preserved verbatim. Each block adds `font-display: swap` so text renders immediately in the fallback and reflows when the font loads.
+
+```css
+@font-face {
+  font-family: 'Source Sans Pro';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/source-sans-pro-400-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, /* … as published by Google */;
+}
+```
+
+The existing `body` and `h1–h6` `font-family: 'Source Sans Pro', sans-serif` rules are unchanged. Only 400 and 600 are loaded, matching today — requests for `font-weight: 700` (default heading weight, `.project a`) resolve to the 600 face exactly as they do now.
+
+No `<link rel="preload">`. The `@font-face` rules live in `site.css`, which is already render-blocking and same-origin; a preload would save at most one round trip and is easy to get wrong (a missing `crossorigin` causes a double fetch). Add it later if font loading measurably hurts.
+
+### 5. Accepted visual drift
 
 Consequences of Bootstrap 5 defaults that will not be corrected:
 
@@ -110,6 +138,7 @@ Consequences of Bootstrap 5 defaults that will not be corrected:
 - Base `line-height` is 1.5 vs Bootstrap 3's 1.428. `#content` and `.content` already pin their own, so this affects header and footer only.
 - Form controls get Bootstrap 5's larger padding and rounder corners.
 - Nav pill padding and hover treatment differ modestly.
+- Font loading flashes differently on a cold cache. Google's v1 CSS API omits `font-display`, giving the browser default of block-then-swap (invisible text up to 3s); self-hosting with `font-display: swap` shows fallback text immediately, then reflows. Faster to readable, more visible reflow. Self-hosting is also a shorter fetch — no `googleapis.com` stylesheet round trip before the `gstatic.com` font request.
 
 Anything that reads as *broken* — overlapping elements, unstyled controls, lost layout, illegible contrast — gets fixed. A few pixels of heading drift does not.
 
@@ -128,12 +157,14 @@ Also confirm by inspection after the upgrade:
 - Contact form submits (the `netlify` attribute and field `name`s are unchanged)
 - All five social icons render and link correctly
 - No 404s for deleted CSS or font files in the browser network log
+- No requests to `fonts.googleapis.com`, `fonts.gstatic.com`, or any CDN in the network log — every asset except the Plausible analytics script is same-origin
+- Italic text (`<time>` elements, emphasized body copy) renders in Source Sans Pro italic, not a synthesized oblique — confirms the italic faces loaded
 
 ## Out of Scope
 
 - Dark mode / Bootstrap 5.3 color modes
 - Typography or layout refresh
-- Replacing the Google Fonts link with self-hosted fonts
+- Switching to a different typeface, or to the variable-font successor Source Sans 3
 - Adding Bootstrap JavaScript
 - Migrating `site.css` to Sass
 - Fixing the placeholder values in `_config.yml` (`title: Your awesome title`, etc.)
