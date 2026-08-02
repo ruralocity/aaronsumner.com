@@ -75,15 +75,15 @@ mkdir -p /private/tmp/claude-501/-Users-asumner-code-aaronsumner-com/7477baac-2f
 
 Run:
 ```bash
-bundle exec jekyll serve --port 4000
+bundle exec jekyll serve --port 4001
 ```
-Use the Bash tool's `run_in_background: true`. Expected output includes `Server address: http://127.0.0.1:4000/`.
+Use the Bash tool's `run_in_background: true`. Expected output includes `Server address: http://127.0.0.1:4001/`.
 
 - [ ] **Step 4: Verify the server responds**
 
 Run:
 ```bash
-curl -s -o /dev/null -w '%{http_code}' http://localhost:4000/
+curl -s -o /dev/null -w '%{http_code}' http://localhost:4001/
 ```
 Expected: `200`
 
@@ -100,11 +100,11 @@ For each width in `1280x900`, then `390x844`:
 
 | URL | Save as (prefix `before/`) |
 |---|---|
-| `http://localhost:4000/` | `home-{width}.png` |
-| `http://localhost:4000/posts/2026/07/july-2026-update` | `post-{width}.png` |
-| `http://localhost:4000/pages/archives.html` | `archives-{width}.png` |
-| `http://localhost:4000/pages/reading.html` | `reading-{width}.png` |
-| `http://localhost:4000/pages/contact.html` | `contact-{width}.png` |
+| `http://localhost:4001/` | `home-{width}.png` |
+| `http://localhost:4001/posts/2026/07/july-2026-update` | `post-{width}.png` |
+| `http://localhost:4001/pages/archives.html` | `archives-{width}.png` |
+| `http://localhost:4001/pages/reading.html` | `reading-{width}.png` |
+| `http://localhost:4001/pages/contact.html` | `contact-{width}.png` |
 
 If the post URL 404s, run `ls _posts | tail -1` and derive the URL from the filename using the permalink pattern `/posts/:year/:month/:title`.
 
@@ -268,7 +268,7 @@ Expected: `0` then `8`
 
 Run:
 ```bash
-bundle exec jekyll build && curl -s http://localhost:4000/ | grep -c 'googleapis'
+bundle exec jekyll build && curl -s http://localhost:4001/ | grep -c 'googleapis'
 ```
 Expected: build succeeds (`done in N seconds`), then `0`.
 
@@ -276,7 +276,7 @@ Note: `grep -c` exits non-zero on zero matches, so this command reports failure 
 
 - [ ] **Step 8: Visually confirm the font still loads**
 
-Reload `http://localhost:4000/` in the Chrome tab and screenshot it. Body text must still be Source Sans Pro (humanist sans with a distinctive single-story `g`), not a system fallback. If it looks like Helvetica or Arial, the `@font-face` paths are wrong — check the browser network log for 404s under `/assets/fonts/`.
+Reload `http://localhost:4001/` in the Chrome tab and screenshot it. Body text must still be Source Sans Pro (humanist sans with a distinctive single-story `g`), not a system fallback. If it looks like Helvetica or Arial, the `@font-face` paths are wrong — check the browser network log for 404s under `/assets/fonts/`.
 
 - [ ] **Step 9: Commit**
 
@@ -366,7 +366,7 @@ Expected: `0`, then `0`, then a listing with no `font-awesome` entries.
 
 - [ ] **Step 6: Verify visually**
 
-Run `bundle exec jekyll build`, then reload `http://localhost:4000/pages/contact.html` and screenshot it. All five icons must render in maroon at roughly their previous size. Check the browser network log shows no request for `fontawesome-webfont.*`.
+Run `bundle exec jekyll build`, then reload `http://localhost:4001/pages/contact.html` and screenshot it. All five icons must render in maroon at roughly their previous size. Check the browser network log shows no request for `fontawesome-webfont.*`.
 
 - [ ] **Step 7: Commit**
 
@@ -413,7 +413,7 @@ Expected: exactly the 8 `source-sans-pro-*.woff2` files, nothing else.
 
 Run:
 ```bash
-bundle exec jekyll build && curl -s -o /dev/null -w '%{http_code}\n' http://localhost:4000/
+bundle exec jekyll build && curl -s -o /dev/null -w '%{http_code}\n' http://localhost:4001/
 ```
 Expected: build succeeds, then `200`.
 
@@ -641,7 +641,7 @@ Expected: build succeeds; `v5.3.8`; `0` for all three files.
 Run:
 ```bash
 for p in / /pages/archives.html /pages/reading.html /pages/contact.html /pages/books.html; do
-  printf '%s ' "$p"; curl -s -o /dev/null -w '%{http_code}\n' "http://localhost:4000$p"
+  printf '%s ' "$p"; curl -s -o /dev/null -w '%{http_code}\n' "http://localhost:4001$p"
 done
 ```
 Expected: `200` for all five.
@@ -713,9 +713,9 @@ Skip this step if there was nothing to fix.
 
 - [ ] **Step 1: Confirm every asset is same-origin**
 
-With `http://localhost:4000/pages/contact.html` loaded, read the browser network log.
+With `http://localhost:4001/pages/contact.html` loaded, read the browser network log.
 
-Expected: every request is to `localhost:4000` except `plausible.io` (analytics, intentionally third-party). Specifically **zero** requests to `fonts.googleapis.com`, `fonts.gstatic.com`, or `cdn.jsdelivr.net`.
+Expected: every request is to `localhost:4001` except `plausible.io` (analytics, intentionally third-party). Specifically **zero** requests to `fonts.googleapis.com`, `fonts.gstatic.com`, or `cdn.jsdelivr.net`.
 
 - [ ] **Step 2: Confirm no 404s**
 
@@ -723,7 +723,7 @@ Same network log. Every request returns `200`. A 404 under `/assets/` means a de
 
 - [ ] **Step 3: Confirm the italic faces load**
 
-On `http://localhost:4000/`, the `<time>` elements next to recent post titles must render in a true Source Sans Pro italic — genuinely cursive letterforms, not an algorithmically slanted upright. If it looks mechanically sheared, the italic `@font-face` blocks are not matching.
+On `http://localhost:4001/`, the `<time>` elements next to recent post titles must render in a true Source Sans Pro italic — genuinely cursive letterforms, not an algorithmically slanted upright. If it looks mechanically sheared, the italic `@font-face` blocks are not matching.
 
 - [ ] **Step 4: Confirm the contact form is intact**
 
