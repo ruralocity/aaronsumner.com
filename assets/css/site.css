@@ -108,6 +108,17 @@ a {
   --bs-nav-link-color: #631111;
   --bs-nav-link-hover-color: #993333; }
 
+/* Bootstrap 5 hardcodes a blue focus ring in these two rules instead of routing
+   it through a --bs-* variable, and sets outline: 0 — so this glow is the only
+   keyboard-focus indicator these controls have. Restated in maroon to match the
+   submit button, which gets there via --bs-btn-focus-shadow-rgb. */
+.form-control:focus {
+  border-color: #993333;
+  box-shadow: 0 0 0 0.25rem rgba(99, 17, 17, 0.25); }
+
+.nav-link:focus-visible {
+  box-shadow: 0 0 0 0.25rem rgba(99, 17, 17, 0.25); }
+
 /* line 18, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .btn-primary {
   --bs-btn-color: #fff;

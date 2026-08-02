@@ -8,16 +8,16 @@ If you have a question about something from _Everyday Rails Testing with RSpec_,
 <form name="contact" method="POST" netlify action="/pages/thanks.html">
   <div class="mb-3">
     <label for="name" class="form-label">Your name:</label>
-    <input type="text" name="name" class="form-control" />
+    <input type="text" id="name" name="name" class="form-control" />
   </div>
   <div class="mb-3">
     <label for="email" class="form-label form-email">Your email address:</label>
-    <input type="email" name="email" class="form-control" />
+    <input type="email" id="email" name="email" class="form-control" aria-describedby="emailHelp" />
     <small id="emailHelp" class="form-text text-muted">Never shared, just so I can respond to you.</small>
   </div>
   <div class="mb-3">
     <label for="message" class="form-label">Message:</label>
-    <textarea name="message" class="form-control" rows="6"></textarea>
+    <textarea id="message" name="message" class="form-control" rows="6" aria-describedby="messageHelp"></textarea>
     <small id="messageHelp" class="form-text text-muted">Be polite.</small>
   </div>
 
