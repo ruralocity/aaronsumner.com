@@ -58,9 +58,9 @@ trinkets created from ordinary scrap wood. Just a lightly-populated online shop 
       {% endfor %}
     </ul>
 
-    <p>
-      <a href="/pages/archives.html">Hit the archives for more</a>
-    </p>
+    <ul class="nav nav-pills">
+      <li class="nav-item"><a class="nav-link" href="/pages/archives.html"><i class="bi bi-archive" aria-hidden="true"></i> Hit the archives for more</a></li>
+    </ul>
 
     <h3>Now reading</h3>
     <ul>
@@ -74,9 +74,9 @@ trinkets created from ordinary scrap wood. Just a lightly-populated online shop 
       {% endfor %}
     </ul>
 
-    <p>
-      <a href="/pages/reading.html">Complete reading list</a>
-    </p>
+    <ul class="nav nav-pills">
+      <li class="nav-item"><a class="nav-link" href="/pages/reading.html"><i class="bi bi-bookmark" aria-hidden="true"></i> Complete reading list</a></li>
+    </ul>
   </div>
 
   <div id="bio" class="col-lg-6">
