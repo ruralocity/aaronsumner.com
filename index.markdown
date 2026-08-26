@@ -6,7 +6,7 @@ title: Home
 <div id="projects">
   <div class="row">
     <div class="project project-featured col-lg-6">
-        <a href="https://leftofthe.dev/"><img src="/assets/images/left-of-the-dev.png" alt="Everyday Rails" style="width:100px" /></a>
+        <a href="https://leftofthe.dev/"><img src="/assets/images/left-of-the-dev.png" alt="Everyday Rails" style="width:140px" /></a>
         I've blogged at
         <a href="https://leftofthe.dev/">Left of the Dev</a> (formerly Everyday Rails)
         since 2010. It's about whatever's grabbing my attention right now as a software developer,
@@ -16,12 +16,17 @@ title: Home
         <a href="https://leanpub.com/everydayrailsrspec"><img src="/assets/images/rspec-book-2024-xl.jpg" class="book" style="width: 100px" alt="Everyday Rails Testing with RSpec" /></a>
         Get productive with test-driven development in Rails with
         <a href="https://leanpub.com/everydayrailsrspec">Everyday Rails Testing
-        with RSpec</a>! Learn how to <strong>test with confidence</strong> through core fundamentals and
+        with RSpec</a>! Learn how to test with confidence through core fundamentals and
         simple, readable tests that pass.
     </div>
   </div>
 
-<div class="row">
+<div class="row project-row-2">
+    <div class="project col-lg-4">
+        <a href="https://leanpub.com/everydayrails-testing-from-scratch"><img src="/assets/images/rails-minitest.jpg" class="book" style="width: 100px" alt="Testing Rails from Scratch" /></a>
+        Learn to test Ruby on Rails apps using (mostly) what the framework provides in <a href="https://leanpub.com/everydayrails-testing-from-scratch">Testing Rails from Scratch</a>, a practical, (mostly) out-of-the-box approach to test-driven development.
+    </div>
+
     <div class="project col-lg-4">
         <a href="https://bandageman.com/"><img src="/assets/images/bandageman.png" alt="Bandageman Studios" style="width:100px" /></a>
         <a href="https://bandageman.com/">Bandageman Studios</a>
@@ -29,16 +34,22 @@ title: Home
     </div>
 
     <div class="project col-lg-4">
-      <a href="https://ko-fi.com/lowoverhead"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
-<a href="https://ko-fi.com/lowoverhead">Low Overhead Industries</a>
-is my woodworking side project, currently focused on fun
-trinkets created from ordinary scrap wood. Just a lightly-populated online shop for now, hopefully more in 2026.
-    </div>
-    <div class="project col-lg-4">
       <a href="https://soundrefound.com/">Sound Refound</a> is an online gallery
       of promotional flyers for concerts—you know, the ones we used to see stapled
       to electric posts, fences, and anywhere bills could be posted. I've collected these over the years,
       primarily in the Lawrence, Kansas, and Seattle, Washington areas.
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="project col-lg-6">
+      <a href="https://ko-fi.com/lowoverhead"><img src="/assets/images/low-overhead-square.png" style="width: 100px" alt="Low Overhead Industries" /></a>
+      <a href="https://ko-fi.com/lowoverhead">Low Overhead Industries</a>
+is my woodworking side project, currently focused on fun
+trinkets created from ordinary scrap wood. Just a lightly-populated online shop for now, hopefully more in 2026.
+    </div>
+    <div class="project col-lg-6 scroll-down">
+      <a href="#recent-posts">Scroll down for more <i class="bi bi-arrow-down" aria-hidden="true"></i></a>
     </div>
   </div>
 </div>
@@ -46,7 +57,7 @@ trinkets created from ordinary scrap wood. Just a lightly-populated online shop 
 <hr />
 
 <div class="row">
-  <div class="col-lg-6">
+  <div class="col-lg-6" id="recent-posts">
     <h3>Recent posts</h3>
 
     <ul>
@@ -94,8 +105,7 @@ trinkets created from ordinary scrap wood. Just a lightly-populated online shop 
     <p>
       I still write a lot of code in my role as a Software Engineering
       Manager at
-      <a href="https://www.oreilly.com/">O’Reilly Media</a>. Some of the other
-      times <a href="/pages/books.html">I write about writing software as an independent technical author</a> at
+      <a href="https://www.oreilly.com/">O’Reilly Media</a>. I also <a href="/pages/books.html">write about writing software as an independent technical author</a> at
       <a href="https://leftofthe.dev/">Left of the Dev</a>.
     </p>
 

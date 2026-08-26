@@ -190,8 +190,26 @@ img {
 
 /* line 74, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .project-featured {
-  font-size: 20px;
-  line-height: 30px; }
+  font-size: 23px;
+  line-height: 33px; }
+
+/* line 79, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.project-row-2 {
+  font-size: 18px;
+  line-height: 27px; }
+
+/* line 79, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
+.scroll-down {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center; }
+  .scroll-down a {
+    font-size: 20px;
+    transition: font-size 0.2s ease; }
+  .scroll-down a:hover {
+    font-size: 26px;
+    background-color: transparent; }
 
 /* line 79, /Users/asumner/code/aaronsumner.com.middleman/source/css/site.css.scss */
 .book {
@@ -209,6 +227,10 @@ img {
 #bio img {
   float: right;
   margin: 0 0 5px 5px; }
+
+#bio p {
+  font-size: 20px;
+  line-height: 30px; }
 
 /* Contain .floater images so they can't spill into the footer */
 #content {
